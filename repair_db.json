@@ -58,12 +58,12 @@
       "date": "26.02.2026",
       "contact": "89534553194",
       "contact2": "",
-      "name": "Иван",
+      "name": "",
       "comment": "без ремонта",
       "status": "active",
       "price": 0,
       "partsCost": 0,
-      "updatedAt": 1779784880267
+      "updatedAt": 1779784904971
     },
     {
       "id": "arch9",
@@ -230,5 +230,5 @@
     "item-1779780224827-921",
     "item-1779624704198-840"
   ],
-  "updatedAt": 1779784901806
+  "updatedAt": 1779784905280
 }
