@@ -66,16 +66,6 @@
       "updatedAt": 1779784904971
     },
     {
-      "id": "arch3",
-      "model": "A50",
-      "reason": "модуль олед",
-      "date": "21.01.2025",
-      "contact": "89443334455",
-      "status": "archived",
-      "price": 4000,
-      "partsCost": 1800
-    },
-    {
       "id": "arch2",
       "model": "Redmi",
       "reason": "FRP",
@@ -174,7 +164,8 @@
     "arch7",
     "arch6",
     "arch5",
-    "arch4"
+    "arch4",
+    "arch3"
   ],
-  "updatedAt": 1779784942864
+  "updatedAt": 1779784945449
 }
