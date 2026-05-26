@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "передофон",
+      "reason": "",
+      "date": "26.05.2026, 10:14:25",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1779779668237-887",
+      "status": "active",
+      "updatedAt": 1779779668237
+    },
+    {
       "id": "4",
       "model": "Колонка",
       "reason": "разъём питания",
@@ -210,5 +222,5 @@
   "deletedIds": [
     "item-1779625377251-617"
   ],
-  "updatedAt": 1779779663439
+  "updatedAt": 1779779668634
 }
