@@ -13,6 +13,30 @@
       "updatedAt": 1779780224827
     },
     {
+      "model": "Рыба",
+      "reason": "",
+      "date": "24.05.2026, 17:11:39",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1779624704198-840",
+      "status": "active",
+      "updatedAt": 1779624704198
+    },
+    {
+      "model": "Телескоп",
+      "reason": "",
+      "date": "24.05.2026, 14:26:02",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1779614769444-641",
+      "status": "active",
+      "updatedAt": 1779614769444
+    },
+    {
       "id": "4",
       "model": "Колонка",
       "reason": "разъём питания",
@@ -174,7 +198,8 @@
       "contact": "89443334455",
       "status": "archived",
       "price": 3500,
-      "partsCost": 1300
+      "partsCost": 1300,
+      "updatedAt": 1779610872894
     },
     {
       "id": "arch12",
@@ -225,5 +250,5 @@
     "item-1779779851645-722",
     "item-1779779870561-519"
   ],
-  "updatedAt": 1779784168434
+  "updatedAt": 1779784190415
 }
