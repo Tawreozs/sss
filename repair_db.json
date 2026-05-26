@@ -66,16 +66,6 @@
       "updatedAt": 1779784904971
     },
     {
-      "id": "arch4",
-      "model": "a40",
-      "reason": "нет сети",
-      "date": "22.01.2025",
-      "contact": "89554445566",
-      "status": "archived",
-      "price": 2200,
-      "partsCost": 300
-    },
-    {
       "id": "arch3",
       "model": "A50",
       "reason": "модуль олед",
@@ -183,7 +173,8 @@
     "arch8",
     "arch7",
     "arch6",
-    "arch5"
+    "arch5",
+    "arch4"
   ],
-  "updatedAt": 1779784941025
+  "updatedAt": 1779784942864
 }
