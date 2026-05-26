@@ -66,16 +66,6 @@
       "updatedAt": 1779784904971
     },
     {
-      "id": "arch6",
-      "model": "A32",
-      "reason": "Не заряд",
-      "date": "22.01.2025",
-      "contact": "89776667788",
-      "status": "archived",
-      "price": 1800,
-      "partsCost": 200
-    },
-    {
       "id": "arch5",
       "model": "Redmi 12",
       "reason": "дисплей ориг",
@@ -201,7 +191,8 @@
     "item-1779624704198-840",
     "arch9",
     "arch8",
-    "arch7"
+    "arch7",
+    "arch6"
   ],
-  "updatedAt": 1779784935812
+  "updatedAt": 1779784938592
 }
