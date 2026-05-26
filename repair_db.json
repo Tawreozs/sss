@@ -66,17 +66,6 @@
       "updatedAt": 1779784904971
     },
     {
-      "id": "arch2",
-      "model": "Redmi",
-      "reason": "FRP",
-      "date": "20.01.2025",
-      "contact": "89332223344",
-      "name": "Антон",
-      "status": "archived",
-      "price": 1500,
-      "partsCost": 0
-    },
-    {
       "id": "arch15",
       "model": "Колонка",
       "reason": "разъём",
@@ -165,7 +154,8 @@
     "arch6",
     "arch5",
     "arch4",
-    "arch3"
+    "arch3",
+    "arch2"
   ],
-  "updatedAt": 1779784945449
+  "updatedAt": 1779784949016
 }
