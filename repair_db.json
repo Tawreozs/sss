@@ -1,18 +1,6 @@
 {
   "items": [
     {
-      "model": "Телескоп",
-      "reason": "",
-      "date": "24.05.2026, 14:26:02",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1779614769444-641",
-      "status": "active",
-      "updatedAt": 1779614769444
-    },
-    {
       "id": "4",
       "model": "Колонка",
       "reason": "разъём питания",
@@ -90,7 +78,8 @@
     "arch12",
     "arch11",
     "arch10",
-    "arch1"
+    "arch1",
+    "item-1779614769444-641"
   ],
-  "updatedAt": 1779785945769
+  "updatedAt": 1779785952604
 }
