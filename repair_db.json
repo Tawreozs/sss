@@ -66,26 +66,6 @@
       "updatedAt": 1779784904971
     },
     {
-      "id": "arch15",
-      "model": "Колонка",
-      "reason": "разъём",
-      "date": "03.02.2025",
-      "contact": "89665556677",
-      "status": "archived",
-      "price": 1000,
-      "partsCost": 100
-    },
-    {
-      "id": "arch14",
-      "model": "Iphone 14 pro",
-      "reason": "не вкл, нет винтиков снизу, крышка расколота",
-      "date": "29.01.2025",
-      "contact": "89554445566",
-      "status": "archived",
-      "price": 8500,
-      "partsCost": 3000
-    },
-    {
       "id": "arch13",
       "model": "Honor 8x",
       "reason": "модуль",
@@ -155,7 +135,9 @@
     "arch5",
     "arch4",
     "arch3",
-    "arch2"
+    "arch2",
+    "arch15",
+    "arch14"
   ],
-  "updatedAt": 1779784949016
+  "updatedAt": 1779784957789
 }
