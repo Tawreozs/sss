@@ -3,15 +3,16 @@
     {
       "id": "4",
       "model": "Колонка",
-      "reason": "разъём питания",
+      "reason": "Не вкл",
       "date": "12.05.2026",
-      "contact": "89123456789",
-      "contact2": "",
-      "name": "Мария",
-      "comment": "Замена гнезда Micro-USB",
+      "contact": "89128475016",
+      "contact2": "89873469159",
+      "name": "",
+      "comment": "Сгорела микросхема, заказана с Китая",
       "status": "active",
-      "price": 1200,
-      "partsCost": 150
+      "price": 2500,
+      "partsCost": 500,
+      "updatedAt": 1779786480702
     },
     {
       "id": "3",
@@ -81,5 +82,5 @@
     "arch1",
     "item-1779614769444-641"
   ],
-  "updatedAt": 1779786441422
+  "updatedAt": 1779786481804
 }
