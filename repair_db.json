@@ -66,16 +66,6 @@
       "updatedAt": 1779784904971
     },
     {
-      "id": "arch8",
-      "model": "Филипс",
-      "reason": "Замена аккумулятора",
-      "date": "31.01.2025",
-      "contact": "89998889900",
-      "status": "archived",
-      "price": 1500,
-      "partsCost": 400
-    },
-    {
       "id": "arch7",
       "model": "Realme",
       "reason": "кнопка вкл",
@@ -219,7 +209,8 @@
     "item-1779784343198-308",
     "item-1779780224827-921",
     "item-1779624704198-840",
-    "arch9"
+    "arch9",
+    "arch8"
   ],
-  "updatedAt": 1779784931245
+  "updatedAt": 1779784933647
 }
