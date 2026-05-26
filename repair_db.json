@@ -66,16 +66,6 @@
       "updatedAt": 1779784904971
     },
     {
-      "id": "arch5",
-      "model": "Redmi 12",
-      "reason": "дисплей ориг",
-      "date": "23.01.2025",
-      "contact": "89665556677",
-      "status": "archived",
-      "price": 3800,
-      "partsCost": 1400
-    },
-    {
       "id": "arch4",
       "model": "a40",
       "reason": "нет сети",
@@ -192,7 +182,8 @@
     "arch9",
     "arch8",
     "arch7",
-    "arch6"
+    "arch6",
+    "arch5"
   ],
-  "updatedAt": 1779784938592
+  "updatedAt": 1779784941025
 }
