@@ -29,15 +29,16 @@
     {
       "id": "2",
       "model": "Honor 9c",
-      "reason": "модуль в рамке",
+      "reason": "дисплей",
       "date": "04.03.2026",
-      "contact": "89991234567",
+      "contact": "89877754147",
       "contact2": "",
-      "name": "Алексей",
-      "comment": "Запчасть заказана",
+      "name": "",
+      "comment": "",
       "status": "active",
-      "price": 3500,
-      "partsCost": 1500
+      "price": 2500,
+      "partsCost": 670,
+      "updatedAt": 1779786947800
     },
     {
       "id": "1",
@@ -81,5 +82,5 @@
     "arch1",
     "item-1779614769444-641"
   ],
-  "updatedAt": 1779786933012
+  "updatedAt": 1779786948086
 }
