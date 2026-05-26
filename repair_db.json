@@ -1,5 +1,214 @@
 {
-  "items": [],
-  "partsText": "",
-  "updatedAt": "2026-05-26T00:00:00.000Z"
+  "items": [
+    {
+      "id": "4",
+      "model": "Колонка",
+      "reason": "разъём питания",
+      "date": "12.05.2026",
+      "contact": "89123456789",
+      "contact2": "",
+      "name": "Мария",
+      "comment": "Замена гнезда Micro-USB",
+      "status": "active",
+      "price": 1200,
+      "partsCost": 150
+    },
+    {
+      "id": "3",
+      "model": "Spark 20",
+      "reason": "вода",
+      "date": "06.03.2026",
+      "contact": "89001112233",
+      "contact2": "",
+      "name": "Дмитрий",
+      "comment": "После залития, разобрать и почистить платы в ультразвуке",
+      "status": "active",
+      "price": 2500,
+      "partsCost": 400
+    },
+    {
+      "id": "2",
+      "model": "Honor 9c",
+      "reason": "модуль в рамке",
+      "date": "04.03.2026",
+      "contact": "89991234567",
+      "contact2": "",
+      "name": "Алексей",
+      "comment": "Запчасть заказана",
+      "status": "active",
+      "price": 3500,
+      "partsCost": 1500
+    },
+    {
+      "id": "1",
+      "model": "Копия айфона",
+      "reason": "без ремонта",
+      "date": "26.02.2026",
+      "contact": "89534553144",
+      "contact2": "",
+      "name": "Иван",
+      "comment": "Срочный заказ",
+      "status": "active",
+      "price": 0,
+      "partsCost": 0,
+      "updatedAt": 1779610657836
+    },
+    {
+      "id": "arch9",
+      "model": "Samsung Tab 4",
+      "reason": "перезагрузка",
+      "date": "28.01.2025",
+      "contact": "89009990011",
+      "status": "archived",
+      "price": 2800,
+      "partsCost": 500
+    },
+    {
+      "id": "arch8",
+      "model": "Филипс",
+      "reason": "Замена аккумулятора",
+      "date": "31.01.2025",
+      "contact": "89998889900",
+      "status": "archived",
+      "price": 1500,
+      "partsCost": 400
+    },
+    {
+      "id": "arch7",
+      "model": "Realme",
+      "reason": "кнопка вкл",
+      "date": "31.01.2025",
+      "contact": "89887778899",
+      "status": "archived",
+      "price": 1200,
+      "partsCost": 100
+    },
+    {
+      "id": "arch6",
+      "model": "A32",
+      "reason": "Не заряд",
+      "date": "22.01.2025",
+      "contact": "89776667788",
+      "status": "archived",
+      "price": 1800,
+      "partsCost": 200
+    },
+    {
+      "id": "arch5",
+      "model": "Redmi 12",
+      "reason": "дисплей ориг",
+      "date": "23.01.2025",
+      "contact": "89665556677",
+      "status": "archived",
+      "price": 3800,
+      "partsCost": 1400
+    },
+    {
+      "id": "arch4",
+      "model": "a40",
+      "reason": "нет сети",
+      "date": "22.01.2025",
+      "contact": "89554445566",
+      "status": "archived",
+      "price": 2200,
+      "partsCost": 300
+    },
+    {
+      "id": "arch3",
+      "model": "A50",
+      "reason": "модуль олед",
+      "date": "21.01.2025",
+      "contact": "89443334455",
+      "status": "archived",
+      "price": 4000,
+      "partsCost": 1800
+    },
+    {
+      "id": "arch2",
+      "model": "Redmi",
+      "reason": "FRP",
+      "date": "20.01.2025",
+      "contact": "89332223344",
+      "name": "Антон",
+      "status": "archived",
+      "price": 1500,
+      "partsCost": 0
+    },
+    {
+      "id": "arch15",
+      "model": "Колонка",
+      "reason": "разъём",
+      "date": "03.02.2025",
+      "contact": "89665556677",
+      "status": "archived",
+      "price": 1000,
+      "partsCost": 100
+    },
+    {
+      "id": "arch14",
+      "model": "Iphone 14 pro",
+      "reason": "не вкл, нет винтиков снизу, крышка расколота",
+      "date": "29.01.2025",
+      "contact": "89554445566",
+      "status": "archived",
+      "price": 8500,
+      "partsCost": 3000
+    },
+    {
+      "id": "arch13",
+      "model": "Honor 8x",
+      "reason": "модуль",
+      "date": "03.02.2025",
+      "contact": "89443334455",
+      "status": "archived",
+      "price": 3500,
+      "partsCost": 1300
+    },
+    {
+      "id": "arch12",
+      "model": "Honor 6c pro",
+      "reason": "FRP",
+      "date": "03.02.2025",
+      "contact": "89332223344",
+      "status": "archived",
+      "price": 1200,
+      "partsCost": 0
+    },
+    {
+      "id": "arch11",
+      "model": "Hot 12 pro",
+      "reason": "модуль ориг",
+      "date": "03.02.2025",
+      "contact": "89221112233",
+      "status": "archived",
+      "price": 4200,
+      "partsCost": 1600
+    },
+    {
+      "id": "arch10",
+      "model": "ZTE",
+      "reason": "не вкл, прошивка",
+      "date": "27.01.2025",
+      "contact": "89110001122",
+      "status": "archived",
+      "price": 1500,
+      "partsCost": 0
+    },
+    {
+      "id": "arch1",
+      "model": "Iphone 8",
+      "reason": "Разобран клиентом, разорваны шлейфы, ни одного винта",
+      "date": "18.01.2025",
+      "contact": "89221112233",
+      "name": "Сергей",
+      "status": "archived",
+      "price": 4500,
+      "partsCost": 1200
+    }
+  ],
+  "partsText": "8524 разъемы\nирфоны черные\nрадиоприёмник\nP smart 2021 стекло камеры + нижняя плата 500/1500 р. 892286127323\ny8p стекло камеры 89228653148 (100\\400)\nКрышка 12 pro plus 5G 1000 / 2500 р. 89228610735\nгеймпад с курками\nайфон 14 антишпион\nXiaomi 11 Lite 5G NE крышка задняя 500/700 р. 89969243724\n3.5 на 2рца 5 м\nКлава с подсветкой\nwifi адаптер 5g\na207 a20s средняя часть корпуса, шлейф кнопок 89867912659 (1000 р. не брал)\nРазъёмы алкатель\nа31 крышка белая 89878609342\nP smart 2021 стекло камеры 89058188408 200 р.\nРазъем vivo y71\nUSB 128 Gb\nМикро 128 гб\n3rca 1.5m\nАКБ АА 4 шт. по 1000 мАч\nТрансмиттер\nстекло y8p\nСтекло nova 14i\nБольшие уши ПК\nБП 6в 1А\nПодставки\nКабель 100 ватт",
+  "deletedIds": [
+    "item-1779625377251-617"
+  ],
+  "updatedAt": 1779779616078
 }
