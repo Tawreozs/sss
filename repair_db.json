@@ -4,14 +4,14 @@
       "model": "Honor 20 lite",
       "reason": "дисплей ориг",
       "date": "28.05.2026, 13:28:22",
-      "contact": "",
+      "contact": "89991092266",
       "contact2": "",
       "name": "",
       "comment": "+300 за стекло",
       "price": 3500,
       "id": "item-1779957878534-511",
       "status": "active",
-      "updatedAt": 1779958392688,
+      "updatedAt": 1779958409540,
       "partsCost": 950
     },
     {
@@ -140,5 +140,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1779957907000,
-  "updatedAt": 1779958405881
+  "updatedAt": 1779958410026
 }
