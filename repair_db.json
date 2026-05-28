@@ -10,7 +10,8 @@
       "comment": "",
       "id": "item-1779959766717-508",
       "status": "active",
-      "updatedAt": 1779959766717
+      "updatedAt": 1779975260783,
+      "price": 1500
     },
     {
       "model": "Системник",
@@ -165,5 +166,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1779966115780,
-  "updatedAt": 1779975243638
+  "updatedAt": 1779975261340
 }
