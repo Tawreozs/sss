@@ -11,7 +11,8 @@
       "price": 3500,
       "id": "item-1780302904878-414",
       "status": "active",
-      "updatedAt": 1780302904878
+      "updatedAt": 1780318249921,
+      "partsCost": 880
     },
     {
       "model": "Spark Go1",
@@ -212,5 +213,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780309807623,
-  "updatedAt": 1780318204305
+  "updatedAt": 1780318253053
 }
