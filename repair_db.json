@@ -20,11 +20,12 @@
       "contact": "89228013245",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "переборка",
       "price": 1500,
       "id": "item-1780053257316-154",
       "status": "active",
-      "updatedAt": 1780053257316
+      "updatedAt": 1780302343942,
+      "partsCost": 0
     },
     {
       "model": "Системник",
@@ -194,5 +195,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1779966115780,
-  "updatedAt": 1780302322318
+  "updatedAt": 1780302344490
 }
