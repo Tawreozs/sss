@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "P40 lite E",
+      "reason": "модуль ориг",
+      "date": "02.06.2026, 16:46:33",
+      "contact": "89123478850",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1780400865607-882",
+      "status": "active",
+      "updatedAt": 1780400865607
+    },
+    {
       "model": "Meta Quest 3S",
       "reason": "настройка",
       "date": "02.06.2026, 15:24:09",
@@ -242,5 +255,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780322395425,
-  "updatedAt": 1780400865417
+  "updatedAt": 1780400895176
 }
