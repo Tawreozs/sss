@@ -23,7 +23,8 @@
       "price": 3500,
       "id": "item-1780400865607-882",
       "status": "active",
-      "updatedAt": 1780400865607
+      "updatedAt": 1780486097311,
+      "partsCost": 670
     },
     {
       "model": "Meta Quest 3S",
@@ -287,5 +288,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780485319179,
-  "updatedAt": 1780486076076
+  "updatedAt": 1780486098884
 }
