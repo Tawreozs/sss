@@ -27,20 +27,6 @@
       "partsCost": 0
     },
     {
-      "model": "x3 pro",
-      "reason": "не вкл, не заряд",
-      "date": "01.06.2026, 17:57:55",
-      "contact": "89228499536",
-      "contact2": "",
-      "name": "",
-      "comment": "Вздутая АКБ",
-      "id": "item-1780318691317-326",
-      "status": "active",
-      "updatedAt": 1780477868920,
-      "price": 2500,
-      "partsCost": 750
-    },
-    {
       "id": "4",
       "model": "Колонка",
       "reason": "Не вкл",
@@ -123,6 +109,21 @@
       "updatedAt": 1780486288779,
       "partsCost": 670,
       "archivedDate": "03.06.2026, 16:31:28"
+    },
+    {
+      "model": "x3 pro",
+      "reason": "не вкл, не заряд",
+      "date": "01.06.2026, 17:57:55",
+      "contact": "89228499536",
+      "contact2": "",
+      "name": "",
+      "comment": "Вздутая АКБ",
+      "id": "item-1780318691317-326",
+      "status": "archived",
+      "updatedAt": 1780492162497,
+      "price": 2500,
+      "partsCost": 750,
+      "archivedDate": "03.06.2026, 18:09:22"
     },
     {
       "model": "Redmi 10c",
@@ -289,5 +290,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780485319179,
-  "updatedAt": 1780492158476
+  "updatedAt": 1780492163091
 }
