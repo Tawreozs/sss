@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Tecno",
-      "reason": "разъём",
-      "date": "03.06.2026, 13:27:42",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 30,
-      "id": "item-1780475284390-881",
-      "status": "active",
-      "updatedAt": 1780475284390
-    },
-    {
       "model": "P40 lite E",
       "reason": "модуль ориг",
       "date": "02.06.2026, 16:46:33",
@@ -104,6 +90,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Tecno",
+      "reason": "разъём",
+      "date": "03.06.2026, 13:27:42",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 30,
+      "id": "item-1780475284390-881",
+      "status": "archived",
+      "updatedAt": 1780475289324,
+      "archivedDate": "03.06.2026, 13:28:09"
     },
     {
       "model": "Redmi 10c",
@@ -270,5 +271,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780403192704,
-  "updatedAt": 1780475284824
+  "updatedAt": 1780475289799
 }
