@@ -34,10 +34,12 @@
       "contact": "89228499536",
       "contact2": "",
       "name": "",
-      "comment": "Вздутая АКБ + межплатник",
+      "comment": "Вздутая АКБ",
       "id": "item-1780318691317-326",
       "status": "active",
-      "updatedAt": 1780322320363
+      "updatedAt": 1780477868920,
+      "price": 2500,
+      "partsCost": 750
     },
     {
       "id": "4",
@@ -273,5 +275,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780477838827,
-  "updatedAt": 1780477839473
+  "updatedAt": 1780477869454
 }
