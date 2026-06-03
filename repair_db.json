@@ -23,7 +23,9 @@
       "comment": "Анастасия на максе 2й номер, 1500 р.",
       "id": "item-1780395923353-899",
       "status": "active",
-      "updatedAt": 1780395923353
+      "updatedAt": 1780475334449,
+      "price": 1500,
+      "partsCost": 0
     },
     {
       "model": "x3 pro",
@@ -271,5 +273,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780403192704,
-  "updatedAt": 1780475289799
+  "updatedAt": 1780475335141
 }
