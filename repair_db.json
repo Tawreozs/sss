@@ -13,20 +13,6 @@
       "updatedAt": 1780483848213
     },
     {
-      "model": "P40 lite E",
-      "reason": "модуль ориг",
-      "date": "02.06.2026, 16:46:33",
-      "contact": "89123478850",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "id": "item-1780400865607-882",
-      "status": "active",
-      "updatedAt": 1780486097311,
-      "partsCost": 670
-    },
-    {
       "model": "Meta Quest 3S",
       "reason": "настройка",
       "date": "02.06.2026, 15:24:09",
@@ -122,6 +108,21 @@
       "status": "archived",
       "updatedAt": 1780475289324,
       "archivedDate": "03.06.2026, 13:28:09"
+    },
+    {
+      "model": "P40 lite E",
+      "reason": "модуль ориг",
+      "date": "02.06.2026, 16:46:33",
+      "contact": "89123478850",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1780400865607-882",
+      "status": "archived",
+      "updatedAt": 1780486288779,
+      "partsCost": 670,
+      "archivedDate": "03.06.2026, 16:31:28"
     },
     {
       "model": "Redmi 10c",
@@ -288,5 +289,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780485319179,
-  "updatedAt": 1780486286652
+  "updatedAt": 1780486289402
 }
