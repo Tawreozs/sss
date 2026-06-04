@@ -13,20 +13,6 @@
       "updatedAt": 1780483848213
     },
     {
-      "model": "Meta Quest 3S",
-      "reason": "настройка",
-      "date": "02.06.2026, 15:24:09",
-      "contact": "89538377215",
-      "contact2": "89538377214",
-      "name": "Александр",
-      "comment": "Анастасия на максе 2й номер, 1500 р.",
-      "id": "item-1780395923353-899",
-      "status": "active",
-      "updatedAt": 1780563690248,
-      "price": 2000,
-      "partsCost": 0
-    },
-    {
       "id": "4",
       "model": "Колонка",
       "reason": "Не вкл",
@@ -109,6 +95,21 @@
       "updatedAt": 1780486288779,
       "partsCost": 670,
       "archivedDate": "03.06.2026, 16:31:28"
+    },
+    {
+      "model": "Meta Quest 3S",
+      "reason": "настройка",
+      "date": "02.06.2026, 15:24:09",
+      "contact": "89538377215",
+      "contact2": "89538377214",
+      "name": "Александр",
+      "comment": "Анастасия на максе 2й номер, 1500 р.",
+      "id": "item-1780395923353-899",
+      "status": "archived",
+      "updatedAt": 1780563692034,
+      "price": 2000,
+      "partsCost": 0,
+      "archivedDate": "04.06.2026, 14:01:32"
     },
     {
       "model": "x3 pro",
@@ -290,5 +291,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780485319179,
-  "updatedAt": 1780563690744
+  "updatedAt": 1780563692470
 }
