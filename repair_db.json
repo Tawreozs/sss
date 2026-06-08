@@ -26,20 +26,6 @@
       "updatedAt": 1780902746184
     },
     {
-      "model": "Realme 8 4G",
-      "reason": "дисплей",
-      "date": "05.06.2026, 16:39:53",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3000,
-      "partsCost": 1160,
-      "id": "item-1780659623286-774",
-      "status": "active",
-      "updatedAt": 1780926518370
-    },
-    {
       "model": "Samsung A15",
       "reason": "заряжается только тайп-си тайп-си",
       "date": "03.06.2026, 14:28:36",
@@ -119,6 +105,21 @@
       "status": "archived",
       "updatedAt": 1780909709317,
       "archivedDate": "08.06.2026, 14:08:29"
+    },
+    {
+      "model": "Realme 8 4G",
+      "reason": "дисплей",
+      "date": "05.06.2026, 16:39:53",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "partsCost": 1160,
+      "id": "item-1780659623286-774",
+      "status": "archived",
+      "updatedAt": 1780926519879,
+      "archivedDate": "08.06.2026, 18:48:39"
     },
     {
       "model": "модем",
@@ -360,5 +361,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780925244359,
-  "updatedAt": 1780926529847
+  "updatedAt": 1780926568704
 }
