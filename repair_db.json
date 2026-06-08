@@ -33,11 +33,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 4500,
-      "partsCost": 2900,
+      "price": 3000,
+      "partsCost": 1160,
       "id": "item-1780659623286-774",
       "status": "active",
-      "updatedAt": 1780659623286
+      "updatedAt": 1780926518370
     },
     {
       "model": "Samsung A15",
@@ -360,5 +360,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780925244359,
-  "updatedAt": 1780926488986
+  "updatedAt": 1780926520056
 }
