@@ -13,20 +13,6 @@
       "updatedAt": 1780925192799
     },
     {
-      "model": "C30s RMX3690",
-      "reason": "модуль ориг+стекло",
-      "date": "08.06.2026, 12:11:42",
-      "contact": "89225439023",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3800,
-      "id": "item-1780902746184-250",
-      "status": "active",
-      "updatedAt": 1780926827829,
-      "partsCost": 750
-    },
-    {
       "model": "Samsung A15",
       "reason": "заряжается только тайп-си тайп-си",
       "date": "03.06.2026, 14:28:36",
@@ -106,6 +92,21 @@
       "status": "archived",
       "updatedAt": 1780909709317,
       "archivedDate": "08.06.2026, 14:08:29"
+    },
+    {
+      "model": "C30s RMX3690",
+      "reason": "модуль ориг+стекло",
+      "date": "08.06.2026, 12:11:42",
+      "contact": "89225439023",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1780902746184-250",
+      "status": "archived",
+      "updatedAt": 1780926829455,
+      "partsCost": 750,
+      "archivedDate": "08.06.2026, 18:53:49"
     },
     {
       "model": "Realme 8 4G",
@@ -362,5 +363,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780925244359,
-  "updatedAt": 1780926828937
+  "updatedAt": 1780926830033
 }
