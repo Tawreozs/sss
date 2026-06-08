@@ -14,16 +14,17 @@
     },
     {
       "model": "C30s RMX3690",
-      "reason": "модуль ориг",
+      "reason": "модуль ориг+стекло",
       "date": "08.06.2026, 12:11:42",
       "contact": "89225439023",
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 3500,
+      "price": 3800,
       "id": "item-1780902746184-250",
       "status": "active",
-      "updatedAt": 1780902746184
+      "updatedAt": 1780926827829,
+      "partsCost": 750
     },
     {
       "model": "Samsung A15",
@@ -361,5 +362,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780925244359,
-  "updatedAt": 1780926810418
+  "updatedAt": 1780926828937
 }
