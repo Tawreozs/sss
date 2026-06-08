@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Poco",
-      "reason": "застрял сим лоток",
-      "date": "08.06.2026, 14:08:10",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 0,
-      "id": "item-1780909706501-757",
-      "status": "active",
-      "updatedAt": 1780909706501
-    },
-    {
       "model": "C30s RMX3690",
       "reason": "модуль ориг",
       "date": "08.06.2026, 12:11:42",
@@ -106,6 +92,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Poco",
+      "reason": "застрял сим лоток",
+      "date": "08.06.2026, 14:08:10",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1780909706501-757",
+      "status": "archived",
+      "updatedAt": 1780909709317,
+      "archivedDate": "08.06.2026, 14:08:29"
     },
     {
       "model": "модем",
@@ -347,5 +348,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780665256470,
-  "updatedAt": 1780909707096
+  "updatedAt": 1780909709955
 }
