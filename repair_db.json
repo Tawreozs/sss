@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Ноут HP DV6",
-      "reason": "чистка",
-      "date": "09.06.2026, 13:16:18",
-      "contact": "+79128468144",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 0,
-      "id": "item-1780993108516-34",
-      "status": "active",
-      "updatedAt": 1780993108516
-    },
-    {
       "model": "Redmi водопад",
       "reason": "переборка",
       "date": "08.06.2026, 18:26:13",
@@ -91,6 +77,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Ноут HP DV6",
+      "reason": "чистка",
+      "date": "09.06.2026, 13:16:18",
+      "contact": "+79128468144",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 0,
+      "id": "item-1780993108516-34",
+      "status": "archived",
+      "updatedAt": 1781008192294,
+      "archivedDate": "09.06.2026, 17:29:52"
     },
     {
       "model": "Poco",
@@ -377,5 +378,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780993823300,
-  "updatedAt": 1781008187188
+  "updatedAt": 1781008192829
 }
