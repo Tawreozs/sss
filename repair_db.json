@@ -19,10 +19,10 @@
       "contact": "89619287995",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "id": "item-1780478940859-815",
       "status": "active",
-      "updatedAt": 1780483848213
+      "updatedAt": 1781008601842
     },
     {
       "id": "4",
@@ -378,5 +378,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780993823300,
-  "updatedAt": 1781008589484
+  "updatedAt": 1781008602444
 }
