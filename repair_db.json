@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Ноут HP DV6",
+      "reason": "чистка",
+      "date": "09.06.2026, 13:16:18",
+      "contact": "+79128468144",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 0,
+      "id": "item-1780993108516-34",
+      "status": "active",
+      "updatedAt": 1780993108516
+    },
+    {
       "model": "Redmi водопад",
       "reason": "переборка",
       "date": "08.06.2026, 18:26:13",
@@ -363,5 +377,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1780925244359,
-  "updatedAt": 1780993098332
+  "updatedAt": 1780993109204
 }
