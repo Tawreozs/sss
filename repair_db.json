@@ -20,10 +20,12 @@
       "contact": "89619244769",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "оторваны разъёмы на обоих аппаратах",
       "id": "item-1781086466595-152",
       "status": "active",
-      "updatedAt": 1781086466595
+      "updatedAt": 1781098267975,
+      "price": 40000,
+      "partsCost": 0
     },
     {
       "model": "Redmi водопад",
@@ -449,5 +451,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781091861942,
-  "updatedAt": 1781098243474
+  "updatedAt": 1781098268720
 }
