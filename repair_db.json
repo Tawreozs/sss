@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Iphone 13 pro",
+      "reason": "+79226288815",
+      "date": "10.06.2026, 14:21:49",
+      "contact": "",
+      "contact2": "",
+      "name": "Анна",
+      "comment": "",
+      "price": 5400,
+      "partsCost": 680,
+      "id": "item-1781083382119-600",
+      "status": "active",
+      "updatedAt": 1781083382119
+    },
+    {
       "model": "Redmi водопад",
       "reason": "переборка",
       "date": "08.06.2026, 18:26:13",
@@ -394,5 +408,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781009965658,
-  "updatedAt": 1781083378863
+  "updatedAt": 1781083382671
 }
