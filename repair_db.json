@@ -14,16 +14,18 @@
       "updatedAt": 1781091665631
     },
     {
-      "model": "Redmi водопад",
-      "reason": "переборка",
+      "model": "Redmi Note 14 pro",
+      "reason": "отказал тач",
       "date": "08.06.2026, 18:26:13",
       "contact": "89697468113",
       "contact2": "",
-      "name": "",
-      "comment": "",
+      "name": "Алексей",
+      "comment": "дисплей + стекло",
       "id": "item-1780925192799-204",
       "status": "active",
-      "updatedAt": 1780925192799
+      "updatedAt": 1781100316957,
+      "price": 5550,
+      "partsCost": 3900
     },
     {
       "id": "4",
@@ -452,5 +454,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781091861942,
-  "updatedAt": 1781100315159
+  "updatedAt": 1781100317680
 }
