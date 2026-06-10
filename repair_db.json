@@ -89,8 +89,8 @@
       "comment": "оторваны разъёмы на обоих аппаратах",
       "id": "item-1781086466595-152",
       "status": "archived",
-      "updatedAt": 1781098269224,
-      "price": 40000,
+      "updatedAt": 1781098305433,
+      "price": 4000,
       "partsCost": 0,
       "archivedDate": "10.06.2026, 18:31:09"
     },
@@ -452,5 +452,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781091861942,
-  "updatedAt": 1781098270133
+  "updatedAt": 1781098306577
 }
