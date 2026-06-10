@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "системник",
-      "reason": "диагностика + замена батарейки",
-      "date": "10.06.2026, 14:21:18",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 600,
-      "partsCost": 10,
-      "id": "item-1781083302782-725",
-      "status": "active",
-      "updatedAt": 1781083302782
-    },
-    {
       "model": "Redmi водопад",
       "reason": "переборка",
       "date": "08.06.2026, 18:26:13",
@@ -79,6 +65,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "системник",
+      "reason": "диагностика + замена батарейки",
+      "date": "10.06.2026, 14:21:18",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 600,
+      "partsCost": 10,
+      "id": "item-1781083302782-725",
+      "status": "archived",
+      "updatedAt": 1781083304566,
+      "archivedDate": "10.06.2026, 14:21:44"
     },
     {
       "model": "Ноут HP DV6",
@@ -393,5 +394,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781009965658,
-  "updatedAt": 1781083303387
+  "updatedAt": 1781083305198
 }
