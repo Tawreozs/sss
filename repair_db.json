@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Iphone 13 pro",
-      "reason": "+79226288815",
-      "date": "10.06.2026, 14:21:49",
-      "contact": "",
-      "contact2": "",
-      "name": "Анна",
-      "comment": "",
-      "price": 5400,
-      "partsCost": 680,
-      "id": "item-1781083382119-600",
-      "status": "active",
-      "updatedAt": 1781083382119
-    },
-    {
       "model": "Redmi водопад",
       "reason": "переборка",
       "date": "08.06.2026, 18:26:13",
@@ -79,6 +65,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Iphone 13 pro",
+      "reason": "+79226288815",
+      "date": "10.06.2026, 14:21:49",
+      "contact": "",
+      "contact2": "",
+      "name": "Анна",
+      "comment": "",
+      "price": 5400,
+      "partsCost": 680,
+      "id": "item-1781083382119-600",
+      "status": "archived",
+      "updatedAt": 1781083385432,
+      "archivedDate": "10.06.2026, 14:23:05"
     },
     {
       "model": "системник",
@@ -408,5 +409,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781009965658,
-  "updatedAt": 1781083382671
+  "updatedAt": 1781083385999
 }
