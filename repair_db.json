@@ -32,12 +32,12 @@
       "contact": "89228592326",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "переборка",
       "price": 500,
       "partsCost": 0,
       "id": "item-1781086239008-695",
       "status": "active",
-      "updatedAt": 1781086239008
+      "updatedAt": 1781093713568
     },
     {
       "model": "Redmi водопад",
@@ -448,5 +448,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781091861942,
-  "updatedAt": 1781093695517
+  "updatedAt": 1781093714738
 }
