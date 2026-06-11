@@ -15,20 +15,6 @@
       "updatedAt": 1781183790346
     },
     {
-      "model": "Hot 30i",
-      "reason": "FRP",
-      "date": "11.06.2026, 16:06:32",
-      "contact": "89225379990",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "partsCost": 150,
-      "id": "item-1781176015293-244",
-      "status": "active",
-      "updatedAt": 1781177666467
-    },
-    {
       "id": "4",
       "model": "Колонка",
       "reason": "Не вкл",
@@ -81,6 +67,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Hot 30i",
+      "reason": "FRP",
+      "date": "11.06.2026, 16:06:32",
+      "contact": "89225379990",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 150,
+      "id": "item-1781176015293-244",
+      "status": "archived",
+      "updatedAt": 1781184068720,
+      "archivedDate": "11.06.2026, 18:21:08"
     },
     {
       "model": "X7c",
@@ -485,5 +486,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781174815846,
-  "updatedAt": 1781184065207
+  "updatedAt": 1781184069411
 }
