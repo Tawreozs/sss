@@ -9,10 +9,10 @@
       "name": "",
       "comment": "",
       "price": 1500,
-      "partsCost": 0,
+      "partsCost": 150,
       "id": "item-1781176015293-244",
       "status": "active",
-      "updatedAt": 1781176015293
+      "updatedAt": 1781177666467
     },
     {
       "model": "X7c",
@@ -470,5 +470,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781174815846,
-  "updatedAt": 1781177661352
+  "updatedAt": 1781177667125
 }
