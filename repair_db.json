@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Hot 30i",
+      "reason": "FRP",
+      "date": "11.06.2026, 16:06:32",
+      "contact": "89225379990",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1781176015293-244",
+      "status": "active",
+      "updatedAt": 1781176015293
+    },
+    {
       "model": "X7c",
       "reason": "Модуль ориг + стекло",
       "date": "10.06.2026, 16:40:13",
@@ -456,5 +470,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781174815846,
-  "updatedAt": 1781175990185
+  "updatedAt": 1781176015907
 }
