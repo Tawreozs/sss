@@ -83,17 +83,17 @@
     },
     {
       "model": "Pova 6",
-      "reason": "модуль ориг",
+      "reason": "модуль ориг со стеклом",
       "date": "15.06.2026, 12:46:32",
       "contact": "89096097958",
       "contact2": "",
       "name": "Кирилл",
       "comment": "",
-      "price": 5000,
-      "partsCost": 2990,
+      "price": 5300,
+      "partsCost": 3070,
       "id": "item-1781509720114-459",
       "status": "archived",
-      "updatedAt": 1781528549703,
+      "updatedAt": 1781528578034,
       "archivedDate": "15.06.2026, 18:02:29"
     },
     {
@@ -529,5 +529,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781522746680,
-  "updatedAt": 1781528550300
+  "updatedAt": 1781528578766
 }
