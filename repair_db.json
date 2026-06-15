@@ -13,20 +13,6 @@
       "updatedAt": 1781523010203
     },
     {
-      "model": "Hot 30i",
-      "reason": "дисплей",
-      "date": "15.06.2026, 13:02:53",
-      "contact": "89538371977",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2500,
-      "partsCost": 630,
-      "id": "item-1781510612471-589",
-      "status": "active",
-      "updatedAt": 1781528041009
-    },
-    {
       "model": "Pova 6",
       "reason": "модуль ориг",
       "date": "15.06.2026, 12:46:32",
@@ -93,6 +79,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Hot 30i",
+      "reason": "дисплей",
+      "date": "15.06.2026, 13:02:53",
+      "contact": "89538371977",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "partsCost": 630,
+      "id": "item-1781510612471-589",
+      "status": "archived",
+      "updatedAt": 1781528044446,
+      "archivedDate": "15.06.2026, 17:54:04"
     },
     {
       "model": "Honor 10x lite",
@@ -527,5 +528,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781522746680,
-  "updatedAt": 1781528041600
+  "updatedAt": 1781528044991
 }
