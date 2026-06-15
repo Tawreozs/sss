@@ -1,16 +1,16 @@
 {
   "items": [
     {
-      "model": "Ноут",
-      "reason": "",
+      "model": "Ноут Lenovo",
+      "reason": "не заряжается, не включается",
       "date": "15.06.2026, 18:03:18",
-      "contact": "",
+      "contact": "89878923132",
       "contact2": "",
       "name": "",
       "comment": "",
       "id": "item-1781528608367-369",
       "status": "active",
-      "updatedAt": 1781528608367
+      "updatedAt": 1781528637638
     },
     {
       "model": "redmi 9с",
@@ -541,5 +541,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781522746680,
-  "updatedAt": 1781528609160
+  "updatedAt": 1781528638223
 }
