@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Плата от колонки",
-      "reason": "разъём",
-      "date": "17.06.2026, 15:12:42",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 600,
-      "partsCost": 0,
-      "id": "item-1781691183950-55",
-      "status": "active",
-      "updatedAt": 1781691183950
-    },
-    {
       "model": "Iphone 14",
       "reason": "дисплей 100%",
       "date": "17.06.2026, 13:56:38",
@@ -155,6 +141,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Плата от колонки",
+      "reason": "разъём",
+      "date": "17.06.2026, 15:12:42",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 600,
+      "partsCost": 0,
+      "id": "item-1781691183950-55",
+      "status": "archived",
+      "updatedAt": 1781691322786,
+      "archivedDate": "17.06.2026, 15:15:22"
     },
     {
       "model": "Hot 30i",
@@ -619,5 +620,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781596843705,
-  "updatedAt": 1781691322047
+  "updatedAt": 1781691323324
 }
