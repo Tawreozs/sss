@@ -2,7 +2,7 @@
   "items": [
     {
       "model": "Realme c31",
-      "reason": "ращхем",
+      "reason": "разъем",
       "date": "17.06.2026, 16:27:43",
       "contact": "89959281224",
       "contact2": "89959665474",
@@ -12,7 +12,7 @@
       "partsCost": 20,
       "id": "item-1781695722412-785",
       "status": "active",
-      "updatedAt": 1781695722412
+      "updatedAt": 1781704561216
     },
     {
       "model": "Iphone 14",
@@ -653,5 +653,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781596843705,
-  "updatedAt": 1781704533932
+  "updatedAt": 1781704562808
 }
