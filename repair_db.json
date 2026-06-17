@@ -49,9 +49,10 @@
       "name": "",
       "comment": "стёкло в подарок, код 357753",
       "price": 3500,
+      "partsCost": 720,
       "id": "item-1781683336771-857",
       "status": "active",
-      "updatedAt": 1781683353550
+      "updatedAt": 1781704437817
     },
     {
       "model": "Poco c85",
@@ -649,5 +650,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781596843705,
-  "updatedAt": 1781704432478
+  "updatedAt": 1781704438422
 }
