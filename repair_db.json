@@ -7,11 +7,11 @@
       "contact": "89878482137",
       "contact2": "",
       "name": "",
-      "comment": "стёкло в подарок",
+      "comment": "стёкло в подарок, код 357753",
       "price": 3500,
       "id": "item-1781683336771-857",
       "status": "active",
-      "updatedAt": 1781683336771
+      "updatedAt": 1781683353550
     },
     {
       "model": "Poco",
@@ -579,5 +579,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781596843705,
-  "updatedAt": 1781683337546
+  "updatedAt": 1781683354669
 }
