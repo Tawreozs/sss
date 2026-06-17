@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Reno 7",
+      "reason": "дисплей",
+      "date": "17.06.2026, 13:06:37",
+      "contact": "89228293665",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 5000,
+      "id": "item-1781683625987-253",
+      "status": "active",
+      "updatedAt": 1781683625987
+    },
+    {
       "model": "Pova neo 2",
       "reason": "дисплей + разъём",
       "date": "17.06.2026, 13:01:14",
@@ -579,5 +592,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781596843705,
-  "updatedAt": 1781683596295
+  "updatedAt": 1781683626504
 }
