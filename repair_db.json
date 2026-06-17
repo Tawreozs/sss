@@ -36,23 +36,10 @@
       "name": "",
       "comment": "",
       "price": 5000,
+      "partsCost": 2960,
       "id": "item-1781683625987-253",
       "status": "active",
-      "updatedAt": 1781683625987
-    },
-    {
-      "model": "Pova neo 2",
-      "reason": "дисплей + разъём + стекло в подарок",
-      "date": "17.06.2026, 13:01:14",
-      "contact": "89878482137",
-      "contact2": "",
-      "name": "",
-      "comment": "стёкло в подарок, код 357753",
-      "price": 3500,
-      "partsCost": 720,
-      "id": "item-1781683336771-857",
-      "status": "active",
-      "updatedAt": 1781704448758
+      "updatedAt": 1781704485771
     },
     {
       "model": "Poco c85",
@@ -186,6 +173,21 @@
       "status": "archived",
       "updatedAt": 1781691322786,
       "archivedDate": "17.06.2026, 15:15:22"
+    },
+    {
+      "model": "Pova neo 2",
+      "reason": "дисплей + разъём + стекло в подарок",
+      "date": "17.06.2026, 13:01:14",
+      "contact": "89878482137",
+      "contact2": "",
+      "name": "",
+      "comment": "стёкло в подарок, код 357753",
+      "price": 3500,
+      "partsCost": 720,
+      "id": "item-1781683336771-857",
+      "status": "archived",
+      "updatedAt": 1781704449972,
+      "archivedDate": "17.06.2026, 18:54:09"
     },
     {
       "model": "Hot 30i",
@@ -650,5 +652,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781596843705,
-  "updatedAt": 1781704450525
+  "updatedAt": 1781704487622
 }
