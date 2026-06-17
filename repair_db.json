@@ -29,7 +29,7 @@
     },
     {
       "model": "Reno 7",
-      "reason": "дисплей",
+      "reason": "дисплей олед",
       "date": "17.06.2026, 13:06:37",
       "contact": "89228293665",
       "contact2": "",
@@ -39,7 +39,7 @@
       "partsCost": 2960,
       "id": "item-1781683625987-253",
       "status": "active",
-      "updatedAt": 1781704485771
+      "updatedAt": 1781704492834
     },
     {
       "model": "Poco c85",
@@ -652,5 +652,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781596843705,
-  "updatedAt": 1781704487622
+  "updatedAt": 1781704493462
 }
