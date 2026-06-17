@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Настройка 2х телефонов",
-      "reason": "",
-      "date": "17.06.2026, 15:25:42",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 400,
-      "partsCost": 0,
-      "id": "item-1781691955717-216",
-      "status": "active",
-      "updatedAt": 1781691955717
-    },
-    {
       "model": "Iphone 14",
       "reason": "дисплей 100%",
       "date": "17.06.2026, 13:56:38",
@@ -155,6 +141,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Настройка 2х телефонов",
+      "reason": "",
+      "date": "17.06.2026, 15:25:42",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 400,
+      "partsCost": 0,
+      "id": "item-1781691955717-216",
+      "status": "archived",
+      "updatedAt": 1781691958012,
+      "archivedDate": "17.06.2026, 15:25:58"
     },
     {
       "model": "Плата от колонки",
@@ -634,5 +635,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781596843705,
-  "updatedAt": 1781691956511
+  "updatedAt": 1781691958750
 }
