@@ -27,20 +27,6 @@
       "updatedAt": 1781704561216
     },
     {
-      "model": "Iphone 14",
-      "reason": "дисплей oled",
-      "date": "17.06.2026, 13:56:38",
-      "contact": "89225477561",
-      "contact2": "89538343581",
-      "name": "",
-      "comment": "",
-      "price": 6000,
-      "id": "item-1781686658602-211",
-      "status": "active",
-      "updatedAt": 1781779511526,
-      "partsCost": 3000
-    },
-    {
       "model": "колонка-часы",
       "reason": "разъём",
       "date": "16.06.2026, 15:11:44",
@@ -174,6 +160,21 @@
       "status": "archived",
       "updatedAt": 1781691322786,
       "archivedDate": "17.06.2026, 15:15:22"
+    },
+    {
+      "model": "Iphone 14",
+      "reason": "дисплей oled",
+      "date": "17.06.2026, 13:56:38",
+      "contact": "89225477561",
+      "contact2": "89538343581",
+      "name": "",
+      "comment": "",
+      "price": 6000,
+      "id": "item-1781686658602-211",
+      "status": "archived",
+      "updatedAt": 1781779514926,
+      "partsCost": 3000,
+      "archivedDate": "18.06.2026, 15:45:14"
     },
     {
       "model": "Reno 7",
@@ -683,5 +684,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781774811057,
-  "updatedAt": 1781779512238
+  "updatedAt": 1781779515588
 }
