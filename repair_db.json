@@ -13,20 +13,6 @@
       "updatedAt": 1781704792435
     },
     {
-      "model": "Realme c31",
-      "reason": "разъем",
-      "date": "17.06.2026, 16:27:43",
-      "contact": "89959281224",
-      "contact2": "89959665474",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "partsCost": 20,
-      "id": "item-1781695722412-785",
-      "status": "active",
-      "updatedAt": 1781789125608
-    },
-    {
       "model": "redmi 9с",
       "reason": "не вкл, не заряд",
       "date": "15.06.2026, 14:44:01",
@@ -106,6 +92,21 @@
       "status": "archived",
       "updatedAt": 1781778478768,
       "archivedDate": "18.06.2026, 15:27:58"
+    },
+    {
+      "model": "Realme c31",
+      "reason": "разъем",
+      "date": "17.06.2026, 16:27:43",
+      "contact": "89959281224",
+      "contact2": "89959665474",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 20,
+      "id": "item-1781695722412-785",
+      "status": "archived",
+      "updatedAt": 1781789126568,
+      "archivedDate": "18.06.2026, 18:25:26"
     },
     {
       "model": "Настройка 2х телефонов",
@@ -690,5 +691,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781782093825,
-  "updatedAt": 1781789126381
+  "updatedAt": 1781789217925
 }
