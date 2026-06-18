@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Redmi 12",
+      "reason": "много проблем",
+      "date": "18.06.2026, 15:27:28",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "купил другой телефон",
+      "price": 5000,
+      "partsCost": 4000,
+      "id": "item-1781778474671-663",
+      "status": "active",
+      "updatedAt": 1781778474671
+    },
+    {
       "model": "Infinix Smart 8",
       "reason": "дисплей",
       "date": "17.06.2026, 18:59:30",
@@ -667,5 +681,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781774811057,
-  "updatedAt": 1781778449755
+  "updatedAt": 1781778475359
 }
