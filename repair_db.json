@@ -50,7 +50,8 @@
       "price": 2800,
       "id": "item-1781682321523-423",
       "status": "active",
-      "updatedAt": 1781695747302
+      "updatedAt": 1781776578348,
+      "partsCost": 870
     },
     {
       "model": "колонка-часы",
@@ -665,5 +666,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781774811057,
-  "updatedAt": 1781776572433
+  "updatedAt": 1781776579089
 }
