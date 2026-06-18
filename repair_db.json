@@ -28,16 +28,17 @@
     },
     {
       "model": "Iphone 14",
-      "reason": "дисплей 100%",
+      "reason": "дисплей oled",
       "date": "17.06.2026, 13:56:38",
       "contact": "89225477561",
       "contact2": "89538343581",
       "name": "",
       "comment": "",
-      "price": 7500,
+      "price": 6000,
       "id": "item-1781686658602-211",
       "status": "active",
-      "updatedAt": 1781686658602
+      "updatedAt": 1781779511526,
+      "partsCost": 3000
     },
     {
       "model": "колонка-часы",
@@ -682,5 +683,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781774811057,
-  "updatedAt": 1781779495935
+  "updatedAt": 1781779512238
 }
