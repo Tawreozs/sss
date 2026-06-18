@@ -33,10 +33,10 @@
       "contact": "89878923132",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "блок питания",
       "id": "item-1781528608367-369",
       "status": "active",
-      "updatedAt": 1781783063504,
+      "updatedAt": 1781783081724,
       "price": 1500,
       "partsCost": 650
     },
@@ -689,5 +689,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781782093825,
-  "updatedAt": 1781783064385
+  "updatedAt": 1781783082476
 }
