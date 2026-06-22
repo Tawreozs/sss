@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Asus Tuf",
+      "reason": "пропала видеокарта",
+      "date": "22.06.2026, 18:13:29",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1782134034803-587",
+      "status": "active",
+      "updatedAt": 1782134034803
+    },
+    {
       "model": "Redmi note 8 pro",
       "reason": "акб + крышка",
       "date": "22.06.2026, 18:01:51",
@@ -749,5 +763,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781871071419,
-  "updatedAt": 1782134029041
+  "updatedAt": 1782134035477
 }
