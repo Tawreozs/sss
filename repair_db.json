@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Honor",
+      "reason": "Дисплей + стекло",
+      "date": "22.06.2026, 18:27:53",
+      "contact": "89873479099",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1782134929342-686",
+      "status": "active",
+      "updatedAt": 1782134929342
+    },
+    {
       "model": "Redmi note 8 pro",
       "reason": "акб + крышка",
       "date": "22.06.2026, 18:01:51",
@@ -764,5 +776,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781871071419,
-  "updatedAt": 1782134911705
+  "updatedAt": 1782134930000
 }
