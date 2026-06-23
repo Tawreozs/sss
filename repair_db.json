@@ -23,7 +23,8 @@
       "price": 3000,
       "id": "item-1782133349338-704",
       "status": "active",
-      "updatedAt": 1782133349338
+      "updatedAt": 1782208378291,
+      "partsCost": 750
     },
     {
       "model": "Poco X3 pro",
@@ -776,5 +777,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1781871071419,
-  "updatedAt": 1782208376213
+  "updatedAt": 1782208378952
 }
