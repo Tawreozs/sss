@@ -13,20 +13,6 @@
       "updatedAt": 1781873057461
     },
     {
-      "model": "Яндекс алиса лайт",
-      "reason": "разъем ЗУ",
-      "date": "19.06.2026, 15:40:19",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1300,
-      "partsCost": 135,
-      "id": "item-1781865662566-169",
-      "status": "active",
-      "updatedAt": 1781865662566
-    },
-    {
       "model": "redmi 9с",
       "reason": "не вкл, не заряд",
       "date": "15.06.2026, 14:44:01",
@@ -137,6 +123,21 @@
       "price": 7800,
       "partsCost": 4580,
       "archivedDate": "22.06.2026, 17:32:17"
+    },
+    {
+      "model": "Яндекс алиса лайт",
+      "reason": "разъем ЗУ",
+      "date": "19.06.2026, 15:40:19",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1300,
+      "partsCost": 135,
+      "id": "item-1781865662566-169",
+      "status": "archived",
+      "updatedAt": 1782222748757,
+      "archivedDate": "23.06.2026, 18:52:28"
     },
     {
       "model": "Redmi 12",
@@ -781,5 +782,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782212251117,
-  "updatedAt": 1782222744183
+  "updatedAt": 1782222749432
 }
