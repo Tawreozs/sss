@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Redmi note 8 pro",
-      "reason": "акб + крышка",
-      "date": "22.06.2026, 18:01:51",
-      "contact": "89228792360",
-      "contact2": "",
-      "name": "Светлана",
-      "comment": "",
-      "price": 3000,
-      "id": "item-1782133349338-704",
-      "status": "active",
-      "updatedAt": 1782208378291,
-      "partsCost": 750
-    },
-    {
       "model": "Poco X3 pro",
       "reason": "выключается и не включается",
       "date": "19.06.2026, 17:43:39",
@@ -121,6 +107,21 @@
       "status": "archived",
       "updatedAt": 1782134037014,
       "archivedDate": "22.06.2026, 18:13:57"
+    },
+    {
+      "model": "Redmi note 8 pro",
+      "reason": "акб + крышка",
+      "date": "22.06.2026, 18:01:51",
+      "contact": "89228792360",
+      "contact2": "",
+      "name": "Светлана",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1782133349338-704",
+      "status": "archived",
+      "updatedAt": 1782220280825,
+      "partsCost": 750,
+      "archivedDate": "23.06.2026, 18:11:20"
     },
     {
       "model": "A55",
@@ -780,5 +781,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782212251117,
-  "updatedAt": 1782220277466
+  "updatedAt": 1782220281593
 }
