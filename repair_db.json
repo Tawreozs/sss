@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Poco X3 pro",
-      "reason": "выключается и не включается",
-      "date": "19.06.2026, 17:43:39",
-      "contact": "89228444099",
-      "contact2": "",
-      "name": "",
-      "comment": "перекатали проц",
-      "id": "item-1781873057461-407",
-      "status": "active",
-      "updatedAt": 1782288068797,
-      "price": 3500,
-      "partsCost": 3500
-    },
-    {
       "model": "redmi 9с",
       "reason": "не вкл, не заряд",
       "date": "15.06.2026, 14:44:01",
@@ -125,6 +111,21 @@
       "price": 7800,
       "partsCost": 4580,
       "archivedDate": "22.06.2026, 17:32:17"
+    },
+    {
+      "model": "Poco X3 pro",
+      "reason": "выключается и не включается",
+      "date": "19.06.2026, 17:43:39",
+      "contact": "89228444099",
+      "contact2": "",
+      "name": "",
+      "comment": "перекатали проц",
+      "id": "item-1781873057461-407",
+      "status": "archived",
+      "updatedAt": 1782288070156,
+      "price": 3500,
+      "partsCost": 3500,
+      "archivedDate": "24.06.2026, 13:01:10"
     },
     {
       "model": "Яндекс алиса лайт",
@@ -784,5 +785,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782212251117,
-  "updatedAt": 1782288069490
+  "updatedAt": 1782288071168
 }
