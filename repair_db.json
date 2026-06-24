@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "redmi 9с",
-      "reason": "не вкл, не заряд",
-      "date": "15.06.2026, 14:44:01",
-      "contact": "89877778044",
-      "contact2": "",
-      "name": "",
-      "comment": "без ремонта",
-      "id": "item-1781516665031-631",
-      "status": "active",
-      "updatedAt": 1782288086085,
-      "price": 0,
-      "partsCost": 0
-    },
-    {
       "id": "3",
       "model": "Spark 20",
       "reason": "вода",
@@ -308,6 +294,21 @@
       "price": 1500,
       "partsCost": 650,
       "archivedDate": "18.06.2026, 16:44:42"
+    },
+    {
+      "model": "redmi 9с",
+      "reason": "не вкл, не заряд",
+      "date": "15.06.2026, 14:44:01",
+      "contact": "89877778044",
+      "contact2": "",
+      "name": "",
+      "comment": "без ремонта",
+      "id": "item-1781516665031-631",
+      "status": "archived",
+      "updatedAt": 1782288086897,
+      "price": 0,
+      "partsCost": 0,
+      "archivedDate": "24.06.2026, 13:01:26"
     },
     {
       "model": "Hot 30i",
@@ -787,5 +788,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782212251117,
-  "updatedAt": 1782288086830
+  "updatedAt": 1782288133675
 }
