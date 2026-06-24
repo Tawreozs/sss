@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Infinix X6850",
-      "reason": "FRP",
-      "date": "24.06.2026, 17:50:21",
-      "contact": "89058400673",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "partsCost": 150,
-      "id": "item-1782305437852-778",
-      "status": "active",
-      "updatedAt": 1782306826433
-    },
-    {
       "model": "Nova y70",
       "reason": "вода на нижней плате и под модулем",
       "date": "24.06.2026, 15:42:36",
@@ -80,6 +66,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Infinix X6850",
+      "reason": "FRP",
+      "date": "24.06.2026, 17:50:21",
+      "contact": "89058400673",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 150,
+      "id": "item-1782305437852-778",
+      "status": "archived",
+      "updatedAt": 1782307428655,
+      "archivedDate": "24.06.2026, 18:23:48"
     },
     {
       "model": "A245F",
@@ -844,5 +845,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782298175346,
-  "updatedAt": 1782307424002
+  "updatedAt": 1782307429184
 }
