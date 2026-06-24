@@ -7,10 +7,12 @@
       "contact": "89228444099",
       "contact2": "",
       "name": "",
-      "comment": "код 1980",
+      "comment": "перекатали проц",
       "id": "item-1781873057461-407",
       "status": "active",
-      "updatedAt": 1781873057461
+      "updatedAt": 1782288068797,
+      "price": 3500,
+      "partsCost": 3500
     },
     {
       "model": "redmi 9с",
@@ -782,5 +784,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782212251117,
-  "updatedAt": 1782288056094
+  "updatedAt": 1782288069490
 }
