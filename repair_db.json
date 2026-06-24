@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Nova y70",
+      "reason": "вода на нижней плате и под модулем",
+      "date": "24.06.2026, 15:42:36",
+      "contact": "89619244769",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "partsCost": 630,
+      "id": "item-1782298129748-559",
+      "status": "active",
+      "updatedAt": 1782298129748
+    },
+    {
       "model": "Reno 7",
       "reason": "вздутая акб",
       "date": "24.06.2026, 13:53:16",
@@ -816,5 +830,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782290307088,
-  "updatedAt": 1782298122434
+  "updatedAt": 1782298130379
 }
