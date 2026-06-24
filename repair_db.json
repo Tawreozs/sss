@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "A245F",
+      "reason": "не работает кнопка вкл",
+      "date": "24.06.2026, 15:01:39",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1782295314605-875",
+      "status": "active",
+      "updatedAt": 1782295314605
+    },
+    {
       "model": "Reno 7",
       "reason": "вздутая акб",
       "date": "24.06.2026, 13:53:16",
@@ -801,5 +815,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782290307088,
-  "updatedAt": 1782295299042
+  "updatedAt": 1782295315212
 }
