@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Iphone",
-      "reason": "нет изо",
-      "date": "29.06.2026, 17:54:35",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "переборка",
-      "price": 1500,
-      "partsCost": 0,
-      "id": "item-1782737688579-460",
-      "status": "active",
-      "updatedAt": 1782737688579
-    },
-    {
       "id": "3",
       "model": "Spark 20",
       "reason": "вода",
@@ -53,6 +39,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Iphone",
+      "reason": "нет изо",
+      "date": "29.06.2026, 17:54:35",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "переборка",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1782737688579-460",
+      "status": "archived",
+      "updatedAt": 1782737690588,
+      "archivedDate": "29.06.2026, 17:54:50"
     },
     {
       "model": "A51",
@@ -877,5 +878,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782735605528,
-  "updatedAt": 1782737689151
+  "updatedAt": 1782737691339
 }
