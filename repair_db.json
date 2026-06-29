@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "A51",
-      "reason": "вывалился экран",
-      "date": "26.06.2026, 14:06:33",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "partsCost": 0,
-      "id": "item-1782464809517-137",
-      "status": "active",
-      "updatedAt": 1782464809517
-    },
-    {
       "id": "3",
       "model": "Spark 20",
       "reason": "вода",
@@ -53,6 +39,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "A51",
+      "reason": "вывалился экран",
+      "date": "26.06.2026, 14:06:33",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1782464809517-137",
+      "status": "archived",
+      "updatedAt": 1782724922507,
+      "archivedDate": "29.06.2026, 14:22:02"
     },
     {
       "model": "Infinix X6850",
@@ -862,5 +863,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782483083858,
-  "updatedAt": 1782724900564
+  "updatedAt": 1782724923048
 }
