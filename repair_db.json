@@ -92,11 +92,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 1500,
-      "partsCost": 0,
+      "price": 3000,
+      "partsCost": 1261,
       "id": "item-1782295314605-875",
       "status": "archived",
-      "updatedAt": 1782295316794,
+      "updatedAt": 1782724900040,
       "archivedDate": "24.06.2026, 15:01:56"
     },
     {
@@ -862,5 +862,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782483083858,
-  "updatedAt": 1782724895890
+  "updatedAt": 1782724900564
 }
