@@ -27,20 +27,6 @@
       "updatedAt": 1782815344083
     },
     {
-      "model": "Honor x7c",
-      "reason": "дисплей",
-      "date": "30.06.2026, 12:43:55",
-      "contact": "89991057355",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2500,
-      "partsCost": 750,
-      "id": "item-1782805475414-137",
-      "status": "active",
-      "updatedAt": 1782823669869
-    },
-    {
       "id": "3",
       "model": "Spark 20",
       "reason": "вода",
@@ -94,6 +80,21 @@
       "status": "archived",
       "updatedAt": 1782822789393,
       "archivedDate": "30.06.2026, 17:33:09"
+    },
+    {
+      "model": "Honor x7c",
+      "reason": "дисплей",
+      "date": "30.06.2026, 12:43:55",
+      "contact": "89991057355",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "partsCost": 750,
+      "id": "item-1782805475414-137",
+      "status": "archived",
+      "updatedAt": 1782824866338,
+      "archivedDate": "30.06.2026, 18:07:46"
     },
     {
       "model": "Iphone",
@@ -933,5 +934,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782805591271,
-  "updatedAt": 1782824858160
+  "updatedAt": 1782824867622
 }
