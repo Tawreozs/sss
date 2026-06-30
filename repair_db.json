@@ -14,20 +14,6 @@
       "updatedAt": 1782815344083
     },
     {
-      "model": "Pova 4",
-      "reason": "",
-      "date": "30.06.2026, 14:46:44",
-      "contact": "89228278040",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2500,
-      "partsCost": 480,
-      "id": "item-1782812811539-864",
-      "status": "active",
-      "updatedAt": 1782812932483
-    },
-    {
       "model": "Honor x7c",
       "reason": "дисплей",
       "date": "30.06.2026, 12:43:55",
@@ -79,6 +65,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Pova 4",
+      "reason": "",
+      "date": "30.06.2026, 14:46:44",
+      "contact": "89228278040",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "partsCost": 480,
+      "id": "item-1782812811539-864",
+      "status": "archived",
+      "updatedAt": 1782822789393,
+      "archivedDate": "30.06.2026, 17:33:09"
     },
     {
       "model": "Iphone",
@@ -918,5 +919,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782805591271,
-  "updatedAt": 1782822785419
+  "updatedAt": 1782822789998
 }
