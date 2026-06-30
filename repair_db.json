@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Honor x7c",
+      "reason": "дисплей",
+      "date": "30.06.2026, 12:43:55",
+      "contact": "89991057355",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "id": "item-1782805475414-137",
+      "status": "active",
+      "updatedAt": 1782805475414
+    },
+    {
       "id": "3",
       "model": "Spark 20",
       "reason": "вода",
@@ -878,5 +891,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782740329817,
-  "updatedAt": 1782805430628
+  "updatedAt": 1782805476290
 }
