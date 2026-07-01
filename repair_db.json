@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "III150 Raptor",
+      "reason": "модуль с Озона",
+      "date": "01.07.2026, 16:18:50",
+      "contact": "89290763939",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 4000,
+      "partsCost": 1313,
+      "id": "item-1782904796898-316",
+      "status": "active",
+      "updatedAt": 1782904796898
+    },
+    {
       "model": "Яндекс Станция Мини",
       "reason": "",
       "date": "01.07.2026, 15:49:56",
@@ -972,5 +986,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782805591271,
-  "updatedAt": 1782904794503
+  "updatedAt": 1782904797869
 }
