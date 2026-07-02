@@ -47,7 +47,8 @@
       "price": 3500,
       "id": "item-1782892289546-379",
       "status": "active",
-      "updatedAt": 1782892289546
+      "updatedAt": 1782989208633,
+      "partsCost": 905
     },
     {
       "model": "Hotway",
@@ -1014,5 +1015,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782913049738,
-  "updatedAt": 1782989203522
+  "updatedAt": 1782989209184
 }
