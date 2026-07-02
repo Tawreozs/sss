@@ -25,7 +25,7 @@
       "updatedAt": 1782903014519
     },
     {
-      "model": "Планшет",
+      "model": "Планшет Huawei MatePad SE 10.4",
       "reason": "вода",
       "date": "01.07.2026, 13:35:50",
       "contact": "89228375745",
@@ -34,7 +34,7 @@
       "comment": "",
       "id": "item-1782894968377-728",
       "status": "active",
-      "updatedAt": 1782894968377
+      "updatedAt": 1782993637051
     },
     {
       "model": "Hotway",
@@ -1016,5 +1016,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1782989611690,
-  "updatedAt": 1782993630510
+  "updatedAt": 1782993637850
 }
