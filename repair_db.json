@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Poco x3 pro",
-      "reason": "замена акб по просьбе клиента",
-      "date": "06.07.2026, 18:50:38",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2500,
-      "partsCost": 672,
-      "id": "item-1783346034744-356",
-      "status": "active",
-      "updatedAt": 1783346034744
-    },
-    {
       "model": "Ноут",
       "reason": "",
       "date": "06.07.2026, 18:45:48",
@@ -106,6 +92,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Poco x3 pro",
+      "reason": "замена акб по просьбе клиента",
+      "date": "06.07.2026, 18:50:38",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "partsCost": 672,
+      "id": "item-1783346034744-356",
+      "status": "archived",
+      "updatedAt": 1783346484590,
+      "archivedDate": "06.07.2026, 19:01:24"
     },
     {
       "model": "Huawei",
@@ -1095,5 +1096,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783342899206,
-  "updatedAt": 1783346483481
+  "updatedAt": 1783346508860
 }
