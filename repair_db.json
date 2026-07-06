@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Huawei",
-      "reason": "переклейка",
-      "date": "06.07.2026, 18:00:30",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "partsCost": 0,
-      "id": "item-1783342885571-917",
-      "status": "active",
-      "updatedAt": 1783342885571
-    },
-    {
       "model": "Realme 8",
       "reason": "модуль тфт в рамке + стекло",
       "date": "06.07.2026, 13:49:43",
@@ -94,6 +80,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Huawei",
+      "reason": "переклейка",
+      "date": "06.07.2026, 18:00:30",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1783342885571-917",
+      "status": "archived",
+      "updatedAt": 1783342888412,
+      "archivedDate": "06.07.2026, 18:01:28"
     },
     {
       "model": "Samsung",
@@ -1068,5 +1069,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783335914832,
-  "updatedAt": 1783342888031
+  "updatedAt": 1783342893390
 }
