@@ -28,20 +28,6 @@
       "partsCost": 1060
     },
     {
-      "model": "Яндекс Станция Мини",
-      "reason": "",
-      "date": "01.07.2026, 15:49:56",
-      "contact": "89534503015",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1782903014519-743",
-      "status": "active",
-      "updatedAt": 1782997546189,
-      "price": 700,
-      "partsCost": 180
-    },
-    {
       "model": "Hotway",
       "reason": "разъём тайп-си",
       "date": "30.06.2026, 18:05:01",
@@ -139,6 +125,21 @@
       "status": "archived",
       "updatedAt": 1782908403009,
       "archivedDate": "01.07.2026, 17:20:03"
+    },
+    {
+      "model": "Яндекс Станция Мини",
+      "reason": "",
+      "date": "01.07.2026, 15:49:56",
+      "contact": "89534503015",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1782903014519-743",
+      "status": "archived",
+      "updatedAt": 1783327888850,
+      "price": 700,
+      "partsCost": 180,
+      "archivedDate": "06.07.2026, 13:51:28"
     },
     {
       "model": "Планшет Huawei MatePad SE 10.4",
@@ -1053,5 +1054,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783078836472,
-  "updatedAt": 1783327872132
+  "updatedAt": 1783327889572
 }
