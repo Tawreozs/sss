@@ -13,19 +13,6 @@
       "updatedAt": 1783419376265
     },
     {
-      "model": "Redmi note 13 pro",
-      "reason": "вода, нет изо",
-      "date": "07.07.2026, 12:10:02",
-      "contact": "89228324232",
-      "contact2": "",
-      "name": "",
-      "comment": "без ремонта",
-      "price": 2000,
-      "id": "item-1783408254738-980",
-      "status": "active",
-      "updatedAt": 1783430059997
-    },
-    {
       "model": "Ноут",
       "reason": "",
       "date": "06.07.2026, 18:45:48",
@@ -104,6 +91,20 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Redmi note 13 pro",
+      "reason": "вода, нет изо",
+      "date": "07.07.2026, 12:10:02",
+      "contact": "89228324232",
+      "contact2": "",
+      "name": "",
+      "comment": "без ремонта",
+      "price": 2000,
+      "id": "item-1783408254738-980",
+      "status": "archived",
+      "updatedAt": 1783430061736,
+      "archivedDate": "07.07.2026, 18:14:21"
     },
     {
       "model": "Poco x3 pro",
@@ -1123,5 +1124,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783412594876,
-  "updatedAt": 1783430061018
+  "updatedAt": 1783430062452
 }
