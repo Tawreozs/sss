@@ -4,7 +4,7 @@
       "model": "Redmi 9t",
       "reason": "Разъём ЗУ",
       "date": "08.07.2026, 13:46:14",
-      "contact": "",
+      "contact": "89914542388",
       "contact2": "",
       "name": "",
       "comment": "",
@@ -12,7 +12,7 @@
       "partsCost": 30,
       "id": "item-1783500434309-75",
       "status": "active",
-      "updatedAt": 1783500434309
+      "updatedAt": 1783500450541
     },
     {
       "model": "Infinix Smart 8",
@@ -1166,5 +1166,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783412594876,
-  "updatedAt": 1783500434892
+  "updatedAt": 1783500451136
 }
