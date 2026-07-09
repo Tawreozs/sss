@@ -14,7 +14,7 @@
       "updatedAt": 1783594894340
     },
     {
-      "model": "Infinix",
+      "model": "Infinix Note 30i",
       "reason": "модуль с рамкой",
       "date": "09.07.2026, 14:32:26",
       "contact": "89177452871",
@@ -24,7 +24,7 @@
       "price": 3000,
       "id": "item-1783589586189-661",
       "status": "active",
-      "updatedAt": 1783589586190
+      "updatedAt": 1783595202583
     },
     {
       "model": "Spark 20",
@@ -1246,5 +1246,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783575790786,
-  "updatedAt": 1783595194491
+  "updatedAt": 1783595203967
 }
