@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Перенос данных",
-      "reason": "",
-      "date": "09.07.2026, 12:55:28",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1783583739336-585",
-      "status": "active",
-      "updatedAt": 1783583739336
-    },
-    {
       "model": "Spark 20",
       "reason": "дисплей ориг + стекло",
       "date": "08.07.2026, 17:50:38",
@@ -155,6 +141,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Перенос данных",
+      "reason": "",
+      "date": "09.07.2026, 12:55:28",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1783583739336-585",
+      "status": "archived",
+      "updatedAt": 1783583741542,
+      "archivedDate": "09.07.2026, 12:55:41"
     },
     {
       "model": "Redmi 9t",
@@ -1218,5 +1219,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783575790786,
-  "updatedAt": 1783583739922
+  "updatedAt": 1783583742117
 }
