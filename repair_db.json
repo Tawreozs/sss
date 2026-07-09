@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Infinix",
+      "reason": "модуль с рамкой",
+      "date": "09.07.2026, 14:32:26",
+      "contact": "89177452871",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1783589586189-661",
+      "status": "active",
+      "updatedAt": 1783589586190
+    },
+    {
       "model": "Spark 20",
       "reason": "дисплей ориг + стекло",
       "date": "08.07.2026, 17:50:38",
@@ -1219,5 +1232,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783575790786,
-  "updatedAt": 1783589544140
+  "updatedAt": 1783589587285
 }
