@@ -79,20 +79,6 @@
       "partsCost": 20
     },
     {
-      "model": "Infinix Smart 8",
-      "reason": "ориг дисплей",
-      "date": "08.07.2026, 12:30:23",
-      "contact": "89914542388",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "id": "item-1783495852351-101",
-      "status": "active",
-      "updatedAt": 1783595740416,
-      "partsCost": 890
-    },
-    {
       "model": "Samsung старенький",
       "reason": "вода",
       "date": "07.07.2026, 15:15:54",
@@ -212,6 +198,21 @@
       "status": "archived",
       "updatedAt": 1783512672140,
       "archivedDate": "08.07.2026, 17:11:12"
+    },
+    {
+      "model": "Infinix Smart 8",
+      "reason": "ориг дисплей",
+      "date": "08.07.2026, 12:30:23",
+      "contact": "89914542388",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1783495852351-101",
+      "status": "archived",
+      "updatedAt": 1783600105449,
+      "partsCost": 890,
+      "archivedDate": "09.07.2026, 17:28:25"
     },
     {
       "model": "ноут старенький",
@@ -1275,5 +1276,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783575790786,
-  "updatedAt": 1783600098707
+  "updatedAt": 1783600106175
 }
