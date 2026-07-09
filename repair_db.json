@@ -88,20 +88,6 @@
       "updatedAt": 1783345563529
     },
     {
-      "model": "Note 13 4G",
-      "reason": "вода",
-      "date": "02.07.2026, 15:30:15",
-      "contact": "89011133974",
-      "contact2": "",
-      "name": "",
-      "comment": "чистка от окислов + замена дисплея (инцелл)",
-      "id": "item-1782988316074-139",
-      "status": "active",
-      "updatedAt": 1783086231387,
-      "price": 4000,
-      "partsCost": 1060
-    },
-    {
       "model": "Hotway",
       "reason": "разъём тайп-си",
       "date": "30.06.2026, 18:05:01",
@@ -273,6 +259,21 @@
       "status": "archived",
       "updatedAt": 1783075953722,
       "archivedDate": "03.07.2026, 15:52:33"
+    },
+    {
+      "model": "Note 13 4G",
+      "reason": "вода",
+      "date": "02.07.2026, 15:30:15",
+      "contact": "89011133974",
+      "contact2": "",
+      "name": "",
+      "comment": "чистка от окислов + замена дисплея (инцелл)",
+      "id": "item-1782988316074-139",
+      "status": "archived",
+      "updatedAt": 1783593815536,
+      "price": 4000,
+      "partsCost": 1060,
+      "archivedDate": "09.07.2026, 15:43:35"
     },
     {
       "model": "BV9500 Plus",
@@ -1232,5 +1233,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783575790786,
-  "updatedAt": 1783593811665
+  "updatedAt": 1783593816401
 }
