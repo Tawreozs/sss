@@ -74,7 +74,8 @@
       "price": 3500,
       "id": "item-1783495852351-101",
       "status": "active",
-      "updatedAt": 1783500371552
+      "updatedAt": 1783595740416,
+      "partsCost": 890
     },
     {
       "model": "Samsung старенький",
@@ -1246,5 +1247,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783575790786,
-  "updatedAt": 1783595725140
+  "updatedAt": 1783595741166
 }
