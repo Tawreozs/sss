@@ -66,19 +66,6 @@
       "updatedAt": 1783594894340
     },
     {
-      "model": "Infinix Note 30i",
-      "reason": "модуль с рамкой",
-      "date": "09.07.2026, 14:32:26",
-      "contact": "89177452871",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3000,
-      "id": "item-1783589586189-661",
-      "status": "active",
-      "updatedAt": 1783595202583
-    },
-    {
       "model": "Бронефон",
       "reason": "",
       "date": "08.07.2026, 16:47:52",
@@ -169,6 +156,20 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Infinix Note 30i",
+      "reason": "модуль с рамкой",
+      "date": "09.07.2026, 14:32:26",
+      "contact": "89177452871",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1783589586189-661",
+      "status": "archived",
+      "updatedAt": 1783684871136,
+      "archivedDate": "10.07.2026, 17:01:11"
     },
     {
       "model": "Перенос данных",
@@ -1305,5 +1306,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783604629936,
-  "updatedAt": 1783684865260
+  "updatedAt": 1783684878095
 }
