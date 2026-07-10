@@ -41,13 +41,13 @@
       "model": "Pova 6 neo",
       "reason": "дисплей",
       "date": "09.07.2026, 16:22:58",
-      "contact": "",
+      "contact": "89128407222",
       "contact2": "",
       "name": "",
       "comment": "",
       "id": "item-1783596195364-936",
       "status": "active",
-      "updatedAt": 1783602535778,
+      "updatedAt": 1783676848719,
       "price": 2500
     },
     {
@@ -1303,5 +1303,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783604629936,
-  "updatedAt": 1783676832716
+  "updatedAt": 1783676849358
 }
