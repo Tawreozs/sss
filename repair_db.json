@@ -40,20 +40,6 @@
       "partsCost": 0
     },
     {
-      "model": "IPhone 14",
-      "reason": "Замена стекла",
-      "date": "09.07.2026, 18:44:51",
-      "contact": "89198528369",
-      "contact2": "",
-      "name": "",
-      "comment": "+ матовый гидрогель, химическая 6/1",
-      "price": 7500,
-      "id": "item-1783604738069-22",
-      "status": "active",
-      "updatedAt": 1783930691787,
-      "partsCost": 4150
-    },
-    {
       "model": "Oppo с белой крышкой",
       "reason": "не вкл, не заряд, экран с угла битый",
       "date": "09.07.2026, 16:29:58",
@@ -183,6 +169,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "IPhone 14",
+      "reason": "Замена стекла",
+      "date": "09.07.2026, 18:44:51",
+      "contact": "89198528369",
+      "contact2": "",
+      "name": "",
+      "comment": "+ матовый гидрогель, химическая 6/1",
+      "price": 7500,
+      "id": "item-1783604738069-22",
+      "status": "archived",
+      "updatedAt": 1783930692894,
+      "partsCost": 4150,
+      "archivedDate": "13.07.2026, 13:18:12"
     },
     {
       "model": "Infinix Note 30i",
@@ -1334,5 +1335,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783927830097,
-  "updatedAt": 1783930692874
+  "updatedAt": 1783930695712
 }
