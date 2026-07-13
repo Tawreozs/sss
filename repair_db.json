@@ -26,20 +26,6 @@
       "updatedAt": 1783748327933
     },
     {
-      "model": "Китай",
-      "reason": "оторван экран",
-      "date": "10.07.2026, 13:33:44",
-      "contact": "89018933294",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1783672438359-476",
-      "status": "active",
-      "updatedAt": 1783676896337,
-      "price": 1500,
-      "partsCost": 0
-    },
-    {
       "model": "Oppo с белой крышкой",
       "reason": "не вкл, не заряд, экран с угла битый",
       "date": "09.07.2026, 16:29:58",
@@ -143,6 +129,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Китай",
+      "reason": "оторван экран",
+      "date": "10.07.2026, 13:33:44",
+      "contact": "89018933294",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1783672438359-476",
+      "status": "archived",
+      "updatedAt": 1783940635860,
+      "price": 1500,
+      "partsCost": 0,
+      "archivedDate": "13.07.2026, 16:03:55"
     },
     {
       "model": "IPhone 14",
@@ -1337,5 +1338,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783927830097,
-  "updatedAt": 1783940623616
+  "updatedAt": 1783940636811
 }
