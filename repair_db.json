@@ -46,10 +46,10 @@
       "contact": "89068427241",
       "contact2": "",
       "name": "Лиля",
-      "comment": "",
+      "comment": "Без ремонта",
       "id": "item-1783596632388-48",
       "status": "active",
-      "updatedAt": 1783596656462
+      "updatedAt": 1783940612374
     },
     {
       "model": "Системник",
@@ -77,18 +77,6 @@
       "updatedAt": 1783598975527,
       "price": 2000,
       "partsCost": 20
-    },
-    {
-      "model": "Samsung старенький",
-      "reason": "вода",
-      "date": "07.07.2026, 15:15:54",
-      "contact": "89292839478",
-      "contact2": "",
-      "name": "",
-      "comment": "Без ремонта",
-      "id": "item-1783419376265-979",
-      "status": "active",
-      "updatedAt": 1783940591252
     },
     {
       "model": "Ноут",
@@ -288,6 +276,19 @@
       "status": "archived",
       "updatedAt": 1783432371495,
       "archivedDate": "07.07.2026, 18:52:51"
+    },
+    {
+      "model": "Samsung старенький",
+      "reason": "вода",
+      "date": "07.07.2026, 15:15:54",
+      "contact": "89292839478",
+      "contact2": "",
+      "name": "",
+      "comment": "Без ремонта",
+      "id": "item-1783419376265-979",
+      "status": "archived",
+      "updatedAt": 1783940592483,
+      "archivedDate": "13.07.2026, 16:03:12"
     },
     {
       "model": "Redmi note 13 pro",
@@ -1336,5 +1337,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783927830097,
-  "updatedAt": 1783940591999
+  "updatedAt": 1783940613003
 }
