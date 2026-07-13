@@ -170,9 +170,9 @@
       "comment": "",
       "id": "item-1783596195364-936",
       "status": "archived",
-      "updatedAt": 1783940568111,
-      "price": 2500,
-      "partsCost": 900,
+      "updatedAt": 1783941338829,
+      "price": 2800,
+      "partsCost": 980,
       "archivedDate": "13.07.2026, 16:02:48"
     },
     {
@@ -1338,5 +1338,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783927830097,
-  "updatedAt": 1783941323755
+  "updatedAt": 1783941339494
 }
