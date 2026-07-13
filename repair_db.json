@@ -47,10 +47,11 @@
       "contact2": "",
       "name": "",
       "comment": "+ матовый гидрогель, химическая 6/1",
-      "price": 7000,
+      "price": 7500,
       "id": "item-1783604738069-22",
       "status": "active",
-      "updatedAt": 1783691693258
+      "updatedAt": 1783930691787,
+      "partsCost": 4150
     },
     {
       "model": "Oppo с белой крышкой",
@@ -1333,5 +1334,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783927830097,
-  "updatedAt": 1783930685144
+  "updatedAt": 1783930692874
 }
