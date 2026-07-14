@@ -46,11 +46,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 3800,
+      "price": 4500,
       "id": "item-1783927720750-893",
       "status": "active",
-      "updatedAt": 1783944466631,
-      "partsCost": 680
+      "updatedAt": 1784032171022,
+      "partsCost": 1680
     },
     {
       "model": "Oppo с белой крышкой",
@@ -1400,5 +1400,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783949968897,
-  "updatedAt": 1784032143854
+  "updatedAt": 1784032172416
 }
