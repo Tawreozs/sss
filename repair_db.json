@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "какой-то телефон",
-      "reason": "реклама",
-      "date": "14.07.2026, 16:47:47",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1784029678190-617",
-      "status": "active",
-      "updatedAt": 1784029678190
-    },
-    {
       "model": "X7a",
       "reason": "дисплей ориг",
       "date": "14.07.2026, 15:15:28",
@@ -99,11 +85,12 @@
       "contact": "89228664203",
       "contact2": "",
       "name": "",
-      "comment": "",
-      "price": 2000,
+      "comment": "замена мат платы, установка виндовс",
+      "price": 3000,
       "id": "item-1783594894340-822",
       "status": "active",
-      "updatedAt": 1783594894340
+      "updatedAt": 1784029700389,
+      "partsCost": 1000
     },
     {
       "model": "Бронефон",
@@ -184,6 +171,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "какой-то телефон",
+      "reason": "реклама",
+      "date": "14.07.2026, 16:47:47",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1784029678190-617",
+      "status": "archived",
+      "updatedAt": 1784029680171,
+      "archivedDate": "14.07.2026, 16:48:00"
     },
     {
       "model": "Китай",
@@ -1393,5 +1395,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783949968897,
-  "updatedAt": 1784029679127
+  "updatedAt": 1784029700984
 }
