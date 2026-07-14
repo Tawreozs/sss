@@ -85,10 +85,12 @@
       "contact": "89965725518",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "Винда",
       "id": "item-1783345563529-992",
       "status": "active",
-      "updatedAt": 1783345563529
+      "updatedAt": 1784032134559,
+      "price": 1500,
+      "partsCost": 0
     },
     {
       "model": "Hotway",
@@ -1397,5 +1399,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783949968897,
-  "updatedAt": 1784032114914
+  "updatedAt": 1784032135770
 }
