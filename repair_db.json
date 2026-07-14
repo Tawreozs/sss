@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "какой-то телефон",
+      "reason": "реклама",
+      "date": "14.07.2026, 16:47:47",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1784029678190-617",
+      "status": "active",
+      "updatedAt": 1784029678190
+    },
+    {
       "model": "X7a",
       "reason": "дисплей ориг",
       "date": "14.07.2026, 15:15:28",
@@ -1379,5 +1393,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783949968897,
-  "updatedAt": 1784029665005
+  "updatedAt": 1784029679127
 }
