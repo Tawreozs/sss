@@ -53,20 +53,6 @@
       "partsCost": 680
     },
     {
-      "model": "Spark 9 pro",
-      "reason": "",
-      "date": "11.07.2026, 10:38:16",
-      "contact": "+79878419990",
-      "contact2": "",
-      "name": "Виталя сервис",
-      "comment": "",
-      "id": "item-1783748327933-257",
-      "status": "active",
-      "updatedAt": 1783950600953,
-      "price": 3000,
-      "partsCost": 730
-    },
-    {
       "model": "Oppo с белой крышкой",
       "reason": "не вкл, не заряд, экран с угла битый",
       "date": "09.07.2026, 16:29:58",
@@ -172,6 +158,21 @@
       "status": "archived",
       "updatedAt": 1784029680171,
       "archivedDate": "14.07.2026, 16:48:00"
+    },
+    {
+      "model": "Spark 9 pro",
+      "reason": "",
+      "date": "11.07.2026, 10:38:16",
+      "contact": "+79878419990",
+      "contact2": "",
+      "name": "Виталя сервис",
+      "comment": "",
+      "id": "item-1783748327933-257",
+      "status": "archived",
+      "updatedAt": 1784030371997,
+      "price": 3000,
+      "partsCost": 730,
+      "archivedDate": "14.07.2026, 16:59:31"
     },
     {
       "model": "Китай",
@@ -1396,5 +1397,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783949968897,
-  "updatedAt": 1784030362607
+  "updatedAt": 1784030372687
 }
