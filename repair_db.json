@@ -7,11 +7,12 @@
       "contact": "89226204862",
       "contact2": "",
       "name": "",
-      "comment": "",
-      "price": 4000,
+      "comment": "Петька убрал окислый.",
+      "price": 3500,
       "id": "item-1784103111468-598",
       "status": "active",
-      "updatedAt": 1784103111468
+      "updatedAt": 1784124962869,
+      "partsCost": 500
     },
     {
       "model": "Бронефон",
@@ -1437,5 +1438,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1784103410098,
-  "updatedAt": 1784124925332
+  "updatedAt": 1784124964143
 }
