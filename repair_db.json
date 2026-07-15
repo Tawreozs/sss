@@ -33,10 +33,12 @@
       "contact": "89096029795",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "вода + новый дисплей",
       "id": "item-1784018455135-889",
       "status": "active",
-      "updatedAt": 1784018455135
+      "updatedAt": 1784113781323,
+      "price": 4000,
+      "partsCost": 810
     },
     {
       "model": "Бронефон",
@@ -1432,5 +1434,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1784103410098,
-  "updatedAt": 1784113779882
+  "updatedAt": 1784113800835
 }
