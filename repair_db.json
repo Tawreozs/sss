@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Iphone XR",
+      "reason": "модуль",
+      "date": "15.07.2026, 14:19:08",
+      "contact": "89867895899",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1784107186292-132",
+      "status": "active",
+      "updatedAt": 1784107186292
+    },
+    {
       "model": "s20 fe",
       "reason": "модуль олед",
       "date": "15.07.2026, 13:10:46",
@@ -1419,5 +1432,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1784103410098,
-  "updatedAt": 1784107182942
+  "updatedAt": 1784107186951
 }
