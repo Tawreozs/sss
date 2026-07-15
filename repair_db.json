@@ -9,9 +9,10 @@
       "name": "",
       "comment": "",
       "price": 3800,
+      "partsCost": 1280,
       "id": "item-1784107186292-132",
       "status": "active",
-      "updatedAt": 1784107186292
+      "updatedAt": 1784117493783
     },
     {
       "model": "s20 fe",
@@ -1435,5 +1436,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1784103410098,
-  "updatedAt": 1784117485238
+  "updatedAt": 1784117494482
 }
