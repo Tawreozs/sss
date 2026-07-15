@@ -60,10 +60,10 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 2000,
+      "price": 2300,
       "id": "item-1782824729684-651",
       "status": "active",
-      "updatedAt": 1784090497982,
+      "updatedAt": 1784090514028,
       "partsCost": 240
     },
     {
@@ -1402,5 +1402,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783949968897,
-  "updatedAt": 1784090498481
+  "updatedAt": 1784090514708
 }
