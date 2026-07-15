@@ -27,20 +27,6 @@
       "updatedAt": 1784103111468
     },
     {
-      "model": "Rmx3933",
-      "reason": "Вода",
-      "date": "14.07.2026, 13:40:33",
-      "contact": "89096029795",
-      "contact2": "",
-      "name": "",
-      "comment": "вода + новый дисплей",
-      "id": "item-1784018455135-889",
-      "status": "active",
-      "updatedAt": 1784113781323,
-      "price": 4000,
-      "partsCost": 810
-    },
-    {
       "model": "Бронефон",
       "reason": "",
       "date": "08.07.2026, 16:47:52",
@@ -137,6 +123,21 @@
       "updatedAt": 1784106510782,
       "partsCost": 1040,
       "archivedDate": "15.07.2026, 14:08:30"
+    },
+    {
+      "model": "Rmx3933",
+      "reason": "Вода",
+      "date": "14.07.2026, 13:40:33",
+      "contact": "89096029795",
+      "contact2": "",
+      "name": "",
+      "comment": "вода + новый дисплей",
+      "id": "item-1784018455135-889",
+      "status": "archived",
+      "updatedAt": 1784117442611,
+      "price": 4000,
+      "partsCost": 810,
+      "archivedDate": "15.07.2026, 17:10:42"
     },
     {
       "model": "Ноут асус",
@@ -1434,5 +1435,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1784103410098,
-  "updatedAt": 1784117437253
+  "updatedAt": 1784117443232
 }
