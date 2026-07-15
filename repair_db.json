@@ -53,7 +53,7 @@
       "partsCost": 20
     },
     {
-      "model": "Hotway",
+      "model": "Hotwav",
       "reason": "разъём тайп-си",
       "date": "30.06.2026, 18:05:01",
       "contact": "89058137146",
@@ -63,7 +63,7 @@
       "price": 2000,
       "id": "item-1782824729684-651",
       "status": "active",
-      "updatedAt": 1783086280063,
+      "updatedAt": 1784090497982,
       "partsCost": 240
     },
     {
@@ -1402,5 +1402,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1783949968897,
-  "updatedAt": 1784090481534
+  "updatedAt": 1784090498481
 }
