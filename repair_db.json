@@ -24,7 +24,8 @@
       "price": 4300,
       "id": "item-1784024159852-661",
       "status": "active",
-      "updatedAt": 1784024159852
+      "updatedAt": 1784106509618,
+      "partsCost": 1040
     },
     {
       "model": "Rmx3933",
@@ -1415,5 +1416,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1784103410098,
-  "updatedAt": 1784106502126
+  "updatedAt": 1784106510267
 }
