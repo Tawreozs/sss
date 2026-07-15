@@ -26,20 +26,6 @@
       "updatedAt": 1784018455135
     },
     {
-      "model": "Ноут асус",
-      "reason": "Винда",
-      "date": "14.07.2026, 13:22:41",
-      "contact": "89225355470",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "id": "item-1784017389142-219",
-      "status": "active",
-      "updatedAt": 1784106516042,
-      "partsCost": 0
-    },
-    {
       "model": "Бронефон",
       "reason": "",
       "date": "08.07.2026, 16:47:52",
@@ -136,6 +122,21 @@
       "updatedAt": 1784106510782,
       "partsCost": 1040,
       "archivedDate": "15.07.2026, 14:08:30"
+    },
+    {
+      "model": "Ноут асус",
+      "reason": "Винда",
+      "date": "14.07.2026, 13:22:41",
+      "contact": "89225355470",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1784017389142-219",
+      "status": "archived",
+      "updatedAt": 1784106517080,
+      "partsCost": 0,
+      "archivedDate": "15.07.2026, 14:08:37"
     },
     {
       "model": "Poco c75",
@@ -1418,5 +1419,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1784103410098,
-  "updatedAt": 1784106516655
+  "updatedAt": 1784107137048
 }
