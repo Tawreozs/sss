@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "model": "Realme",
-      "reason": "разъем",
-      "date": "31.07.2026, 13:08:59",
+      "model": "Колонка",
+      "reason": "разъём",
+      "date": "31.07.2026, 13:09:32",
       "contact": "",
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 1200,
-      "partsCost": 20,
-      "id": "item-1785485367222-423",
+      "price": 800,
+      "partsCost": 0,
+      "id": "item-1785485381402-323",
       "status": "active",
-      "updatedAt": 1785485367222
+      "updatedAt": 1785485381402
     },
     {
       "model": "Бронефон",
@@ -81,6 +81,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Realme",
+      "reason": "разъем",
+      "date": "31.07.2026, 13:08:59",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1200,
+      "partsCost": 20,
+      "id": "item-1785485367222-423",
+      "status": "archived",
+      "updatedAt": 1785485369111,
+      "archivedDate": "31.07.2026, 13:09:29"
     },
     {
       "model": "Iphone XR",
@@ -1453,5 +1468,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1784103410098,
-  "updatedAt": 1785485368743
+  "updatedAt": 1785485382239
 }
