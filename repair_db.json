@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Redmi 15c",
+      "reason": "",
+      "date": "03.08.2026, 17:16:35",
+      "contact": "89878832012",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 4000,
+      "id": "item-1785759420007-613",
+      "status": "active",
+      "updatedAt": 1785759420007
+    },
+    {
       "model": "геймпады",
       "reason": "",
       "date": "03.08.2026, 15:10:31",
@@ -1522,5 +1535,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785501383589,
-  "updatedAt": 1785759394617
+  "updatedAt": 1785759420850
 }
