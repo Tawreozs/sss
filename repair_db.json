@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "системник",
-      "reason": "диагностика",
-      "date": "03.08.2026, 17:32:42",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1785760373992-609",
-      "status": "active",
-      "updatedAt": 1785760373992
-    },
-    {
       "model": "Realme",
       "reason": "кнопка вкл + слот сим",
       "date": "03.08.2026, 17:17:42",
@@ -144,6 +130,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "системник",
+      "reason": "диагностика",
+      "date": "03.08.2026, 17:32:42",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1785760373992-609",
+      "status": "archived",
+      "updatedAt": 1785760376053,
+      "archivedDate": "03.08.2026, 17:32:56"
     },
     {
       "model": "телефон",
@@ -1576,5 +1577,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785501383589,
-  "updatedAt": 1785760374696
+  "updatedAt": 1785760385996
 }
