@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Samsung A12",
+      "reason": "дисплей",
+      "date": "03.08.2026, 14:07:25",
+      "contact": "89510302482",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "id": "item-1785748065343-526",
+      "status": "active",
+      "updatedAt": 1785748065343
+    },
+    {
       "model": "Redmi 10",
       "reason": "дисплей",
       "date": "03.08.2026, 13:40:46",
@@ -1497,5 +1510,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785501383589,
-  "updatedAt": 1785748042980
+  "updatedAt": 1785748066123
 }
