@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Хуавэй",
+      "reason": "чистка разъёма ЗУ",
+      "date": "03.08.2026, 18:16:24",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1785763009907-10",
+      "status": "active",
+      "updatedAt": 1785763009907
+    },
+    {
       "model": "Realme",
       "reason": "кнопка вкл + слот сим",
       "date": "03.08.2026, 17:17:42",
@@ -1577,5 +1591,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785501383589,
-  "updatedAt": 1785762985128
+  "updatedAt": 1785763010595
 }
