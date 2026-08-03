@@ -8,10 +8,10 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 2500,
+      "price": 2800,
       "id": "item-1785748065343-526",
       "status": "active",
-      "updatedAt": 1785748065343
+      "updatedAt": 1785748077871
     },
     {
       "model": "Redmi 10",
@@ -1510,5 +1510,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785501383589,
-  "updatedAt": 1785748066123
+  "updatedAt": 1785748078761
 }
