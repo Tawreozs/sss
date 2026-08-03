@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "телефон",
+      "reason": "перенёс аккаунт",
+      "date": "03.08.2026, 17:21:36",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1785759716970-442",
+      "status": "active",
+      "updatedAt": 1785759716970
+    },
+    {
       "model": "Realme",
       "reason": "кнопка вкл + слот сим",
       "date": "03.08.2026, 17:17:42",
@@ -1547,5 +1561,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785501383589,
-  "updatedAt": 1785759692700
+  "updatedAt": 1785759717580
 }
