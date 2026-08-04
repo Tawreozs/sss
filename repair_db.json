@@ -40,20 +40,6 @@
       "updatedAt": 1785751849555
     },
     {
-      "model": "Samsung A12",
-      "reason": "дисплей",
-      "date": "03.08.2026, 14:07:25",
-      "contact": "89510302482",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2800,
-      "id": "item-1785748065343-526",
-      "status": "active",
-      "updatedAt": 1785847061716,
-      "partsCost": 870
-    },
-    {
       "model": "Бронефон",
       "reason": "",
       "date": "08.07.2026, 16:47:52",
@@ -195,6 +181,21 @@
       "status": "archived",
       "updatedAt": 1785759718814,
       "archivedDate": "03.08.2026, 17:21:58"
+    },
+    {
+      "model": "Samsung A12",
+      "reason": "дисплей",
+      "date": "03.08.2026, 14:07:25",
+      "contact": "89510302482",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2800,
+      "id": "item-1785748065343-526",
+      "status": "archived",
+      "updatedAt": 1785847068705,
+      "partsCost": 870,
+      "archivedDate": "04.08.2026, 17:37:48"
     },
     {
       "model": "Redmi 10",
@@ -1627,5 +1628,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785838492365,
-  "updatedAt": 1785847062436
+  "updatedAt": 1785847069526
 }
