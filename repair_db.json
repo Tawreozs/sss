@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "BlackView",
+      "reason": "Разъём",
+      "date": "04.08.2026, 12:07:12",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1785827294928-410",
+      "status": "active",
+      "updatedAt": 1785827294928
+    },
+    {
       "model": "Realme",
       "reason": "кнопка вкл + слот сим",
       "date": "03.08.2026, 17:17:42",
@@ -1592,5 +1605,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785501383589,
-  "updatedAt": 1785827267009
+  "updatedAt": 1785827295812
 }
