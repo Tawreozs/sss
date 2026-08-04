@@ -134,6 +134,21 @@
       "updatedAt": 1779784904971
     },
     {
+      "model": "A03",
+      "reason": "разъём",
+      "date": "04.08.2026, 15:30:00",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1200,
+      "partsCost": 20,
+      "id": "item-1785839422960-294",
+      "status": "archived",
+      "updatedAt": 1785839425118,
+      "archivedDate": "04.08.2026, 15:30:25"
+    },
+    {
       "model": "BlackView",
       "reason": "Разъём",
       "date": "04.08.2026, 12:07:12",
@@ -1609,5 +1624,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785838492365,
-  "updatedAt": 1785839421819
+  "updatedAt": 1785839425904
 }
