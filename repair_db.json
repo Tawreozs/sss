@@ -40,20 +40,6 @@
       "updatedAt": 1785853031020
     },
     {
-      "model": "Iphone 13",
-      "reason": "замена стекла",
-      "date": "04.08.2026, 18:48:19",
-      "contact": "89225440919",
-      "contact2": "",
-      "name": "",
-      "comment": "код 110722",
-      "price": 6500,
-      "id": "item-1785851361634-372",
-      "status": "active",
-      "updatedAt": 1786010475440,
-      "partsCost": 4000
-    },
-    {
       "model": "геймпады",
       "reason": "",
       "date": "03.08.2026, 15:10:31",
@@ -177,6 +163,21 @@
       "price": 7000,
       "partsCost": 3766,
       "archivedDate": "05.08.2026, 18:46:33"
+    },
+    {
+      "model": "Iphone 13",
+      "reason": "замена стекла",
+      "date": "04.08.2026, 18:48:19",
+      "contact": "89225440919",
+      "contact2": "",
+      "name": "",
+      "comment": "код 110722",
+      "price": 6500,
+      "id": "item-1785851361634-372",
+      "status": "archived",
+      "updatedAt": 1786010477459,
+      "partsCost": 4000,
+      "archivedDate": "06.08.2026, 15:01:17"
     },
     {
       "model": "A03",
@@ -1729,5 +1730,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1785937964742,
-  "updatedAt": 1786010476274
+  "updatedAt": 1786010478149
 }
