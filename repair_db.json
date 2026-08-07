@@ -15,18 +15,6 @@
       "partsCost": 840
     },
     {
-      "model": "Samsung S20",
-      "reason": "ребут",
-      "date": "05.08.2026, 12:06:15",
-      "contact": "89501808779",
-      "contact2": "",
-      "name": "",
-      "comment": "без ремонта",
-      "id": "item-1785913608979-658",
-      "status": "active",
-      "updatedAt": 1786090863364
-    },
-    {
       "model": "Ноут Acer q5wph E1-531",
       "reason": "замена клавиатуры",
       "date": "04.08.2026, 19:05:39",
@@ -178,6 +166,19 @@
       "price": 7000,
       "partsCost": 3766,
       "archivedDate": "05.08.2026, 18:46:33"
+    },
+    {
+      "model": "Samsung S20",
+      "reason": "ребут",
+      "date": "05.08.2026, 12:06:15",
+      "contact": "89501808779",
+      "contact2": "",
+      "name": "",
+      "comment": "без ремонта",
+      "id": "item-1785913608979-658",
+      "status": "archived",
+      "updatedAt": 1786090864060,
+      "archivedDate": "07.08.2026, 13:21:04"
     },
     {
       "model": "Iphone 13",
@@ -1745,5 +1746,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786090079437,
-  "updatedAt": 1786090864126
+  "updatedAt": 1786090910565
 }
