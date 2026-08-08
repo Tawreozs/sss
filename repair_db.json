@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "A55",
+      "reason": "Дисплей",
+      "date": "08.08.2026, 15:17:39",
+      "contact": "89538362350",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 7500,
+      "id": "item-1786184286627-378",
+      "status": "active",
+      "updatedAt": 1786184286628
+    },
+    {
       "model": "Spark 30",
       "reason": "дисплей",
       "date": "05.08.2026, 12:12:03",
@@ -1746,5 +1759,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786107159948,
-  "updatedAt": 1786184247438
+  "updatedAt": 1786184287860
 }
