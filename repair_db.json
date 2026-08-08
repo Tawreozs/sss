@@ -2,16 +2,17 @@
   "items": [
     {
       "model": "A55",
-      "reason": "Дисплей",
+      "reason": "Дисплей ориг + стекло в подарок",
       "date": "08.08.2026, 15:17:39",
       "contact": "89538362350",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "Предоплата 5000",
       "price": 7500,
+      "partsCost": 4630,
       "id": "item-1786184286627-378",
       "status": "active",
-      "updatedAt": 1786184286628
+      "updatedAt": 1786184545208
     },
     {
       "model": "Spark 30",
@@ -1759,5 +1760,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786107159948,
-  "updatedAt": 1786184531010
+  "updatedAt": 1786184545748
 }
