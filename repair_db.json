@@ -28,20 +28,6 @@
       "partsCost": 840
     },
     {
-      "model": "Ноут Acer q5wph E1-531",
-      "reason": "замена клавиатуры",
-      "date": "04.08.2026, 19:05:39",
-      "contact": "89228182150",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2500,
-      "id": "item-1785853031020-10",
-      "status": "active",
-      "updatedAt": 1786368529998,
-      "partsCost": 572
-    },
-    {
       "model": "Бронефон",
       "reason": "",
       "date": "08.07.2026, 16:47:52",
@@ -226,6 +212,21 @@
       "status": "archived",
       "updatedAt": 1786090864060,
       "archivedDate": "07.08.2026, 13:21:04"
+    },
+    {
+      "model": "Ноут Acer q5wph E1-531",
+      "reason": "замена клавиатуры",
+      "date": "04.08.2026, 19:05:39",
+      "contact": "89228182150",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "id": "item-1785853031020-10",
+      "status": "archived",
+      "updatedAt": 1786368531721,
+      "partsCost": 572,
+      "archivedDate": "10.08.2026, 18:28:51"
     },
     {
       "model": "Iphone 13",
@@ -1808,5 +1809,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786368530857
+  "updatedAt": 1786368532681
 }
