@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Infinix",
+      "reason": "мочёный",
+      "date": "10.08.2026, 16:23:17",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "чистка окислов на нижней плате",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1786361029863-237",
+      "status": "active",
+      "updatedAt": 1786361029863
+    },
+    {
       "model": "Poco x7 pro",
       "reason": "модуль в рамке",
       "date": "10.08.2026, 14:43:28",
@@ -1792,5 +1806,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786357222636,
-  "updatedAt": 1786360996357
+  "updatedAt": 1786361030709
 }
