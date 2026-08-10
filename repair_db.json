@@ -38,7 +38,8 @@
       "price": 2500,
       "id": "item-1785853031020-10",
       "status": "active",
-      "updatedAt": 1785853031020
+      "updatedAt": 1786368529998,
+      "partsCost": 572
     },
     {
       "model": "Бронефон",
@@ -1807,5 +1808,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786368526342
+  "updatedAt": 1786368530857
 }
