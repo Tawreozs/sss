@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Redmi note 14",
-      "reason": "дисплей",
-      "date": "10.08.2026, 14:15:07",
-      "contact": "Аня озон",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "partsCost": 2330,
-      "id": "item-1786353379807-927",
-      "status": "active",
-      "updatedAt": 1786353379807
-    },
-    {
       "model": "Spark 30",
       "reason": "дисплей",
       "date": "05.08.2026, 12:12:03",
@@ -108,6 +94,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Redmi note 14",
+      "reason": "дисплей",
+      "date": "10.08.2026, 14:15:07",
+      "contact": "Аня озон",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "partsCost": 2330,
+      "id": "item-1786353379807-927",
+      "status": "archived",
+      "updatedAt": 1786353396386,
+      "archivedDate": "10.08.2026, 14:16:36"
     },
     {
       "model": "A55",
@@ -1778,5 +1779,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786353037442,
-  "updatedAt": 1786353380595
+  "updatedAt": 1786353397659
 }
