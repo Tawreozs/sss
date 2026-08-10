@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Poco x7 pro",
+      "reason": "модуль в рамке",
+      "date": "10.08.2026, 14:43:28",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 5200,
+      "id": "item-1786355023471-265",
+      "status": "active",
+      "updatedAt": 1786355023471
+    },
+    {
       "model": "Spark 30",
       "reason": "дисплей",
       "date": "05.08.2026, 12:12:03",
@@ -1779,5 +1792,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786353037442,
-  "updatedAt": 1786355007950
+  "updatedAt": 1786355024320
 }
