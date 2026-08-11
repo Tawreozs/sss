@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "oppo a91",
+      "reason": "модуль + стекло",
+      "date": "11.08.2026, 13:00:34",
+      "contact": "89123541746",
+      "contact2": "",
+      "name": "Рустам",
+      "comment": "",
+      "price": 4200,
+      "id": "item-1786435279611-200",
+      "status": "active",
+      "updatedAt": 1786435279611
+    },
+    {
       "model": "Redmi",
       "reason": "Frp",
       "date": "11.08.2026, 11:57:56",
@@ -1822,5 +1835,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786435278886
+  "updatedAt": 1786435326265
 }
