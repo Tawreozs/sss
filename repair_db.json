@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Blackview",
+      "reason": "разъём",
+      "date": "11.08.2026, 13:18:40",
+      "contact": "89878780498",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1786436352299-892",
+      "status": "active",
+      "updatedAt": 1786436352299
+    },
+    {
       "model": "oppo a91",
       "reason": "модуль + стекло",
       "date": "11.08.2026, 13:00:34",
@@ -1835,5 +1848,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786436317652
+  "updatedAt": 1786436353090
 }
