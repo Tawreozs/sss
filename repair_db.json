@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Blackview",
-      "reason": "разъём",
-      "date": "11.08.2026, 13:18:40",
-      "contact": "89878780498",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "id": "item-1786436352299-892",
-      "status": "active",
-      "updatedAt": 1786441081542,
-      "partsCost": 110
-    },
-    {
       "model": "oppo a91",
       "reason": "модуль + стекло",
       "date": "11.08.2026, 13:00:34",
@@ -120,6 +106,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Blackview",
+      "reason": "разъём",
+      "date": "11.08.2026, 13:18:40",
+      "contact": "89878780498",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1786436352299-892",
+      "status": "archived",
+      "updatedAt": 1786441084217,
+      "partsCost": 110,
+      "archivedDate": "11.08.2026, 14:38:04"
     },
     {
       "model": "Infinix",
@@ -1850,5 +1851,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786441083916
+  "updatedAt": 1786441120451
 }
