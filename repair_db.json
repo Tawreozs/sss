@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Redmi",
+      "reason": "Frp",
+      "date": "11.08.2026, 11:57:56",
+      "contact": "89292818997",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1786431503619-873",
+      "status": "active",
+      "updatedAt": 1786431503619
+    },
+    {
       "model": "Poco x7 pro",
       "reason": "модуль в рамке",
       "date": "10.08.2026, 14:43:28",
@@ -1809,5 +1822,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786431476201
+  "updatedAt": 1786431504520
 }
