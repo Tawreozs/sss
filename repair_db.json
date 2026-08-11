@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Samsung A52s",
+      "reason": "дисплей ориг + стекло",
+      "date": "11.08.2026, 14:38:56",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 8200,
+      "partsCost": 5680,
+      "id": "item-1786441178568-733",
+      "status": "active",
+      "updatedAt": 1786441178568
+    },
+    {
       "model": "oppo a91",
       "reason": "модуль + стекло",
       "date": "11.08.2026, 13:00:34",
@@ -1851,5 +1865,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786441172141
+  "updatedAt": 1786441179245
 }
