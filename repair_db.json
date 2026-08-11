@@ -7,11 +7,11 @@
       "contact": "89123541746",
       "contact2": "",
       "name": "Рустам",
-      "comment": "",
+      "comment": "2000 р. предоплата",
       "price": 4200,
       "id": "item-1786435279611-200",
       "status": "active",
-      "updatedAt": 1786435279611
+      "updatedAt": 1786435354503
     },
     {
       "model": "Redmi",
@@ -1835,5 +1835,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786435353818
+  "updatedAt": 1786435355188
 }
