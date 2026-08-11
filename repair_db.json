@@ -11,7 +11,8 @@
       "price": 2000,
       "id": "item-1786436352299-892",
       "status": "active",
-      "updatedAt": 1786436352299
+      "updatedAt": 1786441081542,
+      "partsCost": 110
     },
     {
       "model": "oppo a91",
@@ -1849,5 +1850,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786363349551,
-  "updatedAt": 1786441075910
+  "updatedAt": 1786441083916
 }
