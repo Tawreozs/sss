@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "реалми",
-      "reason": "установил рустор",
-      "date": "12.08.2026, 14:33:17",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 300,
-      "partsCost": 0,
-      "id": "item-1786527210192-376",
-      "status": "active",
-      "updatedAt": 1786527210192
-    },
-    {
       "model": "А16",
       "reason": "дисплей",
       "date": "11.08.2026, 17:36:25",
@@ -133,6 +119,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "реалми",
+      "reason": "установил рустор",
+      "date": "12.08.2026, 14:33:17",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 300,
+      "partsCost": 0,
+      "id": "item-1786527210192-376",
+      "status": "archived",
+      "updatedAt": 1786527212126,
+      "archivedDate": "12.08.2026, 14:33:32"
     },
     {
       "model": "Samsung A52s",
@@ -1908,5 +1909,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786453520646,
-  "updatedAt": 1786527211113
+  "updatedAt": 1786527213849
 }
