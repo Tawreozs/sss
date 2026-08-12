@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "А16",
-      "reason": "дисплей + стекло",
-      "date": "11.08.2026, 17:36:25",
-      "contact": "89878843262",
-      "contact2": "",
-      "name": "Шакур",
-      "comment": "",
-      "price": 2800,
-      "id": "item-1786451845499-319",
-      "status": "active",
-      "updatedAt": 1786527427928,
-      "partsCost": 930
-    },
-    {
       "model": "x6c",
       "reason": "дисплей в рамке",
       "date": "11.08.2026, 17:14:59",
@@ -135,6 +121,21 @@
       "status": "archived",
       "updatedAt": 1786527212126,
       "archivedDate": "12.08.2026, 14:33:32"
+    },
+    {
+      "model": "А16",
+      "reason": "дисплей + стекло",
+      "date": "11.08.2026, 17:36:25",
+      "contact": "89878843262",
+      "contact2": "",
+      "name": "Шакур",
+      "comment": "",
+      "price": 2800,
+      "id": "item-1786451845499-319",
+      "status": "archived",
+      "updatedAt": 1786536498988,
+      "partsCost": 930,
+      "archivedDate": "12.08.2026, 17:08:18"
     },
     {
       "model": "Samsung A52s",
@@ -1910,5 +1911,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786535582973,
-  "updatedAt": 1786536484891
+  "updatedAt": 1786536499758
 }
