@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "A23",
+      "reason": "модуль + акб",
+      "date": "13.08.2026, 12:12:48",
+      "contact": "89228298406",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 4000,
+      "id": "item-1786605209985-217",
+      "status": "active",
+      "updatedAt": 1786605209985
+    },
+    {
       "model": "Philips",
       "reason": "не заряд",
       "date": "12.08.2026, 18:12:36",
@@ -1926,5 +1939,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786535582973,
-  "updatedAt": 1786605167216
+  "updatedAt": 1786605210931
 }
