@@ -82,20 +82,6 @@
       "updatedAt": 1786355023471
     },
     {
-      "model": "A55",
-      "reason": "Дисплей ориг + акб",
-      "date": "08.08.2026, 15:17:39",
-      "contact": "89538362350",
-      "contact2": "",
-      "name": "",
-      "comment": "Предоплата 5000",
-      "price": 9500,
-      "partsCost": 5110,
-      "id": "item-1786184286627-378",
-      "status": "active",
-      "updatedAt": 1786621898655
-    },
-    {
       "model": "Spark 30",
       "reason": "дисплей",
       "date": "05.08.2026, 12:12:03",
@@ -282,6 +268,21 @@
       "status": "archived",
       "updatedAt": 1786353396386,
       "archivedDate": "10.08.2026, 14:16:36"
+    },
+    {
+      "model": "A55",
+      "reason": "Дисплей ориг + акб",
+      "date": "08.08.2026, 15:17:39",
+      "contact": "89538362350",
+      "contact2": "",
+      "name": "",
+      "comment": "Предоплата 5000",
+      "price": 9500,
+      "partsCost": 5110,
+      "id": "item-1786184286627-378",
+      "status": "archived",
+      "updatedAt": 1786621899903,
+      "archivedDate": "13.08.2026, 16:51:39"
     },
     {
       "model": "Системник",
@@ -1967,5 +1968,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786619910421,
-  "updatedAt": 1786621899570
+  "updatedAt": 1786625054588
 }
