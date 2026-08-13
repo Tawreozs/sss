@@ -86,11 +86,11 @@
       "contact2": "",
       "name": "",
       "comment": "Предоплата 5000",
-      "price": 7500,
-      "partsCost": 4630,
+      "price": 9500,
+      "partsCost": 5110,
       "id": "item-1786184286627-378",
       "status": "active",
-      "updatedAt": 1786619607670
+      "updatedAt": 1786619652863
     },
     {
       "model": "Spark 30",
@@ -1964,5 +1964,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786535582973,
-  "updatedAt": 1786619648248
+  "updatedAt": 1786619653641
 }
