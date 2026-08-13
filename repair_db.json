@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Pova 6 neo",
+      "reason": "модуль + стекло",
+      "date": "13.08.2026, 12:31:35",
+      "contact": "89123434048",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1786606312738-361",
+      "status": "active",
+      "updatedAt": 1786606312738
+    },
+    {
       "model": "Honor 8x",
       "reason": "модуль + стекло",
       "date": "13.08.2026, 12:30:05",
@@ -1952,5 +1965,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786535582973,
-  "updatedAt": 1786606294397
+  "updatedAt": 1786606313632
 }
