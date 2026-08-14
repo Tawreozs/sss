@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Redmi 10c",
+      "reason": "модуль в рамке",
+      "date": "14.08.2026, 16:36:29",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "partsCost": 870,
+      "id": "item-1786707452666-446",
+      "status": "active",
+      "updatedAt": 1786707452666
+    },
+    {
       "model": "Spark 9 Pro",
       "reason": "вода",
       "date": "14.08.2026, 15:13:34",
@@ -1996,5 +2010,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786688182267,
-  "updatedAt": 1786707435782
+  "updatedAt": 1786707453797
 }
