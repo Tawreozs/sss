@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Системник",
+      "reason": "диагностика",
+      "date": "14.08.2026, 18:14:28",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1786713284927-487",
+      "status": "active",
+      "updatedAt": 1786713284927
+    },
+    {
       "model": "Realme x3834",
       "reason": "дисплей",
       "date": "14.08.2026, 18:12:24",
@@ -2039,5 +2053,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786707815445,
-  "updatedAt": 1786713258038
+  "updatedAt": 1786713285916
 }
