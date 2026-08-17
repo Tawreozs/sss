@@ -52,20 +52,6 @@
       "updatedAt": 1786955952264
     },
     {
-      "model": "Realme x3834 note 50",
-      "reason": "дисплей",
-      "date": "14.08.2026, 18:12:24",
-      "contact": "89878780498",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2500,
-      "id": "item-1786713210546-187",
-      "status": "active",
-      "updatedAt": 1786972831319,
-      "partsCost": 640
-    },
-    {
       "model": "Spark 9 Pro",
       "reason": "вода",
       "date": "14.08.2026, 15:13:34",
@@ -198,6 +184,21 @@
       "status": "archived",
       "updatedAt": 1786713286448,
       "archivedDate": "14.08.2026, 18:14:46"
+    },
+    {
+      "model": "Realme x3834 note 50",
+      "reason": "дисплей",
+      "date": "14.08.2026, 18:12:24",
+      "contact": "89878780498",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "id": "item-1786713210546-187",
+      "status": "archived",
+      "updatedAt": 1786972833176,
+      "partsCost": 640,
+      "archivedDate": "17.08.2026, 18:20:33"
     },
     {
       "model": "Smart 9",
@@ -2108,5 +2109,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786967048796,
-  "updatedAt": 1786972832619
+  "updatedAt": 1786972860202
 }
