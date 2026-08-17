@@ -113,7 +113,8 @@
       "price": 4000,
       "id": "item-1786450523437-745",
       "status": "active",
-      "updatedAt": 1786450523437
+      "updatedAt": 1786972794722,
+      "partsCost": 1780
     },
     {
       "model": "Poco x7 pro",
@@ -2105,5 +2106,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786967048796,
-  "updatedAt": 1786972787332
+  "updatedAt": 1786972796155
 }
