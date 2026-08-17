@@ -103,20 +103,6 @@
       "updatedAt": 1786619869381
     },
     {
-      "model": "x6c",
-      "reason": "дисплей в рамке",
-      "date": "11.08.2026, 17:14:59",
-      "contact": "89867709869",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 4000,
-      "id": "item-1786450523437-745",
-      "status": "active",
-      "updatedAt": 1786972794722,
-      "partsCost": 1780
-    },
-    {
       "model": "Poco x7 pro",
       "reason": "модуль в рамке",
       "date": "10.08.2026, 14:43:28",
@@ -316,6 +302,21 @@
       "updatedAt": 1786536498988,
       "partsCost": 930,
       "archivedDate": "12.08.2026, 17:08:18"
+    },
+    {
+      "model": "x6c",
+      "reason": "дисплей в рамке",
+      "date": "11.08.2026, 17:14:59",
+      "contact": "89867709869",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 4000,
+      "id": "item-1786450523437-745",
+      "status": "archived",
+      "updatedAt": 1786972798832,
+      "partsCost": 1780,
+      "archivedDate": "17.08.2026, 18:19:58"
     },
     {
       "model": "Samsung A52s",
@@ -2106,5 +2107,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786967048796,
-  "updatedAt": 1786972796155
+  "updatedAt": 1786972800064
 }
