@@ -74,7 +74,8 @@
       "price": 3500,
       "id": "item-1786694772143-602",
       "status": "active",
-      "updatedAt": 1786694772143
+      "updatedAt": 1786972865827,
+      "partsCost": 1547
     },
     {
       "model": "Philips",
@@ -2109,5 +2110,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786967048796,
-  "updatedAt": 1786972865235
+  "updatedAt": 1786972867022
 }
