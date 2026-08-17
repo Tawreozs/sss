@@ -79,19 +79,6 @@
       "partsCost": 1547
     },
     {
-      "model": "Philips",
-      "reason": "не заряд",
-      "date": "12.08.2026, 18:12:36",
-      "contact": "89033921987",
-      "contact2": "",
-      "name": "Вячеслав",
-      "comment": "акб с озона",
-      "price": 1000,
-      "id": "item-1786540381215-538",
-      "status": "active",
-      "updatedAt": 1786619869381
-    },
-    {
       "model": "Poco x7 pro",
       "reason": "модуль в рамке",
       "date": "10.08.2026, 14:43:28",
@@ -291,6 +278,21 @@
       "updatedAt": 1786704054661,
       "partsCost": 1280,
       "archivedDate": "14.08.2026, 15:40:54"
+    },
+    {
+      "model": "Philips",
+      "reason": "не заряд",
+      "date": "12.08.2026, 18:12:36",
+      "contact": "89033921987",
+      "contact2": "",
+      "name": "Вячеслав",
+      "comment": "акб с озона",
+      "price": 1200,
+      "id": "item-1786540381215-538",
+      "status": "archived",
+      "updatedAt": 1786975459550,
+      "partsCost": 660,
+      "archivedDate": "17.08.2026, 19:04:19"
     },
     {
       "model": "реалми",
@@ -2126,5 +2128,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786967048796,
-  "updatedAt": 1786975419953
+  "updatedAt": 1786975463963
 }
