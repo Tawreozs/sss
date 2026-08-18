@@ -37,7 +37,8 @@
       "price": 4300,
       "id": "item-1786962524048-196",
       "status": "active",
-      "updatedAt": 1786962524048
+      "updatedAt": 1787061794371,
+      "partsCost": 1280
     },
     {
       "model": "Spark 9 Pro",
@@ -2160,5 +2161,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787051511813,
-  "updatedAt": 1787061770378
+  "updatedAt": 1787061795684
 }
