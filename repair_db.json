@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Redmi 9a",
+      "reason": "разъём оплачен",
+      "date": "18.08.2026, 17:08:06",
+      "contact": "89068486366",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1200,
+      "id": "item-1787054920252-31",
+      "status": "active",
+      "updatedAt": 1787054920252
+    },
+    {
       "model": "Realme c61",
       "reason": "дисплей ориг + стекло",
       "date": "18.08.2026, 12:12:31",
@@ -2142,5 +2155,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787051511813,
-  "updatedAt": 1787054885663
+  "updatedAt": 1787054922486
 }
