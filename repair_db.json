@@ -27,20 +27,6 @@
       "updatedAt": 1787037390233
     },
     {
-      "model": "Poco c65",
-      "reason": "модуль ориг + стекло",
-      "date": "17.08.2026, 15:28:04",
-      "contact": "89198401031",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 4300,
-      "id": "item-1786962524048-196",
-      "status": "active",
-      "updatedAt": 1787061794371,
-      "partsCost": 1280
-    },
-    {
       "model": "Spark 9 Pro",
       "reason": "вода",
       "date": "14.08.2026, 15:13:34",
@@ -176,6 +162,21 @@
       "status": "archived",
       "updatedAt": 1786975371390,
       "archivedDate": "17.08.2026, 19:02:51"
+    },
+    {
+      "model": "Poco c65",
+      "reason": "модуль ориг + стекло",
+      "date": "17.08.2026, 15:28:04",
+      "contact": "89198401031",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 4300,
+      "id": "item-1786962524048-196",
+      "status": "archived",
+      "updatedAt": 1787061798057,
+      "partsCost": 1280,
+      "archivedDate": "18.08.2026, 19:03:18"
     },
     {
       "model": "Hot 30 Play",
@@ -2161,5 +2162,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787051511813,
-  "updatedAt": 1787061795684
+  "updatedAt": 1787061799361
 }
