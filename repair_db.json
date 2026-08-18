@@ -52,20 +52,6 @@
       "updatedAt": 1786960926756
     },
     {
-      "model": "деталь",
-      "reason": "перепаять",
-      "date": "17.08.2026, 13:38:47",
-      "contact": "89228288928",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 0,
-      "id": "item-1786955952264-466",
-      "status": "active",
-      "updatedAt": 1786955952264
-    },
-    {
       "model": "Spark 9 Pro",
       "reason": "вода",
       "date": "14.08.2026, 15:13:34",
@@ -186,6 +172,21 @@
       "status": "archived",
       "updatedAt": 1786975371390,
       "archivedDate": "17.08.2026, 19:02:51"
+    },
+    {
+      "model": "деталь",
+      "reason": "перепаять",
+      "date": "17.08.2026, 13:38:47",
+      "contact": "89228288928",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1786955952264-466",
+      "status": "archived",
+      "updatedAt": 1787050622390,
+      "archivedDate": "18.08.2026, 15:57:02"
     },
     {
       "model": "Системник",
@@ -2141,5 +2142,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1786975497659,
-  "updatedAt": 1787050621442
+  "updatedAt": 1787050623751
 }
