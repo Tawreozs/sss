@@ -66,20 +66,6 @@
       "updatedAt": 1786355023471
     },
     {
-      "model": "Spark 30",
-      "reason": "дисплей",
-      "date": "05.08.2026, 12:12:03",
-      "contact": "89534510940",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1785913955894-898",
-      "status": "active",
-      "updatedAt": 1785928349742,
-      "price": 2500,
-      "partsCost": 840
-    },
-    {
       "model": "Бронефон",
       "reason": "",
       "date": "08.07.2026, 16:47:52",
@@ -550,6 +536,21 @@
       "status": "archived",
       "updatedAt": 1785937522232,
       "archivedDate": "05.08.2026, 18:45:22"
+    },
+    {
+      "model": "Spark 30",
+      "reason": "дисплей",
+      "date": "05.08.2026, 12:12:03",
+      "contact": "89534510940",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1785913955894-898",
+      "status": "archived",
+      "updatedAt": 1787143970848,
+      "price": 2500,
+      "partsCost": 840,
+      "archivedDate": "19.08.2026, 17:52:50"
     },
     {
       "model": "Iphone 12 pro",
@@ -2190,5 +2191,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787126105808,
-  "updatedAt": 1787143962138
+  "updatedAt": 1787143971775
 }
