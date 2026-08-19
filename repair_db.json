@@ -26,20 +26,6 @@
       "updatedAt": 1787054920252
     },
     {
-      "model": "Realme c61",
-      "reason": "дисплей ориг + стекло",
-      "date": "18.08.2026, 12:12:31",
-      "contact": "89198480914",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3800,
-      "id": "item-1787037390233-273",
-      "status": "active",
-      "updatedAt": 1787132175174,
-      "partsCost": 940
-    },
-    {
       "model": "Spark 9 Pro",
       "reason": "вода",
       "date": "14.08.2026, 15:13:34",
@@ -145,6 +131,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Realme c61",
+      "reason": "дисплей ориг + стекло",
+      "date": "18.08.2026, 12:12:31",
+      "contact": "89198480914",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1787037390233-273",
+      "status": "archived",
+      "updatedAt": 1787132176640,
+      "partsCost": 940,
+      "archivedDate": "19.08.2026, 14:36:16"
     },
     {
       "model": "A10",
@@ -2175,5 +2176,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787126105808,
-  "updatedAt": 1787132176165
+  "updatedAt": 1787132177867
 }
