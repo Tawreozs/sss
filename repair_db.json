@@ -21,10 +21,12 @@
       "contact": "89871911643",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "замена блока питания, продувка",
       "id": "item-1787133000950-238",
       "status": "active",
-      "updatedAt": 1787133000950
+      "updatedAt": 1787220677175,
+      "price": 5000,
+      "partsCost": 2800
     },
     {
       "model": "Spark 9 Pro",
@@ -2206,5 +2208,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787210950723,
-  "updatedAt": 1787220658103
+  "updatedAt": 1787220678704
 }
