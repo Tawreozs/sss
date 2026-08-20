@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "TCL 30SE",
-      "reason": "дисплей с озона",
-      "date": "14.08.2026, 13:05:41",
-      "contact": "89501899281",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "id": "item-1786694772143-602",
-      "status": "active",
-      "updatedAt": 1786972865827,
-      "partsCost": 1547
-    },
-    {
       "model": "Poco x7 pro",
       "reason": "модуль в рамке",
       "date": "10.08.2026, 14:43:28",
@@ -303,6 +289,21 @@
       "price": 4000,
       "partsCost": 1730,
       "archivedDate": "20.08.2026, 16:41:23"
+    },
+    {
+      "model": "TCL 30SE",
+      "reason": "дисплей с озона",
+      "date": "14.08.2026, 13:05:41",
+      "contact": "89501899281",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1786694772143-602",
+      "status": "archived",
+      "updatedAt": 1787233016067,
+      "partsCost": 1547,
+      "archivedDate": "20.08.2026, 18:36:56"
     },
     {
       "model": "Pova 6 neo",
@@ -2213,5 +2214,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787232408456,
-  "updatedAt": 1787232972538
+  "updatedAt": 1787233017725
 }
