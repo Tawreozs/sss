@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Планшет",
-      "reason": "Разъём",
-      "date": "20.08.2026, 12:07:06",
-      "contact": "89325404595",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "id": "item-1787209645155-301",
-      "status": "active",
-      "updatedAt": 1787217278831,
-      "partsCost": 0
-    },
-    {
       "model": "TCL 30SE",
       "reason": "дисплей с озона",
       "date": "14.08.2026, 13:05:41",
@@ -94,6 +80,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Планшет",
+      "reason": "Разъём",
+      "date": "20.08.2026, 12:07:06",
+      "contact": "89325404595",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1787209645155-301",
+      "status": "archived",
+      "updatedAt": 1787231729781,
+      "partsCost": 0,
+      "archivedDate": "20.08.2026, 18:15:29"
     },
     {
       "model": "Системник",
@@ -2212,5 +2213,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787210950723,
-  "updatedAt": 1787231728081
+  "updatedAt": 1787231731167
 }
