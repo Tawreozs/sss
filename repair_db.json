@@ -551,11 +551,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 1000,
+      "price": 1500,
       "partsCost": 0,
       "id": "item-1785937383976-687",
       "status": "archived",
-      "updatedAt": 1785937522232,
+      "updatedAt": 1787231718389,
       "archivedDate": "05.08.2026, 18:45:22"
     },
     {
@@ -2212,5 +2212,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787210950723,
-  "updatedAt": 1787231688360
+  "updatedAt": 1787231719325
 }
