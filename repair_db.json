@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "iphone 13",
-      "reason": "замена крышки и акб по закупу",
-      "date": "21.08.2026, 18:17:56",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 6500,
-      "partsCost": 1570,
-      "id": "item-1787318553987-68",
-      "status": "active",
-      "updatedAt": 1787318553987
-    },
-    {
       "model": "Spark 20 pro",
       "reason": "",
       "date": "21.08.2026, 16:28:31",
@@ -106,6 +92,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "iphone 13",
+      "reason": "замена крышки и акб по закупу",
+      "date": "21.08.2026, 18:17:56",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 6500,
+      "partsCost": 1570,
+      "id": "item-1787318553987-68",
+      "status": "archived",
+      "updatedAt": 1787318558525,
+      "archivedDate": "21.08.2026, 18:22:38"
     },
     {
       "model": "Планшет",
@@ -2254,5 +2255,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787315221587,
-  "updatedAt": 1787318554888
+  "updatedAt": 1787318559489
 }
