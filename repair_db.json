@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Samsung A06",
+      "reason": "дисплей ориг + стекло",
+      "date": "21.08.2026, 13:53:55",
+      "contact": "89619041002",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1787302540184-486",
+      "status": "active",
+      "updatedAt": 1787302540184
+    },
+    {
       "model": "Poco x7 pro",
       "reason": "модуль в рамке",
       "date": "10.08.2026, 14:43:28",
@@ -2214,5 +2227,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787232408456,
-  "updatedAt": 1787302498254
+  "updatedAt": 1787302541544
 }
