@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "mi стернький",
+      "reason": "не заряд",
+      "date": "21.08.2026, 18:24:20",
+      "contact": "89123587917",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "id": "item-1787318676567-582",
+      "status": "active",
+      "updatedAt": 1787318676567
+    },
+    {
       "model": "Spark 20 pro",
       "reason": "",
       "date": "21.08.2026, 16:28:31",
@@ -2255,5 +2268,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787318571157,
-  "updatedAt": 1787318661376
+  "updatedAt": 1787318677453
 }
