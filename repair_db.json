@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "model": "Honor x7a",
+      "model": "Honor x7a 26го числа",
       "reason": "",
       "date": "24.08.2026, 15:42:06",
       "contact": "89877952013",
@@ -11,7 +11,7 @@
       "price": 3500,
       "id": "item-1787568156888-536",
       "status": "active",
-      "updatedAt": 1787568259380
+      "updatedAt": 1787568283501
     },
     {
       "model": "Redmi 10C",
@@ -2332,5 +2332,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787318571157,
-  "updatedAt": 1787568275690
+  "updatedAt": 1787568284324
 }
