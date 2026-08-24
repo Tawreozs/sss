@@ -62,7 +62,8 @@
       "price": 2500,
       "id": "item-1787555674902-562",
       "status": "active",
-      "updatedAt": 1787555674902
+      "updatedAt": 1787570025883,
+      "partsCost": 750
     },
     {
       "model": "mi стернький",
@@ -2334,5 +2335,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787570002453,
-  "updatedAt": 1787570012083
+  "updatedAt": 1787570026816
 }
