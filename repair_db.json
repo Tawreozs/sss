@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Nokia 6",
+      "reason": "ЗУ + акб",
+      "date": "24.08.2026, 16:14:16",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "partsCost": 261,
+      "id": "item-1787570074366-449",
+      "status": "active",
+      "updatedAt": 1787570074366
+    },
+    {
       "model": "Honor x7a 26го числа",
       "reason": "",
       "date": "24.08.2026, 15:42:06",
@@ -2336,5 +2349,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787570002453,
-  "updatedAt": 1787570048708
+  "updatedAt": 1787570075358
 }
