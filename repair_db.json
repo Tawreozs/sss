@@ -104,20 +104,6 @@
       "updatedAt": 1787302540184
     },
     {
-      "model": "Poco x7 pro",
-      "reason": "модуль в рамке",
-      "date": "10.08.2026, 14:43:28",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 5200,
-      "id": "item-1786355023471-265",
-      "status": "active",
-      "updatedAt": 1787569167309,
-      "partsCost": 2580
-    },
-    {
       "model": "Бронефон",
       "reason": "",
       "date": "08.07.2026, 16:47:52",
@@ -603,6 +589,21 @@
       "status": "archived",
       "updatedAt": 1786361031908,
       "archivedDate": "10.08.2026, 16:23:51"
+    },
+    {
+      "model": "Poco x7 pro",
+      "reason": "модуль в рамке",
+      "date": "10.08.2026, 14:43:28",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 5200,
+      "id": "item-1786355023471-265",
+      "status": "archived",
+      "updatedAt": 1787569169913,
+      "partsCost": 2580,
+      "archivedDate": "24.08.2026, 15:59:29"
     },
     {
       "model": "Redmi note 14",
@@ -2333,5 +2334,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787569095019,
-  "updatedAt": 1787569168150
+  "updatedAt": 1787569170800
 }
