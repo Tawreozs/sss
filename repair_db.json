@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Pova 7 neo",
+      "reason": "дисплей",
+      "date": "24.08.2026, 12:13:27",
+      "contact": "89952766634",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2500,
+      "id": "item-1787555674902-562",
+      "status": "active",
+      "updatedAt": 1787555674902
+    },
+    {
       "model": "mi стернький",
       "reason": "не заряд",
       "date": "21.08.2026, 18:24:20",
@@ -2268,5 +2281,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787318571157,
-  "updatedAt": 1787555655948
+  "updatedAt": 1787555675801
 }
