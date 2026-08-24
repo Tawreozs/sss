@@ -1,17 +1,17 @@
 {
   "items": [
     {
-      "model": "Honor x7",
+      "model": "Honor x7a",
       "reason": "",
       "date": "24.08.2026, 15:42:06",
       "contact": "89877952013",
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 3000,
+      "price": 3500,
       "id": "item-1787568156888-536",
       "status": "active",
-      "updatedAt": 1787568156888
+      "updatedAt": 1787568259380
     },
     {
       "model": "Redmi 10C",
@@ -2332,5 +2332,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787318571157,
-  "updatedAt": 1787568250589
+  "updatedAt": 1787568260268
 }
