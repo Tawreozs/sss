@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Honor x7",
+      "reason": "",
+      "date": "24.08.2026, 15:42:06",
+      "contact": "89877952013",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1787568156888-536",
+      "status": "active",
+      "updatedAt": 1787568156888
+    },
+    {
       "model": "Redmi 10C",
       "reason": "дисплей или достать данные",
       "date": "24.08.2026, 14:05:28",
@@ -2319,5 +2332,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787318571157,
-  "updatedAt": 1787568126252
+  "updatedAt": 1787568157769
 }
