@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Realme",
+      "reason": "дисплей с рамкой + стекло",
+      "date": "24.08.2026, 13:14:05",
+      "contact": "89669705474",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3100,
+      "id": "item-1787559281969-609",
+      "status": "active",
+      "updatedAt": 1787559281969
+    },
+    {
       "model": "Pova 7 neo",
       "reason": "дисплей",
       "date": "24.08.2026, 12:13:27",
@@ -2281,5 +2294,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787318571157,
-  "updatedAt": 1787559239905
+  "updatedAt": 1787559283488
 }
