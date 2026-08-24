@@ -107,19 +107,6 @@
       "partsCost": 950
     },
     {
-      "model": "Samsung A06",
-      "reason": "дисплей ориг + стекло",
-      "date": "21.08.2026, 13:53:55",
-      "contact": "89619041002",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3800,
-      "id": "item-1787302540184-486",
-      "status": "active",
-      "updatedAt": 1787302540184
-    },
-    {
       "model": "Бронефон",
       "reason": "",
       "date": "08.07.2026, 16:47:52",
@@ -187,6 +174,20 @@
       "status": "archived",
       "updatedAt": 1787318558525,
       "archivedDate": "21.08.2026, 18:22:38"
+    },
+    {
+      "model": "Samsung A06",
+      "reason": "дисплей ориг + стекло",
+      "date": "21.08.2026, 13:53:55",
+      "contact": "89619041002",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1787302540184-486",
+      "status": "archived",
+      "updatedAt": 1787579301792,
+      "archivedDate": "24.08.2026, 18:48:21"
     },
     {
       "model": "Планшет",
@@ -2350,5 +2351,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787575224587,
-  "updatedAt": 1787579301208
+  "updatedAt": 1787579349703
 }
