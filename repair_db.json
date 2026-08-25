@@ -7,11 +7,11 @@
       "contact": "89510336900",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "3000 предоплата",
       "price": 4600,
       "id": "item-1787650468203-930",
       "status": "active",
-      "updatedAt": 1787650468203
+      "updatedAt": 1787650513876
     },
     {
       "model": "Nokia 6",
@@ -2364,5 +2364,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787575224587,
-  "updatedAt": 1787650469826
+  "updatedAt": 1787650515659
 }
