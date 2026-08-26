@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Системник",
-      "reason": "винда",
-      "date": "26.08.2026, 13:51:20",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 0,
-      "id": "item-1787734292963-439",
-      "status": "active",
-      "updatedAt": 1787734292963
-    },
-    {
       "model": "Redmi 9t",
       "reason": "Не заряд не вкл",
       "date": "26.08.2026, 12:59:05",
@@ -198,6 +184,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Системник",
+      "reason": "винда",
+      "date": "26.08.2026, 13:51:20",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 0,
+      "id": "item-1787734292963-439",
+      "status": "archived",
+      "updatedAt": 1787734295089,
+      "archivedDate": "26.08.2026, 13:51:35"
     },
     {
       "model": "iphone 13",
@@ -2390,5 +2391,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787575224587,
-  "updatedAt": 1787734294313
+  "updatedAt": 1787734342557
 }
