@@ -56,7 +56,7 @@
     },
     {
       "model": "Redmi 10C",
-      "reason": "дисплей или достать данные",
+      "reason": "дисплей ориг в рамке",
       "date": "24.08.2026, 14:05:28",
       "contact": "89011151101",
       "contact2": "",
@@ -64,8 +64,9 @@
       "comment": "код 1261",
       "id": "item-1787562365198-198",
       "status": "active",
-      "updatedAt": 1787742722356,
-      "partsCost": 870
+      "updatedAt": 1787829511265,
+      "partsCost": 870,
+      "price": 3500
     },
     {
       "model": "Spark 20 pro",
@@ -2430,5 +2431,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787737738347,
-  "updatedAt": 1787829495596
+  "updatedAt": 1787829512344
 }
