@@ -11,7 +11,8 @@
       "price": 3000,
       "id": "item-1787836575746-597",
       "status": "active",
-      "updatedAt": 1787836575746
+      "updatedAt": 1787915284457,
+      "partsCost": 990
     },
     {
       "model": "A51",
@@ -2461,5 +2462,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787839742291,
-  "updatedAt": 1787915282334
+  "updatedAt": 1787915285592
 }
