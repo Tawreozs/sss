@@ -11,7 +11,8 @@
       "price": 4000,
       "id": "item-1787748313933-857",
       "status": "active",
-      "updatedAt": 1787748313933
+      "updatedAt": 1787915324100,
+      "partsCost": 2030
     },
     {
       "model": "Redmi 9t",
@@ -2463,5 +2464,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1787839742291,
-  "updatedAt": 1787915315569
+  "updatedAt": 1787915324983
 }
