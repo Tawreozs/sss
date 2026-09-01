@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "A17",
+      "reason": "перенос данных",
+      "date": "01.09.2026, 16:06:34",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1788260803924-114",
+      "status": "active",
+      "updatedAt": 1788260803924
+    },
+    {
       "model": "A32",
       "reason": "не вкл, разбит экран",
       "date": "31.08.2026, 18:14:14",
@@ -2517,5 +2531,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788184589408,
-  "updatedAt": 1788260792500
+  "updatedAt": 1788260805333
 }
