@@ -14,20 +14,6 @@
       "updatedAt": 1788182081205
     },
     {
-      "model": "Ноут Tanderrobot",
-      "reason": "матрица + чистка",
-      "date": "31.08.2026, 16:56:25",
-      "contact": "+79033694825",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 17000,
-      "partsCost": 9520,
-      "id": "item-1788177461914-174",
-      "status": "active",
-      "updatedAt": 1788247398088
-    },
-    {
       "model": "Планшет",
       "reason": "ребут",
       "date": "31.08.2026, 14:36:08",
@@ -145,6 +131,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Ноут Tanderrobot",
+      "reason": "матрица + чистка",
+      "date": "31.08.2026, 16:56:25",
+      "contact": "+79033694825",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 17000,
+      "partsCost": 9520,
+      "id": "item-1788177461914-174",
+      "status": "archived",
+      "updatedAt": 1788247455167,
+      "archivedDate": "01.09.2026, 12:24:15"
     },
     {
       "model": "a24",
@@ -2516,5 +2517,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788184589408,
-  "updatedAt": 1788247417956
+  "updatedAt": 1788247457268
 }
