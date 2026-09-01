@@ -67,7 +67,7 @@
       "updatedAt": 1787650714551
     },
     {
-      "model": "Honor x7a 26го числа",
+      "model": "Honor x7a",
       "reason": "",
       "date": "24.08.2026, 15:42:06",
       "contact": "89877952013",
@@ -77,7 +77,7 @@
       "price": 3500,
       "id": "item-1787568156888-536",
       "status": "active",
-      "updatedAt": 1787742642313,
+      "updatedAt": 1788260865015,
       "partsCost": 1700
     },
     {
@@ -2534,5 +2534,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788184589408,
-  "updatedAt": 1788260845229
+  "updatedAt": 1788260866416
 }
