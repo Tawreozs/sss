@@ -144,8 +144,8 @@
       "partsCost": 9520,
       "id": "item-1788177461914-174",
       "status": "archived",
-      "updatedAt": 1788247381208,
-      "archivedDate": "01.09.2026, 12:23:01"
+      "updatedAt": 1788247397103,
+      "archivedDate": "31.08.2026, 12:23:01"
     },
     {
       "model": "a24",
@@ -2517,5 +2517,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788184589408,
-  "updatedAt": 1788247382868
+  "updatedAt": 1788247398500
 }
