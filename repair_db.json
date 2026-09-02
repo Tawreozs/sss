@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "A32",
-      "reason": "не вкл, разбит экран",
-      "date": "31.08.2026, 18:14:14",
-      "contact": "89198501176",
-      "contact2": "",
-      "name": "Александр",
-      "comment": "",
-      "price": 4000,
-      "id": "item-1788182081205-374",
-      "status": "active",
-      "updatedAt": 1788261276107,
-      "partsCost": 1850
-    },
-    {
       "model": "A16",
       "reason": "не вкл",
       "date": "31.08.2026, 14:20:29",
@@ -136,6 +122,21 @@
       "status": "archived",
       "updatedAt": 1788260805407,
       "archivedDate": "01.09.2026, 16:06:45"
+    },
+    {
+      "model": "A32",
+      "reason": "не вкл, разбит экран",
+      "date": "31.08.2026, 18:14:14",
+      "contact": "89198501176",
+      "contact2": "",
+      "name": "Александр",
+      "comment": "",
+      "price": 4000,
+      "id": "item-1788182081205-374",
+      "status": "archived",
+      "updatedAt": 1788353131573,
+      "partsCost": 1850,
+      "archivedDate": "02.09.2026, 17:45:31"
     },
     {
       "model": "Ноут Tanderrobot",
@@ -2552,5 +2553,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788339997301,
-  "updatedAt": 1788353131797
+  "updatedAt": 1788353138224
 }
