@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Infinix",
-      "reason": "не заряд",
-      "date": "02.09.2026, 11:53:00",
-      "contact": "",
-      "contact2": "",
-      "name": "Виталя сервис",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 20,
-      "id": "item-1788331997980-812",
-      "status": "active",
-      "updatedAt": 1788331997980
-    },
-    {
       "model": "A32",
       "reason": "не вкл, разбит экран",
       "date": "31.08.2026, 18:14:14",
@@ -120,6 +106,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Infinix",
+      "reason": "не заряд",
+      "date": "02.09.2026, 11:53:00",
+      "contact": "",
+      "contact2": "",
+      "name": "Виталя сервис",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 20,
+      "id": "item-1788331997980-812",
+      "status": "archived",
+      "updatedAt": 1788351316511,
+      "archivedDate": "02.09.2026, 17:15:16"
     },
     {
       "model": "A17",
@@ -2551,5 +2552,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788339997301,
-  "updatedAt": 1788351312113
+  "updatedAt": 1788351318135
 }
