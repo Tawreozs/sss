@@ -7,11 +7,12 @@
       "contact": "89225395369",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "почистил разъём, разобрал, перестегнул акб",
       "price": 2000,
+      "partsCost": 0,
       "id": "item-1788773757908-934",
       "status": "active",
-      "updatedAt": 1788773757908
+      "updatedAt": 1788781152951
     },
     {
       "model": "A16",
@@ -2597,5 +2598,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788770625018,
-  "updatedAt": 1788781139687
+  "updatedAt": 1788781154261
 }
