@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Huawei Nova 9",
+      "reason": "Не заряд",
+      "date": "07.09.2026, 14:35:26",
+      "contact": "89225395369",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1788773757908-934",
+      "status": "active",
+      "updatedAt": 1788773757908
+    },
+    {
       "model": "A16",
       "reason": "не вкл",
       "date": "31.08.2026, 14:20:29",
@@ -2569,5 +2582,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788770625018,
-  "updatedAt": 1788773740660
+  "updatedAt": 1788773759190
 }
