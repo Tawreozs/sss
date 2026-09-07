@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Телефон",
-      "reason": "чистка от рекламы",
-      "date": "07.09.2026, 16:20:50",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1788780063318-302",
-      "status": "active",
-      "updatedAt": 1788780063318
-    },
-    {
       "model": "Huawei Nova 9",
       "reason": "Не заряд",
       "date": "07.09.2026, 14:35:26",
@@ -105,6 +91,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Телефон",
+      "reason": "чистка от рекламы",
+      "date": "07.09.2026, 16:20:50",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1788780063318-302",
+      "status": "archived",
+      "updatedAt": 1788780067237,
+      "archivedDate": "07.09.2026, 16:21:07"
     },
     {
       "model": "Redmi Note 12",
@@ -2596,5 +2597,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788770625018,
-  "updatedAt": 1788780064727
+  "updatedAt": 1788780068611
 }
