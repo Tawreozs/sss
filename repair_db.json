@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Huawei Nova 9",
-      "reason": "Не заряд",
-      "date": "07.09.2026, 14:35:26",
-      "contact": "89225395369",
-      "contact2": "",
-      "name": "",
-      "comment": "почистил разъём, разобрал, перестегнул акб",
-      "price": 2000,
-      "partsCost": 0,
-      "id": "item-1788773757908-934",
-      "status": "active",
-      "updatedAt": 1788781152951
-    },
-    {
       "model": "A16",
       "reason": "не вкл",
       "date": "31.08.2026, 14:20:29",
@@ -107,6 +93,21 @@
       "status": "archived",
       "updatedAt": 1788780067237,
       "archivedDate": "07.09.2026, 16:21:07"
+    },
+    {
+      "model": "Huawei Nova 9",
+      "reason": "Не заряд",
+      "date": "07.09.2026, 14:35:26",
+      "contact": "89225395369",
+      "contact2": "",
+      "name": "",
+      "comment": "почистил разъём, разобрал, перестегнул акб",
+      "price": 2000,
+      "partsCost": 0,
+      "id": "item-1788773757908-934",
+      "status": "archived",
+      "updatedAt": 1788781154602,
+      "archivedDate": "07.09.2026, 16:39:14"
     },
     {
       "model": "Redmi Note 12",
@@ -2598,5 +2599,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788770625018,
-  "updatedAt": 1788781154261
+  "updatedAt": 1788781204252
 }
