@@ -15,20 +15,6 @@
       "updatedAt": 1788947101935
     },
     {
-      "model": "Spark 8p",
-      "reason": "дисплей",
-      "date": "09.09.2026, 13:10:18",
-      "contact": "89871948315",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2600,
-      "id": "item-1788941455255-676",
-      "status": "active",
-      "updatedAt": 1788954537261,
-      "partsCost": 680
-    },
-    {
       "model": "Ноутбук haier u1520em",
       "reason": "вздутый акб, заказан на али",
       "date": "25.08.2026, 14:33:37",
@@ -80,6 +66,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Spark 8p",
+      "reason": "дисплей",
+      "date": "09.09.2026, 13:10:18",
+      "contact": "89871948315",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2600,
+      "id": "item-1788941455255-676",
+      "status": "archived",
+      "updatedAt": 1788954538507,
+      "partsCost": 680,
+      "archivedDate": "09.09.2026, 16:48:58"
     },
     {
       "model": "Телефон",
@@ -2629,5 +2630,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788945506591,
-  "updatedAt": 1788954539257
+  "updatedAt": 1788954547477
 }
