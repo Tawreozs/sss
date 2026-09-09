@@ -25,7 +25,8 @@
       "price": 2600,
       "id": "item-1788941455255-676",
       "status": "active",
-      "updatedAt": 1788941455255
+      "updatedAt": 1788954537261,
+      "partsCost": 680
     },
     {
       "model": "Ноутбук haier u1520em",
@@ -2628,5 +2629,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788945506591,
-  "updatedAt": 1788954503953
+  "updatedAt": 1788954539257
 }
