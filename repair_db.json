@@ -8,11 +8,11 @@
       "contact2": "",
       "name": "Серёга клиент",
       "comment": "",
-      "price": 2500,
+      "price": 2300,
       "partsCost": 100,
       "id": "item-1789027814957-542",
       "status": "active",
-      "updatedAt": 1789027814958
+      "updatedAt": 1789027829016
     },
     {
       "model": "infinix note 40 pro",
@@ -2670,5 +2670,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1788955751533,
-  "updatedAt": 1789027816923
+  "updatedAt": 1789027830757
 }
