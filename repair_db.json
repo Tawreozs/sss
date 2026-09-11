@@ -7,10 +7,10 @@
       "contact": "89123506499",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "id": "item-1788956612841-54",
       "status": "active",
-      "updatedAt": 1788956612841
+      "updatedAt": 1789113401995
     },
     {
       "model": "Realme XT",
@@ -2673,5 +2673,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789032780629,
-  "updatedAt": 1789113394107
+  "updatedAt": 1789113403356
 }
