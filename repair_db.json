@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Spark 8C kg5n",
-      "reason": "замена разъёма + переклейка дисплея + стекло",
-      "date": "10.09.2026, 13:09:36",
-      "contact": "",
-      "contact2": "",
-      "name": "Серёга клиент",
-      "comment": "",
-      "price": 2500,
-      "partsCost": 150,
-      "id": "item-1789027814957-542",
-      "status": "active",
-      "updatedAt": 1789113385269
-    },
-    {
       "model": "X7d",
       "reason": "не вкл, ударник",
       "date": "09.09.2026, 17:23:14",
@@ -78,6 +64,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Spark 8C kg5n",
+      "reason": "замена разъёма + переклейка дисплея + стекло",
+      "date": "10.09.2026, 13:09:36",
+      "contact": "",
+      "contact2": "",
+      "name": "Серёга клиент",
+      "comment": "",
+      "price": 2500,
+      "partsCost": 150,
+      "id": "item-1789027814957-542",
+      "status": "archived",
+      "updatedAt": 1789113386400,
+      "archivedDate": "11.09.2026, 12:56:26"
     },
     {
       "model": "infinix note 40 pro",
@@ -2672,5 +2673,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789032780629,
-  "updatedAt": 1789113386756
+  "updatedAt": 1789113394107
 }
