@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Huawei",
-      "reason": "Модуль клиента",
-      "date": "14.09.2026, 13:34:39",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 0,
-      "id": "item-1789375419520-537",
-      "status": "active",
-      "updatedAt": 1789385648065
-    },
-    {
       "model": "Iphone 13",
       "reason": "не заряд, весь битый",
       "date": "14.09.2026, 13:29:08",
@@ -103,6 +89,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Huawei",
+      "reason": "Модуль клиента",
+      "date": "14.09.2026, 13:34:39",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1789375419520-537",
+      "status": "archived",
+      "updatedAt": 1789385648781,
+      "archivedDate": "14.09.2026, 16:34:08"
     },
     {
       "model": "Spark 8C kg5n",
@@ -2712,5 +2713,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789385237568,
-  "updatedAt": 1789385649608
+  "updatedAt": 1789385698085
 }
