@@ -14,20 +14,6 @@
       "updatedAt": 1789465001786
     },
     {
-      "model": "Realme c61",
-      "reason": "модуль ориг стекло",
-      "date": "14.09.2026, 16:56:47",
-      "contact": "89225395326",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3800,
-      "id": "item-1789387048344-902",
-      "status": "active",
-      "updatedAt": 1789472160516,
-      "partsCost": 720
-    },
-    {
       "model": "Iphone 13",
       "reason": "не заряд, весь битый",
       "date": "14.09.2026, 13:29:08",
@@ -102,6 +88,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Realme c61",
+      "reason": "модуль ориг стекло",
+      "date": "14.09.2026, 16:56:47",
+      "contact": "89225395326",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1789387048344-902",
+      "status": "archived",
+      "updatedAt": 1789472164812,
+      "partsCost": 720,
+      "archivedDate": "15.09.2026, 16:36:04"
     },
     {
       "model": "Huawei",
@@ -2741,5 +2742,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789472080966,
-  "updatedAt": 1789472162097
+  "updatedAt": 1789472166273
 }
