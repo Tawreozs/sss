@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Pova 5",
-      "reason": "модуль ориг + стекло",
-      "date": "15.09.2026, 14:36:14",
-      "contact": "89128477981",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3800,
-      "id": "item-1789465001786-622",
-      "status": "active",
-      "updatedAt": 1789561428916,
-      "partsCost": 820
-    },
-    {
       "model": "Ноутбук haier u1520em",
       "reason": "вздутый акб, заказан на али",
       "date": "25.08.2026, 14:33:37",
@@ -82,6 +68,21 @@
       "status": "archived",
       "updatedAt": 1789563712224,
       "archivedDate": "16.09.2026, 18:01:52"
+    },
+    {
+      "model": "Pova 5",
+      "reason": "модуль ориг + стекло",
+      "date": "15.09.2026, 14:36:14",
+      "contact": "89128477981",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1789465001786-622",
+      "status": "archived",
+      "updatedAt": 1789565578314,
+      "partsCost": 820,
+      "archivedDate": "16.09.2026, 18:32:58"
     },
     {
       "model": "Realme c61",
@@ -2781,5 +2782,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789472080966,
-  "updatedAt": 1789565578714
+  "updatedAt": 1789565586548
 }
