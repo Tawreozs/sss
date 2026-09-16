@@ -21,11 +21,12 @@
       "contact": "89878790950",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "возможно 790 вернут мемсы",
       "price": 3800,
       "id": "item-1789373108325-12",
       "status": "active",
-      "updatedAt": 1789564938810
+      "updatedAt": 1789564994234,
+      "partsCost": 1650
     },
     {
       "model": "Ноутбук haier u1520em",
@@ -2779,5 +2780,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789472080966,
-  "updatedAt": 1789564981928
+  "updatedAt": 1789564995802
 }
