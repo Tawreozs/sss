@@ -9,9 +9,10 @@
       "name": "",
       "comment": "",
       "price": 3800,
+      "partsCost": 910,
       "id": "item-1789549751391-510",
       "status": "active",
-      "updatedAt": 1789549751391
+      "updatedAt": 1789561409301
     },
     {
       "model": "Pova 5",
@@ -2776,5 +2777,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789472080966,
-  "updatedAt": 1789561401841
+  "updatedAt": 1789561410877
 }
