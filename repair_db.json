@@ -15,20 +15,6 @@
       "partsCost": 820
     },
     {
-      "model": "Realme 9 5G",
-      "reason": "модуль ориг + стекло",
-      "date": "14.09.2026, 13:04:40",
-      "contact": "89878790950",
-      "contact2": "",
-      "name": "",
-      "comment": "возможно 790 вернут мемсы",
-      "price": 3800,
-      "id": "item-1789373108325-12",
-      "status": "active",
-      "updatedAt": 1789564994234,
-      "partsCost": 1650
-    },
-    {
       "model": "Ноутбук haier u1520em",
       "reason": "вздутый акб, заказан на али",
       "date": "25.08.2026, 14:33:37",
@@ -141,6 +127,21 @@
       "price": 3800,
       "partsCost": 600,
       "archivedDate": "16.09.2026, 10:44:42"
+    },
+    {
+      "model": "Realme 9 5G",
+      "reason": "модуль ориг + стекло",
+      "date": "14.09.2026, 13:04:40",
+      "contact": "89878790950",
+      "contact2": "",
+      "name": "",
+      "comment": "возможно 790 вернут мемсы",
+      "price": 3800,
+      "id": "item-1789373108325-12",
+      "status": "archived",
+      "updatedAt": 1789565049575,
+      "partsCost": 1650,
+      "archivedDate": "16.09.2026, 18:24:09"
     },
     {
       "model": "Spark 8C kg5n",
@@ -2780,5 +2781,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789472080966,
-  "updatedAt": 1789565043216
+  "updatedAt": 1789565051264
 }
