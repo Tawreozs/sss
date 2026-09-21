@@ -14,20 +14,6 @@
       "updatedAt": 1789982344184
     },
     {
-      "model": "Iphone 11",
-      "reason": "не вкл",
-      "date": "17.09.2026, 14:06:54",
-      "contact": "89878929835",
-      "contact2": "89534528484",
-      "name": "",
-      "comment": "",
-      "id": "item-1789636050672-176",
-      "status": "active",
-      "updatedAt": 1789987876695,
-      "price": 3500,
-      "partsCost": 1290
-    },
-    {
       "model": "Ноутбук haier u1520em",
       "reason": "вздутый акб, заказан на али",
       "date": "25.08.2026, 14:33:37",
@@ -80,6 +66,21 @@
       "status": "archived",
       "updatedAt": 1789986387407,
       "archivedDate": "21.09.2026, 15:26:27"
+    },
+    {
+      "model": "Iphone 11",
+      "reason": "не вкл",
+      "date": "17.09.2026, 14:06:54",
+      "contact": "89878929835",
+      "contact2": "89534528484",
+      "name": "",
+      "comment": "",
+      "id": "item-1789636050672-176",
+      "status": "archived",
+      "updatedAt": 1789987879032,
+      "price": 3500,
+      "partsCost": 1290,
+      "archivedDate": "21.09.2026, 15:51:19"
     },
     {
       "model": "Redmi note 9",
@@ -2824,5 +2825,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1789637477144,
-  "updatedAt": 1789987878203
+  "updatedAt": 1789987881269
 }
