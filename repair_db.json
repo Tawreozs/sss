@@ -11,7 +11,8 @@
       "price": 2200,
       "id": "item-1789995632446-934",
       "status": "active",
-      "updatedAt": 1789995632446
+      "updatedAt": 1790081563830,
+      "partsCost": 710
     },
     {
       "model": "Iphone",
@@ -2868,5 +2869,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790063201573,
-  "updatedAt": 1790081557740
+  "updatedAt": 1790081567620
 }
