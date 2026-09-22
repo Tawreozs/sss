@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "почистил память",
-      "reason": "",
-      "date": "22.09.2026, 16:09:23",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1790075370518-983",
-      "status": "active",
-      "updatedAt": 1790075370518
-    },
-    {
       "model": "Spark 20",
       "reason": "дисплей + стекло",
       "date": "21.09.2026, 17:59:52",
@@ -78,6 +64,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "почистил память",
+      "reason": "",
+      "date": "22.09.2026, 16:09:23",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1790075370518-983",
+      "status": "archived",
+      "updatedAt": 1790075372267,
+      "archivedDate": "22.09.2026, 16:09:32"
     },
     {
       "model": "Пропаял приборку для Витали",
@@ -2867,5 +2868,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790063201573,
-  "updatedAt": 1790075372363
+  "updatedAt": 1790075421470
 }
