@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Пропаял приборку для Витали",
+      "reason": "",
+      "date": "22.09.2026, 15:43:27",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1790073827121-165",
+      "status": "active",
+      "updatedAt": 1790073827121
+    },
+    {
       "model": "Spark 20",
       "reason": "дисплей + стекло",
       "date": "21.09.2026, 17:59:52",
@@ -2838,5 +2852,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790063201573,
-  "updatedAt": 1790073805874
+  "updatedAt": 1790073828691
 }
