@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "model": "Iphone",
+      "model": "Iphone 13 pro",
       "reason": "",
       "date": "21.09.2026, 14:18:07",
       "contact": "89226288815",
@@ -11,7 +11,7 @@
       "price": 2000,
       "id": "item-1789982308102-664",
       "status": "active",
-      "updatedAt": 1789982344184
+      "updatedAt": 1790081714760
     },
     {
       "model": "Ноутбук haier u1520em",
@@ -2870,5 +2870,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790063201573,
-  "updatedAt": 1790081711915
+  "updatedAt": 1790081716636
 }
