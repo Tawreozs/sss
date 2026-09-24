@@ -24,7 +24,8 @@
       "price": 3500,
       "id": "item-1790166833078-177",
       "status": "active",
-      "updatedAt": 1790166833078
+      "updatedAt": 1790236175632,
+      "partsCost": 850
     },
     {
       "model": "Iphone 13 pro",
@@ -2897,5 +2898,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790148635307,
-  "updatedAt": 1790236167349
+  "updatedAt": 1790236177081
 }
