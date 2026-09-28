@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Iphone xr",
+      "reason": "Виталя",
+      "date": "28.09.2026, 13:52:10",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1790585556696-798",
+      "status": "active",
+      "updatedAt": 1790585556696
+    },
+    {
       "model": "редми плохая связь",
       "reason": "",
       "date": "24.09.2026, 14:03:39",
@@ -2913,5 +2927,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790340102107,
-  "updatedAt": 1790585526857
+  "updatedAt": 1790585558203
 }
