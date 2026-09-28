@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Iphone xr",
-      "reason": "Виталя",
-      "date": "28.09.2026, 13:52:10",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 0,
-      "id": "item-1790585556696-798",
-      "status": "active",
-      "updatedAt": 1790585556696
-    },
-    {
       "model": "редми плохая связь",
       "reason": "",
       "date": "24.09.2026, 14:03:39",
@@ -78,6 +64,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Iphone xr",
+      "reason": "Виталя",
+      "date": "28.09.2026, 13:52:10",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1790585556696-798",
+      "status": "archived",
+      "updatedAt": 1790585558797,
+      "archivedDate": "28.09.2026, 13:52:38"
     },
     {
       "model": "Redmi 14c",
@@ -2927,5 +2928,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790340102107,
-  "updatedAt": 1790585558203
+  "updatedAt": 1790585560728
 }
