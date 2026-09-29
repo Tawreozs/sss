@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "брелок",
-      "reason": "подпаял",
-      "date": "29.09.2026, 18:20:36",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 400,
-      "partsCost": 0,
-      "id": "item-1790688046194-31",
-      "status": "active",
-      "updatedAt": 1790688046195
-    },
-    {
       "model": "Note 11 pro 4G",
       "reason": "модуль + стекло",
       "date": "28.09.2026, 18:23:53",
@@ -91,6 +77,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "брелок",
+      "reason": "подпаял",
+      "date": "29.09.2026, 18:20:36",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 400,
+      "partsCost": 0,
+      "id": "item-1790688046194-31",
+      "status": "archived",
+      "updatedAt": 1790688048336,
+      "archivedDate": "29.09.2026, 18:20:48"
     },
     {
       "model": "A10",
@@ -2970,5 +2971,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790677983383,
-  "updatedAt": 1790688047768
+  "updatedAt": 1790688050315
 }
