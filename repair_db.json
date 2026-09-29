@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "A10",
-      "reason": "разъём",
-      "date": "29.09.2026, 16:01:16",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 20,
-      "id": "item-1790679689353-177",
-      "status": "active",
-      "updatedAt": 1790679689353
-    },
-    {
       "model": "Note 11 pro 4G",
       "reason": "модуль + стекло",
       "date": "28.09.2026, 18:23:53",
@@ -91,6 +77,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "A10",
+      "reason": "разъём",
+      "date": "29.09.2026, 16:01:16",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 20,
+      "id": "item-1790679689353-177",
+      "status": "archived",
+      "updatedAt": 1790679691283,
+      "archivedDate": "29.09.2026, 16:01:31"
     },
     {
       "model": "Iphone xr",
@@ -2955,5 +2956,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790677983383,
-  "updatedAt": 1790679690859
+  "updatedAt": 1790679707873
 }
