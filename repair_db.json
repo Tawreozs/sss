@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Iphone 11",
-      "reason": "модуль",
-      "date": "01.10.2026, 14:07:29",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "partsCost": 1290,
-      "id": "item-1790845694620-751",
-      "status": "active",
-      "updatedAt": 1790845694620
-    },
-    {
       "model": "Iphone XR",
       "reason": "нет изо",
       "date": "30.09.2026, 11:36:17",
@@ -103,6 +89,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Iphone 11",
+      "reason": "модуль",
+      "date": "01.10.2026, 14:07:29",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "partsCost": 1290,
+      "id": "item-1790845694620-751",
+      "status": "archived",
+      "updatedAt": 1790845699726,
+      "archivedDate": "01.10.2026, 14:08:19"
     },
     {
       "model": "брелок",
@@ -2997,5 +2998,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790768529129,
-  "updatedAt": 1790845695824
+  "updatedAt": 1790845700849
 }
