@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "IPhone 11",
+      "reason": "Модуль + стекло",
+      "date": "02.10.2026, 12:13:25",
+      "contact": "89058166531",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1790925245288-43",
+      "status": "active",
+      "updatedAt": 1790925245288
+    },
+    {
       "model": "Note 11 pro 4G",
       "reason": "модуль + стекло",
       "date": "28.09.2026, 18:23:53",
@@ -3001,5 +3014,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790768529129,
-  "updatedAt": 1790863555278
+  "updatedAt": 1790925246376
 }
