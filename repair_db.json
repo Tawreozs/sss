@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "радар",
-      "reason": "обновление баз",
-      "date": "02.10.2026, 12:55:04",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1790927715856-956",
-      "status": "active",
-      "updatedAt": 1790927715856
-    },
-    {
       "model": "IPhone 11",
       "reason": "Модуль + стекло",
       "date": "02.10.2026, 12:13:25",
@@ -104,6 +90,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "радар",
+      "reason": "обновление баз",
+      "date": "02.10.2026, 12:55:04",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1790927715856-956",
+      "status": "archived",
+      "updatedAt": 1790927717664,
+      "archivedDate": "02.10.2026, 12:55:17"
     },
     {
       "model": "Iphone 11",
@@ -3028,5 +3029,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790925720870,
-  "updatedAt": 1790927717147
+  "updatedAt": 1790927766109
 }
