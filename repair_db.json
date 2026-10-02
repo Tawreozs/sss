@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "колонка",
+      "reason": "разъём",
+      "date": "02.10.2026, 13:02:14",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1790928143966-582",
+      "status": "active",
+      "updatedAt": 1790928143966
+    },
+    {
       "model": "IPhone 11",
       "reason": "Модуль + стекло",
       "date": "02.10.2026, 12:13:25",
@@ -3029,5 +3042,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790925720870,
-  "updatedAt": 1790928133852
+  "updatedAt": 1790928145190
 }
