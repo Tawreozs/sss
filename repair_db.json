@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "инфиникс",
-      "reason": "подклеить",
-      "date": "02.10.2026, 17:49:55",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1790945404158-613",
-      "status": "active",
-      "updatedAt": 1790945404159
-    },
-    {
       "model": "A51",
       "reason": "акб",
       "date": "02.10.2026, 16:43:05",
@@ -117,6 +103,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "инфиникс",
+      "reason": "подклеить",
+      "date": "02.10.2026, 17:49:55",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1790945404158-613",
+      "status": "archived",
+      "updatedAt": 1790945405606,
+      "archivedDate": "02.10.2026, 17:50:05"
     },
     {
       "model": "радар",
@@ -3071,5 +3072,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790941383270,
-  "updatedAt": 1790945405375
+  "updatedAt": 1790945453945
 }
