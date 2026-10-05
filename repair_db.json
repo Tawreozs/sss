@@ -14,20 +14,6 @@
       "updatedAt": 1791186852103
     },
     {
-      "model": "A51",
-      "reason": "акб",
-      "date": "02.10.2026, 16:43:05",
-      "contact": "89033952429",
-      "contact2": "",
-      "name": "",
-      "comment": "1000 предоплата",
-      "price": 2500,
-      "id": "item-1790941409446-63",
-      "status": "active",
-      "updatedAt": 1791204700679,
-      "partsCost": 800
-    },
-    {
       "model": "колонка",
       "reason": "разъём",
       "date": "02.10.2026, 13:02:14",
@@ -147,6 +133,21 @@
       "status": "archived",
       "updatedAt": 1790945405606,
       "archivedDate": "02.10.2026, 17:50:05"
+    },
+    {
+      "model": "A51",
+      "reason": "акб",
+      "date": "02.10.2026, 16:43:05",
+      "contact": "89033952429",
+      "contact2": "",
+      "name": "",
+      "comment": "1000 предоплата",
+      "price": 2500,
+      "id": "item-1790941409446-63",
+      "status": "archived",
+      "updatedAt": 1791204706061,
+      "partsCost": 800,
+      "archivedDate": "05.10.2026, 17:51:46"
     },
     {
       "model": "радар",
@@ -3102,5 +3103,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791191079595,
-  "updatedAt": 1791204701921
+  "updatedAt": 1791204707384
 }
