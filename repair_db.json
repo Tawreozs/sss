@@ -24,7 +24,8 @@
       "price": 2500,
       "id": "item-1790941409446-63",
       "status": "active",
-      "updatedAt": 1790941421329
+      "updatedAt": 1791204700679,
+      "partsCost": 800
     },
     {
       "model": "колонка",
@@ -3101,5 +3102,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791191079595,
-  "updatedAt": 1791204697024
+  "updatedAt": 1791204701921
 }
