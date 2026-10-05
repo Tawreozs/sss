@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "ноут",
-      "reason": "драйвер вай-фай",
-      "date": "05.10.2026, 14:21:00",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1791192069709-207",
-      "status": "active",
-      "updatedAt": 1791192069709
-    },
-    {
       "model": "7 neo",
       "reason": "",
       "date": "05.10.2026, 12:53:54",
@@ -130,6 +116,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "ноут",
+      "reason": "драйвер вай-фай",
+      "date": "05.10.2026, 14:21:00",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1791192069709-207",
+      "status": "archived",
+      "updatedAt": 1791192071736,
+      "archivedDate": "05.10.2026, 14:21:11"
     },
     {
       "model": "A02",
@@ -3114,5 +3115,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1791191079595,
-  "updatedAt": 1791192070993
+  "updatedAt": 1791192072973
 }
