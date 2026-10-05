@@ -14,20 +14,6 @@
       "updatedAt": 1791186852103
     },
     {
-      "model": "A02",
-      "reason": "FRP",
-      "date": "05.10.2026, 12:52:33",
-      "contact": "89225497590",
-      "contact2": "",
-      "name": "Сергей",
-      "comment": "",
-      "price": 1800,
-      "partsCost": 250,
-      "id": "item-1791186772159-158",
-      "status": "active",
-      "updatedAt": 1791189650015
-    },
-    {
       "model": "A51",
       "reason": "акб",
       "date": "02.10.2026, 16:43:05",
@@ -130,6 +116,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "A02",
+      "reason": "FRP",
+      "date": "05.10.2026, 12:52:33",
+      "contact": "89225497590",
+      "contact2": "",
+      "name": "Сергей",
+      "comment": "",
+      "price": 1800,
+      "partsCost": 250,
+      "id": "item-1791186772159-158",
+      "status": "archived",
+      "updatedAt": 1791189794363,
+      "archivedDate": "05.10.2026, 13:43:14"
     },
     {
       "model": "инфиникс",
@@ -3099,5 +3100,5 @@
     "item-1779953301415-647"
   ],
   "partsUpdatedAt": 1790941383270,
-  "updatedAt": 1791189794355
+  "updatedAt": 1791189843329
 }
