@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "7 neo",
-      "reason": "",
-      "date": "05.10.2026, 12:53:54",
-      "contact": "89096076698",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2900,
-      "id": "item-1791186852103-490",
-      "status": "active",
-      "updatedAt": 1791293064781,
-      "partsCost": 830
-    },
-    {
       "model": "колонка",
       "reason": "разъём",
       "date": "02.10.2026, 13:02:14",
@@ -134,6 +120,21 @@
       "status": "archived",
       "updatedAt": 1791273404826,
       "archivedDate": "06.10.2026, 12:56:44"
+    },
+    {
+      "model": "7 neo",
+      "reason": "",
+      "date": "05.10.2026, 12:53:54",
+      "contact": "89096076698",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2900,
+      "id": "item-1791186852103-490",
+      "status": "archived",
+      "updatedAt": 1791293074729,
+      "partsCost": 830,
+      "archivedDate": "06.10.2026, 18:24:34"
     },
     {
       "model": "A02",
@@ -3134,5 +3135,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791205235036,
-  "updatedAt": 1791293066293
+  "updatedAt": 1791293075976
 }
