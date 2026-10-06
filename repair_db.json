@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "ноут",
-      "reason": "активация офиса",
-      "date": "06.10.2026, 15:43:42",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1791283431595-647",
-      "status": "active",
-      "updatedAt": 1791283431595
-    },
-    {
       "model": "7 neo",
       "reason": "",
       "date": "05.10.2026, 12:53:54",
@@ -117,6 +103,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "ноут",
+      "reason": "активация офиса",
+      "date": "06.10.2026, 15:43:42",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1791283431595-647",
+      "status": "archived",
+      "updatedAt": 1791283433105,
+      "archivedDate": "06.10.2026, 15:43:53"
     },
     {
       "model": "Iphone 15 pro",
@@ -3132,5 +3133,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791205235036,
-  "updatedAt": 1791283434365
+  "updatedAt": 1791283449345
 }
