@@ -8,10 +8,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 2600,
+      "price": 2900,
       "id": "item-1791186852103-490",
       "status": "active",
-      "updatedAt": 1791186852103
+      "updatedAt": 1791293064781,
+      "partsCost": 830
     },
     {
       "model": "колонка",
@@ -3133,5 +3134,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791205235036,
-  "updatedAt": 1791293059756
+  "updatedAt": 1791293066293
 }
