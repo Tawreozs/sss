@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Iphone 15 pro",
-      "reason": "сброс настроек",
-      "date": "06.10.2026, 12:56:28",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 0,
-      "id": "item-1791273402848-160",
-      "status": "active",
-      "updatedAt": 1791273402848
-    },
-    {
       "model": "7 neo",
       "reason": "",
       "date": "05.10.2026, 12:53:54",
@@ -117,6 +103,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Iphone 15 pro",
+      "reason": "сброс настроек",
+      "date": "06.10.2026, 12:56:28",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 0,
+      "id": "item-1791273402848-160",
+      "status": "archived",
+      "updatedAt": 1791273404826,
+      "archivedDate": "06.10.2026, 12:56:44"
     },
     {
       "model": "A02",
@@ -3117,5 +3118,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791205235036,
-  "updatedAt": 1791273404026
+  "updatedAt": 1791273405939
 }
