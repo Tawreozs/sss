@@ -11,7 +11,8 @@
       "price": 1500,
       "id": "item-1790928143966-582",
       "status": "active",
-      "updatedAt": 1790928143966
+      "updatedAt": 1791366807766,
+      "partsCost": 100
     },
     {
       "model": "Note 11 pro 4G",
@@ -3135,5 +3136,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791293094826,
-  "updatedAt": 1791366795972
+  "updatedAt": 1791366809017
 }
