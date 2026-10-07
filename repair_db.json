@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "колонка",
-      "reason": "разъём",
-      "date": "02.10.2026, 13:02:14",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "id": "item-1790928143966-582",
-      "status": "active",
-      "updatedAt": 1791366807766,
-      "partsCost": 100
-    },
-    {
       "model": "Note 11 pro 4G",
       "reason": "модуль + стекло",
       "date": "28.09.2026, 18:23:53",
@@ -181,6 +167,21 @@
       "updatedAt": 1791204706061,
       "partsCost": 800,
       "archivedDate": "05.10.2026, 17:51:46"
+    },
+    {
+      "model": "колонка",
+      "reason": "разъём",
+      "date": "02.10.2026, 13:02:14",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1790928143966-582",
+      "status": "archived",
+      "updatedAt": 1791366808909,
+      "partsCost": 100,
+      "archivedDate": "07.10.2026, 14:53:28"
     },
     {
       "model": "радар",
@@ -3136,5 +3137,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791293094826,
-  "updatedAt": 1791366809017
+  "updatedAt": 1791366835049
 }
