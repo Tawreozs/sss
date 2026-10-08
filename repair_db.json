@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "model": "Poco",
+      "model": "Poco c75",
       "reason": "не заряд не вкл",
       "date": "08.10.2026, 12:21:51",
       "contact": "89867745407",
@@ -11,7 +11,7 @@
       "price": 2000,
       "id": "item-1791444143667-886",
       "status": "active",
-      "updatedAt": 1791444143667
+      "updatedAt": 1791444181460
     },
     {
       "model": "Iphone 14",
@@ -3174,5 +3174,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791293094826,
-  "updatedAt": 1791444174306
+  "updatedAt": 1791444182689
 }
