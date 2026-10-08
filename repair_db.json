@@ -23,7 +23,8 @@
       "comment": "",
       "id": "item-1791377694451-512",
       "status": "active",
-      "updatedAt": 1791380452650
+      "updatedAt": 1791465793702,
+      "price": 11000
     },
     {
       "model": "A055",
@@ -3174,5 +3175,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791444193876,
-  "updatedAt": 1791465789586
+  "updatedAt": 1791465795240
 }
