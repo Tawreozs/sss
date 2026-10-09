@@ -11,7 +11,8 @@
       "price": 2000,
       "id": "item-1791444143667-886",
       "status": "active",
-      "updatedAt": 1791444181460
+      "updatedAt": 1791545483298,
+      "partsCost": 30
     },
     {
       "model": "Iphone 14",
@@ -3176,5 +3177,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791469201390,
-  "updatedAt": 1791545481145
+  "updatedAt": 1791545484614
 }
