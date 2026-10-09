@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Poco c75",
-      "reason": "не заряд не вкл",
-      "date": "08.10.2026, 12:21:51",
-      "contact": "89867745407",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "id": "item-1791444143667-886",
-      "status": "active",
-      "updatedAt": 1791545483298,
-      "partsCost": 30
-    },
-    {
       "model": "Iphone 14",
       "reason": "дисплей, крышка, стекло камеры",
       "date": "07.10.2026, 17:54:03",
@@ -117,6 +103,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Poco c75",
+      "reason": "не заряд не вкл",
+      "date": "08.10.2026, 12:21:51",
+      "contact": "89867745407",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "id": "item-1791444143667-886",
+      "status": "archived",
+      "updatedAt": 1791545492424,
+      "partsCost": 30,
+      "archivedDate": "09.10.2026, 16:31:32"
     },
     {
       "model": "ноут",
@@ -3177,5 +3178,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791469201390,
-  "updatedAt": 1791545484614
+  "updatedAt": 1791545493923
 }
