@@ -14,7 +14,7 @@
     },
     {
       "model": "Nova 12i",
-      "reason": "",
+      "reason": "модуль в рамке",
       "date": "12.10.2026, 12:41:43",
       "contact": "",
       "contact2": "",
@@ -24,7 +24,7 @@
       "partsCost": 1409,
       "id": "item-1791800415078-464",
       "status": "active",
-      "updatedAt": 1791805349269
+      "updatedAt": 1791805360110
     },
     {
       "model": "A055",
@@ -3206,5 +3206,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791805350991
+  "updatedAt": 1791805361339
 }
