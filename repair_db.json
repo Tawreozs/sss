@@ -15,20 +15,6 @@
       "updatedAt": 1791811937498
     },
     {
-      "model": "Realme 11",
-      "reason": "модуль олед",
-      "date": "12.10.2026, 18:19:13",
-      "contact": "",
-      "contact2": "",
-      "name": "Виталин зятёк",
-      "comment": "",
-      "price": 4050,
-      "partsCost": 3020,
-      "id": "item-1791811182786-728",
-      "status": "active",
-      "updatedAt": 1791811182786
-    },
-    {
       "model": "A536",
       "reason": "не вкл, не заряд, гнутый",
       "date": "12.10.2026, 15:20:16",
@@ -117,6 +103,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Realme 11",
+      "reason": "модуль олед",
+      "date": "12.10.2026, 18:19:13",
+      "contact": "",
+      "contact2": "",
+      "name": "Виталин зятёк",
+      "comment": "",
+      "price": 4050,
+      "partsCost": 3020,
+      "id": "item-1791811182786-728",
+      "status": "archived",
+      "updatedAt": 1791813418005,
+      "archivedDate": "12.10.2026, 18:56:58"
     },
     {
       "model": "Nova 12i",
@@ -3235,5 +3236,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791813416913
+  "updatedAt": 1791813419199
 }
