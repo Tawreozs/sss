@@ -21,9 +21,10 @@
       "name": "",
       "comment": "пленка матовая или стекло",
       "price": 3500,
+      "partsCost": 1409,
       "id": "item-1791800415078-464",
       "status": "active",
-      "updatedAt": 1791800415078
+      "updatedAt": 1791805349269
     },
     {
       "model": "A055",
@@ -3205,5 +3206,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791805308105
+  "updatedAt": 1791805350991
 }
