@@ -26,18 +26,6 @@
       "updatedAt": 1790602001889
     },
     {
-      "model": "редми плохая связь",
-      "reason": "",
-      "date": "24.09.2026, 14:03:39",
-      "contact": "89033956067",
-      "contact2": "",
-      "name": "",
-      "comment": "без ремонта",
-      "id": "item-1790240641895-989",
-      "status": "active",
-      "updatedAt": 1791789309441
-    },
-    {
       "model": "Iphone 13 pro",
       "reason": "",
       "date": "21.09.2026, 14:18:07",
@@ -329,6 +317,19 @@
       "status": "archived",
       "updatedAt": 1790585558797,
       "archivedDate": "28.09.2026, 13:52:38"
+    },
+    {
+      "model": "редми плохая связь",
+      "reason": "",
+      "date": "24.09.2026, 14:03:39",
+      "contact": "89033956067",
+      "contact2": "",
+      "name": "",
+      "comment": "без ремонта",
+      "id": "item-1790240641895-989",
+      "status": "archived",
+      "updatedAt": 1791789310269,
+      "archivedDate": "12.10.2026, 12:15:10"
     },
     {
       "model": "Redmi 14c",
@@ -3179,5 +3180,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791789310690
+  "updatedAt": 1791789322417
 }
