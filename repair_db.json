@@ -13,20 +13,6 @@
       "updatedAt": 1791800545894
     },
     {
-      "model": "Nova 12i",
-      "reason": "модуль в рамке",
-      "date": "12.10.2026, 12:41:43",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "пленка матовая или стекло",
-      "price": 3500,
-      "partsCost": 1409,
-      "id": "item-1791800415078-464",
-      "status": "active",
-      "updatedAt": 1791805360110
-    },
-    {
       "model": "A055",
       "reason": "не вкл не заряд",
       "date": "07.10.2026, 17:41:27",
@@ -103,6 +89,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Nova 12i",
+      "reason": "модуль в рамке",
+      "date": "12.10.2026, 12:41:43",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "пленка матовая или стекло",
+      "price": 3500,
+      "partsCost": 1409,
+      "id": "item-1791800415078-464",
+      "status": "archived",
+      "updatedAt": 1791808942993,
+      "archivedDate": "12.10.2026, 17:42:22"
     },
     {
       "model": "Poco c75",
@@ -3206,5 +3207,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791808941657
+  "updatedAt": 1791808944224
 }
