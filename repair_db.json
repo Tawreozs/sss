@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Iphone 14",
-      "reason": "дисплей, крышка, стекло камеры",
-      "date": "07.10.2026, 17:54:03",
-      "contact": "89619241012",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1791377694451-512",
-      "status": "active",
-      "updatedAt": 1791789289813,
-      "price": 11300,
-      "partsCost": 4760
-    },
-    {
       "model": "A055",
       "reason": "не вкл не заряд",
       "date": "07.10.2026, 17:41:27",
@@ -118,6 +104,21 @@
       "updatedAt": 1791545492424,
       "partsCost": 30,
       "archivedDate": "09.10.2026, 16:31:32"
+    },
+    {
+      "model": "Iphone 14",
+      "reason": "дисплей, крышка, стекло камеры",
+      "date": "07.10.2026, 17:54:03",
+      "contact": "89619241012",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1791377694451-512",
+      "status": "archived",
+      "updatedAt": 1791789292548,
+      "price": 11300,
+      "partsCost": 4760,
+      "archivedDate": "12.10.2026, 12:14:52"
     },
     {
       "model": "ноут",
@@ -3178,5 +3179,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791789291249
+  "updatedAt": 1791789293808
 }
