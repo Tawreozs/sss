@@ -2,15 +2,17 @@
   "items": [
     {
       "model": "Iphone 11 Pro Max",
-      "reason": "",
+      "reason": "Модуль OLED",
       "date": "12.10.2026, 18:22:17",
       "contact": "",
       "contact2": "",
       "name": "",
       "comment": "",
+      "price": 6000,
+      "partsCost": 2570,
       "id": "item-1791811350267-696",
       "status": "active",
-      "updatedAt": 1791811350267
+      "updatedAt": 1791811937498
     },
     {
       "model": "Realme 11",
@@ -3233,5 +3235,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791811905452
+  "updatedAt": 1791811938831
 }
