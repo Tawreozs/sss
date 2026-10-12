@@ -32,10 +32,10 @@
       "contact": "89033956067",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "id": "item-1790240641895-989",
       "status": "active",
-      "updatedAt": 1790240641895
+      "updatedAt": 1791789309441
     },
     {
       "model": "Iphone 13 pro",
@@ -3179,5 +3179,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791789293808
+  "updatedAt": 1791789310690
 }
