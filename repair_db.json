@@ -41,20 +41,6 @@
       "updatedAt": 1791879250413
     },
     {
-      "model": "iphone 14",
-      "reason": "Не работает камера",
-      "date": "13.10.2026, 12:26:44",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "010910, диагностика\n",
-      "id": "item-1791876418567-729",
-      "status": "active",
-      "updatedAt": 1791919896867,
-      "price": 500,
-      "partsCost": 0
-    },
-    {
       "model": "A536",
       "reason": "не вкл, не заряд, гнутый",
       "date": "12.10.2026, 15:20:16",
@@ -130,6 +116,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "iphone 14",
+      "reason": "Не работает камера",
+      "date": "13.10.2026, 12:26:44",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "010910, диагностика\n",
+      "id": "item-1791876418567-729",
+      "status": "archived",
+      "updatedAt": 1791919898124,
+      "price": 500,
+      "partsCost": 0,
+      "archivedDate": "14.10.2026, 00:31:38"
     },
     {
       "model": "Iphone 11 Pro Max",
@@ -3293,5 +3294,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791919897919
+  "updatedAt": 1791919929087
 }
