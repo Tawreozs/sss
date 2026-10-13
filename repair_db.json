@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "iphone 14",
+      "reason": "",
+      "date": "13.10.2026, 12:26:44",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "010910",
+      "id": "item-1791876418567-729",
+      "status": "active",
+      "updatedAt": 1791876418567
+    },
+    {
       "model": "Iphone 11 Pro Max",
       "reason": "Модуль OLED",
       "date": "12.10.2026, 18:22:17",
@@ -3236,5 +3248,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791876400897
+  "updatedAt": 1791876419741
 }
