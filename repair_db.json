@@ -53,20 +53,6 @@
       "updatedAt": 1791876418567
     },
     {
-      "model": "Iphone 11 Pro Max",
-      "reason": "Модуль OLED",
-      "date": "12.10.2026, 18:22:17",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 6000,
-      "partsCost": 2570,
-      "id": "item-1791811350267-696",
-      "status": "active",
-      "updatedAt": 1791811937498
-    },
-    {
       "model": "A536",
       "reason": "не вкл, не заряд, гнутый",
       "date": "12.10.2026, 15:20:16",
@@ -156,6 +142,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Iphone 11 Pro Max",
+      "reason": "Модуль OLED",
+      "date": "12.10.2026, 18:22:17",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 6000,
+      "partsCost": 2570,
+      "id": "item-1791811350267-696",
+      "status": "archived",
+      "updatedAt": 1791919817982,
+      "archivedDate": "14.10.2026, 00:30:17"
     },
     {
       "model": "Realme 11",
@@ -3289,5 +3290,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791919800110
+  "updatedAt": 1791919819724
 }
