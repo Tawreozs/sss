@@ -42,15 +42,17 @@
     },
     {
       "model": "iphone 14",
-      "reason": "",
+      "reason": "Не работает камера",
       "date": "13.10.2026, 12:26:44",
       "contact": "",
       "contact2": "",
       "name": "",
-      "comment": "010910",
+      "comment": "010910, диагностика\n",
       "id": "item-1791876418567-729",
       "status": "active",
-      "updatedAt": 1791876418567
+      "updatedAt": 1791919896867,
+      "price": 500,
+      "partsCost": 0
     },
     {
       "model": "A536",
@@ -3291,5 +3293,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791919881443
+  "updatedAt": 1791919897919
 }
