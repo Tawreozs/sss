@@ -83,11 +83,12 @@
       "contact": "89226288815",
       "contact2": "",
       "name": "",
-      "comment": "",
-      "price": 2000,
+      "comment": "что-то с коннектором акб или обманкой, делал Петька",
+      "price": 3000,
       "id": "item-1789982308102-664",
       "status": "active",
-      "updatedAt": 1790081714760
+      "updatedAt": 1791879578914,
+      "partsCost": 1000
     },
     {
       "model": "Iphone 11",
@@ -3261,5 +3262,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791879542446
+  "updatedAt": 1791879580625
 }
