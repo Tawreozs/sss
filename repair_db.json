@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "A217f",
+      "reason": "переклейка",
+      "date": "13.10.2026, 13:21:54",
+      "contact": "89228150130",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1791879739018-275",
+      "status": "active",
+      "updatedAt": 1791879739018
+    },
+    {
       "model": "Realme 10",
       "reason": "Модуль олед",
       "date": "13.10.2026, 13:13:34",
@@ -3262,5 +3276,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791879721149
+  "updatedAt": 1791879740197
 }
