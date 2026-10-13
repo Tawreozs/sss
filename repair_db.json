@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Realme 10",
+      "reason": "Модуль олед",
+      "date": "13.10.2026, 13:13:34",
+      "contact": "89867876462",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 5000,
+      "id": "item-1791879250413-7",
+      "status": "active",
+      "updatedAt": 1791879250413
+    },
+    {
       "model": "iphone 14",
       "reason": "",
       "date": "13.10.2026, 12:26:44",
@@ -3248,5 +3261,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791879213781
+  "updatedAt": 1791879252254
 }
