@@ -51,7 +51,8 @@
       "price": 5000,
       "id": "item-1791879250413-7",
       "status": "active",
-      "updatedAt": 1791879250413
+      "updatedAt": 1791975380352,
+      "partsCost": 2950
     },
     {
       "model": "A536",
@@ -3352,5 +3353,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791964986853,
-  "updatedAt": 1791975369987
+  "updatedAt": 1791975381706
 }
