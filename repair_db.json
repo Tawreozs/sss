@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "чистка телефона",
-      "reason": "",
-      "date": "14.10.2026, 12:26:45",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1791962964698-789",
-      "status": "active",
-      "updatedAt": 1791962964698
-    },
-    {
       "model": "spark 20с",
       "reason": "акб",
       "date": "13.10.2026, 14:25:28",
@@ -130,6 +116,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "чистка телефона",
+      "reason": "",
+      "date": "14.10.2026, 12:26:45",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1791962964698-789",
+      "status": "archived",
+      "updatedAt": 1791963142609,
+      "archivedDate": "14.10.2026, 12:32:22"
     },
     {
       "model": "iphone 14",
@@ -3308,5 +3309,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791963141184
+  "updatedAt": 1791963144052
 }
