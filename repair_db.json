@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "сброс настроек",
-      "reason": "",
-      "date": "14.10.2026, 12:35:05",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1791963315596-979",
-      "status": "active",
-      "updatedAt": 1791963315596
-    },
-    {
       "model": "spark 20с",
       "reason": "акб",
       "date": "13.10.2026, 14:25:28",
@@ -130,6 +116,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "сброс настроек",
+      "reason": "",
+      "date": "14.10.2026, 12:35:05",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1791963315596-979",
+      "status": "archived",
+      "updatedAt": 1791963317219,
+      "archivedDate": "14.10.2026, 12:35:17"
     },
     {
       "model": "чистка телефона",
@@ -3323,5 +3324,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791963316910
+  "updatedAt": 1791963325278
 }
