@@ -27,20 +27,6 @@
       "updatedAt": 1791975368395
     },
     {
-      "model": "Realme 10",
-      "reason": "Модуль олед",
-      "date": "13.10.2026, 13:13:34",
-      "contact": "89867876462",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 5000,
-      "id": "item-1791879250413-7",
-      "status": "active",
-      "updatedAt": 1791975380352,
-      "partsCost": 2950
-    },
-    {
       "model": "A536",
       "reason": "не вкл, не заряд, гнутый",
       "date": "12.10.2026, 15:20:16",
@@ -162,6 +148,21 @@
       "updatedAt": 1791984351991,
       "partsCost": 520,
       "archivedDate": "14.10.2026, 18:25:51"
+    },
+    {
+      "model": "Realme 10",
+      "reason": "Модуль олед",
+      "date": "13.10.2026, 13:13:34",
+      "contact": "89867876462",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 5000,
+      "id": "item-1791879250413-7",
+      "status": "archived",
+      "updatedAt": 1791985478177,
+      "partsCost": 2950,
+      "archivedDate": "14.10.2026, 18:44:38"
     },
     {
       "model": "iphone 14",
@@ -3353,5 +3354,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791964986853,
-  "updatedAt": 1791985474883
+  "updatedAt": 1791985480968
 }
