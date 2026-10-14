@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Realme C61 Rmx3930",
+      "reason": "модуль + стекло",
+      "date": "14.10.2026, 14:49:34",
+      "contact": "89867927919",
+      "contact2": "",
+      "name": "",
+      "comment": "код 2299",
+      "id": "item-1791971466326-131",
+      "status": "active",
+      "updatedAt": 1791971466326
+    },
+    {
       "model": "spark 20с",
       "reason": "акб",
       "date": "13.10.2026, 14:25:28",
@@ -3339,5 +3351,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791964986853,
-  "updatedAt": 1791971444093
+  "updatedAt": 1791971467607
 }
