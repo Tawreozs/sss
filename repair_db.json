@@ -23,7 +23,8 @@
       "price": 2000,
       "id": "item-1791883568499-688",
       "status": "active",
-      "updatedAt": 1791883568499
+      "updatedAt": 1791975341168,
+      "partsCost": 520
     },
     {
       "model": "A217f",
@@ -3351,5 +3352,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791964986853,
-  "updatedAt": 1791975331872
+  "updatedAt": 1791975342410
 }
