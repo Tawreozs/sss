@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "обновил ватсап",
-      "reason": "",
-      "date": "14.10.2026, 13:36:08",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 100,
-      "partsCost": 0,
-      "id": "item-1791966976837-934",
-      "status": "active",
-      "updatedAt": 1791966976837
-    },
-    {
       "model": "spark 20с",
       "reason": "акб",
       "date": "13.10.2026, 14:25:28",
@@ -130,6 +116,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "обновил ватсап",
+      "reason": "",
+      "date": "14.10.2026, 13:36:08",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 100,
+      "partsCost": 0,
+      "id": "item-1791966976837-934",
+      "status": "archived",
+      "updatedAt": 1791966978491,
+      "archivedDate": "14.10.2026, 13:36:18"
     },
     {
       "model": "сброс настроек",
@@ -3338,5 +3339,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791964986853,
-  "updatedAt": 1791966978267
+  "updatedAt": 1791967027481
 }
