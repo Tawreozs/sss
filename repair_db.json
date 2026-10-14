@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "чистка телефона",
+      "reason": "",
+      "date": "14.10.2026, 12:26:45",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1791962964698-789",
+      "status": "active",
+      "updatedAt": 1791962964698
+    },
+    {
       "model": "spark 20с",
       "reason": "акб",
       "date": "13.10.2026, 14:25:28",
@@ -3294,5 +3308,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791553358648,
-  "updatedAt": 1791962938870
+  "updatedAt": 1791962965905
 }
