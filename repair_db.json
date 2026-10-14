@@ -98,12 +98,10 @@
       "contact": "89878929835",
       "contact2": "89534528484",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта, вернул 3500 р",
       "id": "item-1789636050672-176",
       "status": "active",
-      "updatedAt": 1790170148603,
-      "price": 3500,
-      "partsCost": 1290
+      "updatedAt": 1791980443956
     },
     {
       "id": "3",
@@ -3353,5 +3351,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791964986853,
-  "updatedAt": 1791980419226
+  "updatedAt": 1791980446198
 }
