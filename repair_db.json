@@ -34,11 +34,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 1500,
-      "partsCost": 0,
+      "price": 4000,
+      "partsCost": 1400,
       "id": "item-1791879739018-275",
       "status": "active",
-      "updatedAt": 1791879739018
+      "updatedAt": 1791975368395
     },
     {
       "model": "Realme 10",
@@ -3352,5 +3352,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791964986853,
-  "updatedAt": 1791975342410
+  "updatedAt": 1791975369987
 }
