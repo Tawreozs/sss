@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Nova 12i",
+      "reason": "модуль в рамке",
+      "date": "15.10.2026, 18:15:14",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "partsCost": 1410,
+      "id": "item-1792070155751-831",
+      "status": "active",
+      "updatedAt": 1792070155751
+    },
+    {
       "model": "Honor",
       "reason": "не вкл, не заряд",
       "date": "15.10.2026, 17:23:47",
@@ -3392,5 +3406,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1791964986853,
-  "updatedAt": 1792070123117
+  "updatedAt": 1792070156934
 }
