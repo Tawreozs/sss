@@ -39,20 +39,6 @@
       "updatedAt": 1792067057325
     },
     {
-      "model": "Redmi 15c",
-      "reason": "дисплей гнутый + стекло",
-      "date": "15.10.2026, 15:45:04",
-      "contact": "89022479371",
-      "contact2": "89128407222",
-      "name": "",
-      "comment": "",
-      "price": 2900,
-      "id": "item-1792061190108-259",
-      "status": "active",
-      "updatedAt": 1792151102669,
-      "partsCost": 760
-    },
-    {
       "model": "Realme C61 Rmx3930",
       "reason": "модуль + стекло",
       "date": "14.10.2026, 14:49:34",
@@ -143,6 +129,21 @@
       "updatedAt": 1792140591529,
       "partsCost": 200,
       "archivedDate": "16.10.2026, 13:49:51"
+    },
+    {
+      "model": "Redmi 15c",
+      "reason": "дисплей гнутый + стекло",
+      "date": "15.10.2026, 15:45:04",
+      "contact": "89022479371",
+      "contact2": "89128407222",
+      "name": "",
+      "comment": "",
+      "price": 2900,
+      "id": "item-1792061190108-259",
+      "status": "archived",
+      "updatedAt": 1792151104524,
+      "partsCost": 760,
+      "archivedDate": "16.10.2026, 16:45:04"
     },
     {
       "model": "обновил ватсап",
@@ -3424,5 +3425,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792149740648,
-  "updatedAt": 1792151103846
+  "updatedAt": 1792151105965
 }
