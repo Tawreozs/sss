@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Spark",
-      "reason": "не заряд",
-      "date": "16.10.2026, 16:49:20",
-      "contact": "89058400673",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 0,
-      "id": "item-1792151374942-91",
-      "status": "active",
-      "updatedAt": 1792158463648
-    },
-    {
       "model": "Планшет Kenshi",
       "reason": "",
       "date": "16.10.2026, 15:17:12",
@@ -130,6 +116,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Spark",
+      "reason": "не заряд",
+      "date": "16.10.2026, 16:49:20",
+      "contact": "89058400673",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 0,
+      "id": "item-1792151374942-91",
+      "status": "archived",
+      "updatedAt": 1792158464627,
+      "archivedDate": "16.10.2026, 18:47:44"
     },
     {
       "model": "A065",
@@ -3441,5 +3442,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792149740648,
-  "updatedAt": 1792158465129
+  "updatedAt": 1792158513392
 }
