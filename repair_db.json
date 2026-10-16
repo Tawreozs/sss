@@ -78,20 +78,6 @@
       "updatedAt": 1791975368395
     },
     {
-      "model": "A536",
-      "reason": "не вкл, не заряд, гнутый",
-      "date": "12.10.2026, 15:20:16",
-      "contact": "89619233339",
-      "contact2": "",
-      "name": "",
-      "comment": "чинил Петька",
-      "id": "item-1791800450179-904",
-      "status": "active",
-      "updatedAt": 1792138582485,
-      "price": 6500,
-      "partsCost": 4000
-    },
-    {
       "model": "A055",
       "reason": "не вкл не заряд",
       "date": "07.10.2026, 17:41:27",
@@ -276,6 +262,21 @@
       "status": "archived",
       "updatedAt": 1791813418005,
       "archivedDate": "12.10.2026, 18:56:58"
+    },
+    {
+      "model": "A536",
+      "reason": "не вкл, не заряд, гнутый",
+      "date": "12.10.2026, 15:20:16",
+      "contact": "89619233339",
+      "contact2": "",
+      "name": "",
+      "comment": "чинил Петька",
+      "id": "item-1791800450179-904",
+      "status": "archived",
+      "updatedAt": 1792149187457,
+      "price": 6500,
+      "partsCost": 4000,
+      "archivedDate": "16.10.2026, 16:13:07"
     },
     {
       "model": "Nova 12i",
@@ -3422,5 +3423,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792135527093,
-  "updatedAt": 1792149180266
+  "updatedAt": 1792149188648
 }
