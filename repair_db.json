@@ -40,16 +40,17 @@
     },
     {
       "model": "Redmi 15c",
-      "reason": "дисплей гнутый",
+      "reason": "дисплей гнутый + стекло",
       "date": "15.10.2026, 15:45:04",
       "contact": "89022479371",
       "contact2": "89128407222",
       "name": "",
       "comment": "",
-      "price": 2600,
+      "price": 2900,
       "id": "item-1792061190108-259",
       "status": "active",
-      "updatedAt": 1792061190108
+      "updatedAt": 1792151102669,
+      "partsCost": 760
     },
     {
       "model": "Realme C61 Rmx3930",
@@ -3423,5 +3424,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792149740648,
-  "updatedAt": 1792151097106
+  "updatedAt": 1792151103846
 }
