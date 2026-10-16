@@ -86,10 +86,12 @@
       "contact": "89619233339",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "чинил Петька",
       "id": "item-1791800450179-904",
       "status": "active",
-      "updatedAt": 1791800545894
+      "updatedAt": 1792138582485,
+      "price": 6500,
+      "partsCost": 4000
     },
     {
       "model": "A055",
@@ -3407,5 +3409,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792135527093,
-  "updatedAt": 1792138560207
+  "updatedAt": 1792138583769
 }
