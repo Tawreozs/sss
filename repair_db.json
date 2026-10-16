@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Asus Rog 6",
+      "reason": "модуль с озона",
+      "date": "16.10.2026, 18:59:52",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "предоплата 8000 р",
+      "id": "item-1792159214088-990",
+      "status": "active",
+      "updatedAt": 1792159214088
+    },
+    {
       "model": "Планшет Kenshi",
       "reason": "",
       "date": "16.10.2026, 15:17:12",
@@ -3443,5 +3455,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792149740648,
-  "updatedAt": 1792159188332
+  "updatedAt": 1792159215461
 }
