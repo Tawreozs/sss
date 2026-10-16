@@ -60,7 +60,9 @@
       "comment": "код 2299",
       "id": "item-1791971466326-131",
       "status": "active",
-      "updatedAt": 1791971466326
+      "updatedAt": 1792151466853,
+      "price": 3300,
+      "partsCost": 970
     },
     {
       "model": "A217f",
@@ -3437,5 +3439,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792149740648,
-  "updatedAt": 1792151450501
+  "updatedAt": 1792151468339
 }
