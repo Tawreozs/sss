@@ -27,20 +27,6 @@
       "updatedAt": 1792067057325
     },
     {
-      "model": "A065",
-      "reason": "сброс",
-      "date": "15.10.2026, 16:20:29",
-      "contact": "89228240649",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1600,
-      "id": "item-1792063262109-655",
-      "status": "active",
-      "updatedAt": 1792137651059,
-      "partsCost": 200
-    },
-    {
       "model": "Redmi 15c",
       "reason": "дисплей гнутый",
       "date": "15.10.2026, 15:45:04",
@@ -143,6 +129,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "A065",
+      "reason": "сброс",
+      "date": "15.10.2026, 16:20:29",
+      "contact": "89228240649",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1600,
+      "id": "item-1792063262109-655",
+      "status": "archived",
+      "updatedAt": 1792140591529,
+      "partsCost": 200,
+      "archivedDate": "16.10.2026, 13:49:51"
     },
     {
       "model": "обновил ватсап",
@@ -3409,5 +3410,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792135527093,
-  "updatedAt": 1792140589211
+  "updatedAt": 1792140592766
 }
