@@ -8,9 +8,10 @@
       "contact2": "",
       "name": "",
       "comment": "",
+      "price": 3000,
       "id": "item-1792399335350-819",
       "status": "active",
-      "updatedAt": 1792399335350
+      "updatedAt": 1792399377354
     },
     {
       "model": "Spark 9 pro",
@@ -3523,5 +3524,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792396649232,
-  "updatedAt": 1792399336664
+  "updatedAt": 1792399379420
 }
