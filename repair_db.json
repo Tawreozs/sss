@@ -14,20 +14,6 @@
       "updatedAt": 1792399449123
     },
     {
-      "model": "Pova 6 neo",
-      "reason": "дисплей",
-      "date": "19.10.2026, 13:41:56",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3300,
-      "partsCost": 1060,
-      "id": "item-1792399335350-819",
-      "status": "active",
-      "updatedAt": 1792414520689
-    },
-    {
       "model": "Spark 9 pro",
       "reason": "дисплей",
       "date": "19.10.2026, 13:41:33",
@@ -169,6 +155,21 @@
       "status": "archived",
       "updatedAt": 1792411805005,
       "archivedDate": "19.10.2026, 17:10:05"
+    },
+    {
+      "model": "Pova 6 neo",
+      "reason": "дисплей",
+      "date": "19.10.2026, 13:41:56",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3300,
+      "partsCost": 1060,
+      "id": "item-1792399335350-819",
+      "status": "archived",
+      "updatedAt": 1792414521839,
+      "archivedDate": "19.10.2026, 17:55:21"
     },
     {
       "model": "A07",
@@ -3553,5 +3554,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792411758786,
-  "updatedAt": 1792414521939
+  "updatedAt": 1792414543019
 }
