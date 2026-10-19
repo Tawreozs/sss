@@ -9,10 +9,10 @@
       "name": "",
       "comment": "",
       "price": 2000,
-      "partsCost": 520,
+      "partsCost": 480,
       "id": "item-1792411790341-667",
       "status": "active",
-      "updatedAt": 1792411790341
+      "updatedAt": 1792411803896
     },
     {
       "model": "Smart 6 plus",
@@ -3551,5 +3551,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792411758786,
-  "updatedAt": 1792411791750
+  "updatedAt": 1792411805298
 }
