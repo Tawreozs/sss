@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Smart 6 plus",
+      "reason": "модуль + разъём + сброс",
+      "date": "19.10.2026, 13:43:36",
+      "contact": "",
+      "contact2": "",
+      "name": "Серёга клиент",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1792399449123-449",
+      "status": "active",
+      "updatedAt": 1792399449123
+    },
+    {
       "model": "Pova 6 neo",
       "reason": "дисплей",
       "date": "19.10.2026, 13:41:56",
@@ -3524,5 +3537,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792396649232,
-  "updatedAt": 1792399426963
+  "updatedAt": 1792399450631
 }
