@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "pad se 8.7",
+      "reason": "дисплей",
+      "date": "19.10.2026, 12:47:21",
+      "contact": "89058485738",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1792396072280-246",
+      "status": "active",
+      "updatedAt": 1792396072280
+    },
+    {
       "model": "Asus Rog 6",
       "reason": "модуль с озона",
       "date": "16.10.2026, 18:59:52",
@@ -3456,5 +3469,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792149740648,
-  "updatedAt": 1792396041808
+  "updatedAt": 1792396073586
 }
