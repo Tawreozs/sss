@@ -21,10 +21,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 3000,
+      "price": 3500,
+      "partsCost": 1100,
       "id": "item-1792399303558-712",
       "status": "active",
-      "updatedAt": 1792399303558
+      "updatedAt": 1792416643039
     },
     {
       "model": "Camon 19 neo",
@@ -3554,5 +3555,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792416608829,
-  "updatedAt": 1792416610175
+  "updatedAt": 1792416644971
 }
