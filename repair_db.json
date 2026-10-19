@@ -8,9 +8,10 @@
       "contact2": "",
       "name": "",
       "comment": "",
+      "price": 3200,
       "id": "item-1792396349418-433",
       "status": "active",
-      "updatedAt": 1792396349418
+      "updatedAt": 1792396474416
     },
     {
       "model": "pad se 8.7",
@@ -3481,5 +3482,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792149740648,
-  "updatedAt": 1792396469269
+  "updatedAt": 1792396475845
 }
