@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Iphone 6s",
-      "reason": "замена акб по желанию клиента",
-      "date": "19.10.2026, 17:09:31",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 480,
-      "id": "item-1792411790341-667",
-      "status": "active",
-      "updatedAt": 1792411803896
-    },
-    {
       "model": "Smart 6 plus",
       "reason": "модуль + разъём + сброс",
       "date": "19.10.2026, 13:43:36",
@@ -167,6 +153,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Iphone 6s",
+      "reason": "замена акб по желанию клиента",
+      "date": "19.10.2026, 17:09:31",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 480,
+      "id": "item-1792411790341-667",
+      "status": "archived",
+      "updatedAt": 1792411805005,
+      "archivedDate": "19.10.2026, 17:10:05"
     },
     {
       "model": "A07",
@@ -3551,5 +3552,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792411758786,
-  "updatedAt": 1792411805298
+  "updatedAt": 1792411812774
 }
