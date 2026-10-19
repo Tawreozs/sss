@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Spark 9 pro",
+      "reason": "дисплей",
+      "date": "19.10.2026, 13:41:33",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1792399303558-712",
+      "status": "active",
+      "updatedAt": 1792399303558
+    },
+    {
       "model": "Camon 19 neo",
       "reason": "гнутый, дисплей в рамке, возможно акб",
       "date": "19.10.2026, 12:51:01",
@@ -3498,5 +3511,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792396649232,
-  "updatedAt": 1792399291122
+  "updatedAt": 1792399305652
 }
