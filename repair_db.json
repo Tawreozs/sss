@@ -45,10 +45,10 @@
       "contact": "89033944477",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "id": "item-1792145854819-572",
       "status": "active",
-      "updatedAt": 1792145854819
+      "updatedAt": 1792398624010
     },
     {
       "model": "Honor",
@@ -3482,5 +3482,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792396649232,
-  "updatedAt": 1792398617673
+  "updatedAt": 1792398625303
 }
