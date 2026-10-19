@@ -37,20 +37,6 @@
       "updatedAt": 1792067057325
     },
     {
-      "model": "Realme C61 Rmx3930",
-      "reason": "модуль + стекло",
-      "date": "14.10.2026, 14:49:34",
-      "contact": "89867927919",
-      "contact2": "",
-      "name": "",
-      "comment": "код 2299",
-      "id": "item-1791971466326-131",
-      "status": "active",
-      "updatedAt": 1792151466853,
-      "price": 3300,
-      "partsCost": 970
-    },
-    {
       "model": "A217f",
       "reason": "переклейка",
       "date": "13.10.2026, 13:21:54",
@@ -174,6 +160,21 @@
       "updatedAt": 1792151104524,
       "partsCost": 760,
       "archivedDate": "16.10.2026, 16:45:04"
+    },
+    {
+      "model": "Realme C61 Rmx3930",
+      "reason": "модуль + стекло",
+      "date": "14.10.2026, 14:49:34",
+      "contact": "89867927919",
+      "contact2": "",
+      "name": "",
+      "comment": "код 2299",
+      "id": "item-1791971466326-131",
+      "status": "archived",
+      "updatedAt": 1792394626235,
+      "price": 3300,
+      "partsCost": 970,
+      "archivedDate": "19.10.2026, 12:23:46"
     },
     {
       "model": "обновил ватсап",
@@ -3455,5 +3456,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792149740648,
-  "updatedAt": 1792394621448
+  "updatedAt": 1792394627636
 }
