@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "A07",
-      "reason": "чистка",
-      "date": "19.10.2026, 13:30:27",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1792398639071-718",
-      "status": "active",
-      "updatedAt": 1792398639071
-    },
-    {
       "model": "Camon 19 neo",
       "reason": "гнутый, дисплей в рамке, возможно акб",
       "date": "19.10.2026, 12:51:01",
@@ -128,6 +114,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "A07",
+      "reason": "чистка",
+      "date": "19.10.2026, 13:30:27",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1792398639071-718",
+      "status": "archived",
+      "updatedAt": 1792398640721,
+      "archivedDate": "19.10.2026, 13:30:40"
     },
     {
       "model": "Spark",
@@ -3497,5 +3498,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792396649232,
-  "updatedAt": 1792398640394
+  "updatedAt": 1792398642188
 }
