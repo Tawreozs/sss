@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Pova 6 neo",
+      "reason": "дисплей",
+      "date": "19.10.2026, 13:41:56",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1792399335350-819",
+      "status": "active",
+      "updatedAt": 1792399335350
+    },
+    {
       "model": "Spark 9 pro",
       "reason": "дисплей",
       "date": "19.10.2026, 13:41:33",
@@ -3511,5 +3523,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792396649232,
-  "updatedAt": 1792399310983
+  "updatedAt": 1792399336664
 }
