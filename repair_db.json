@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "A11",
-      "reason": "frp",
-      "date": "20.10.2026, 17:08:51",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1600,
-      "partsCost": 200,
-      "id": "item-1792498143502-711",
-      "status": "active",
-      "updatedAt": 1792498143502
-    },
-    {
       "model": "Honor 8x",
       "reason": "модуль",
       "date": "20.10.2026, 13:16:12",
@@ -127,6 +113,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "A11",
+      "reason": "frp",
+      "date": "20.10.2026, 17:08:51",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1600,
+      "partsCost": 200,
+      "id": "item-1792498143502-711",
+      "status": "archived",
+      "updatedAt": 1792498146220,
+      "archivedDate": "20.10.2026, 17:09:06"
     },
     {
       "model": "текно",
@@ -3601,5 +3602,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792498144713
+  "updatedAt": 1792498147604
 }
