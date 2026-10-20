@@ -64,20 +64,6 @@
       "updatedAt": 1792067057325
     },
     {
-      "model": "A217f",
-      "reason": "переклейка",
-      "date": "13.10.2026, 13:21:54",
-      "contact": "89228150130",
-      "contact2": "",
-      "name": "",
-      "comment": "разъём + экран",
-      "price": 4000,
-      "partsCost": 2700,
-      "id": "item-1791879739018-275",
-      "status": "active",
-      "updatedAt": 1792492191938
-    },
-    {
       "model": "A055",
       "reason": "не вкл не заряд",
       "date": "07.10.2026, 17:41:27",
@@ -365,6 +351,21 @@
       "updatedAt": 1791984351991,
       "partsCost": 520,
       "archivedDate": "14.10.2026, 18:25:51"
+    },
+    {
+      "model": "A217f",
+      "reason": "переклейка",
+      "date": "13.10.2026, 13:21:54",
+      "contact": "89228150130",
+      "contact2": "",
+      "name": "",
+      "comment": "разъём + экран",
+      "price": 4000,
+      "partsCost": 2700,
+      "id": "item-1791879739018-275",
+      "status": "archived",
+      "updatedAt": 1792498129632,
+      "archivedDate": "20.10.2026, 17:08:49"
     },
     {
       "model": "Realme 10",
@@ -3586,5 +3587,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792498125874
+  "updatedAt": 1792498130893
 }
