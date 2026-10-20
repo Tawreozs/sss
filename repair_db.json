@@ -28,20 +28,6 @@
       "updatedAt": 1792485937257
     },
     {
-      "model": "Smart 6 plus",
-      "reason": "модуль + разъём + сброс",
-      "date": "19.10.2026, 13:43:36",
-      "contact": "",
-      "contact2": "",
-      "name": "Серёга клиент",
-      "comment": "",
-      "price": 3500,
-      "id": "item-1792399449123-449",
-      "status": "active",
-      "updatedAt": 1792490092786,
-      "partsCost": 1020
-    },
-    {
       "model": "Camon 19 neo",
       "reason": "гнутый, дисплей в рамке, возможно акб",
       "date": "19.10.2026, 12:51:01",
@@ -170,6 +156,21 @@
       "status": "archived",
       "updatedAt": 1792411805005,
       "archivedDate": "19.10.2026, 17:10:05"
+    },
+    {
+      "model": "Smart 6 plus",
+      "reason": "модуль + разъём + сброс",
+      "date": "19.10.2026, 13:43:36",
+      "contact": "",
+      "contact2": "",
+      "name": "Серёга клиент",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1792399449123-449",
+      "status": "archived",
+      "updatedAt": 1792490094053,
+      "partsCost": 1020,
+      "archivedDate": "20.10.2026, 14:54:54"
     },
     {
       "model": "Pova 6 neo",
@@ -3584,5 +3585,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792488308968,
-  "updatedAt": 1792490095750
+  "updatedAt": 1792490137641
 }
