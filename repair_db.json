@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "текно",
-      "reason": "разъём",
-      "date": "20.10.2026, 13:51:00",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 30,
-      "id": "item-1792486277456-168",
-      "status": "active",
-      "updatedAt": 1792486277456
-    },
-    {
       "model": "Honor 8x",
       "reason": "модуль",
       "date": "20.10.2026, 13:16:12",
@@ -141,6 +127,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "текно",
+      "reason": "разъём",
+      "date": "20.10.2026, 13:51:00",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 30,
+      "id": "item-1792486277456-168",
+      "status": "archived",
+      "updatedAt": 1792498124614,
+      "archivedDate": "20.10.2026, 17:08:44"
     },
     {
       "model": "Iphone 6s",
@@ -3585,5 +3586,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792498122462
+  "updatedAt": 1792498125874
 }
