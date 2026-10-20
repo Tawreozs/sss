@@ -84,12 +84,12 @@
       "contact": "89228150130",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "разъём + экран",
       "price": 4000,
-      "partsCost": 1400,
+      "partsCost": 2700,
       "id": "item-1791879739018-275",
       "status": "active",
-      "updatedAt": 1791975368395
+      "updatedAt": 1792492191938
     },
     {
       "model": "A055",
@@ -3585,5 +3585,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792492154764
+  "updatedAt": 1792492194038
 }
