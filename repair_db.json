@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "A03 core",
-      "reason": "FRP + разъём",
-      "date": "21.10.2026, 15:13:45",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 200,
-      "id": "item-1792577642449-461",
-      "status": "active",
-      "updatedAt": 1792577642449
-    },
-    {
       "model": "Nova 12i",
       "reason": "Модуль в рамке",
       "date": "21.10.2026, 12:25:57",
@@ -140,6 +126,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "A03 core",
+      "reason": "FRP + разъём",
+      "date": "21.10.2026, 15:13:45",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 200,
+      "id": "item-1792577642449-461",
+      "status": "archived",
+      "updatedAt": 1792578679355,
+      "archivedDate": "21.10.2026, 15:31:19"
     },
     {
       "model": "установка макс",
@@ -3659,5 +3660,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792578676944
+  "updatedAt": 1792578680556
 }
