@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "установка макс",
-      "reason": "",
-      "date": "21.10.2026, 12:29:00",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 300,
-      "partsCost": 0,
-      "id": "item-1792567748422-709",
-      "status": "active",
-      "updatedAt": 1792567748422
-    },
-    {
       "model": "Nova 12i",
       "reason": "Модуль в рамке",
       "date": "21.10.2026, 12:25:57",
@@ -153,6 +139,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "установка макс",
+      "reason": "",
+      "date": "21.10.2026, 12:29:00",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 300,
+      "partsCost": 0,
+      "id": "item-1792567748422-709",
+      "status": "archived",
+      "updatedAt": 1792567750033,
+      "archivedDate": "21.10.2026, 12:29:10"
     },
     {
       "model": "A11",
@@ -3642,5 +3643,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792567749711
+  "updatedAt": 1792567798170
 }
