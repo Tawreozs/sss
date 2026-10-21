@@ -6,12 +6,12 @@
       "date": "21.10.2026, 12:25:57",
       "contact": "",
       "contact2": "",
-      "name": "",
+      "name": "Озон",
       "comment": "",
       "price": 3000,
       "id": "item-1792567574677-751",
       "status": "active",
-      "updatedAt": 1792567574677
+      "updatedAt": 1792567585161
     },
     {
       "model": "Honor x7a",
@@ -3628,5 +3628,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792567576025
+  "updatedAt": 1792567586562
 }
