@@ -63,7 +63,8 @@
       "price": 3500,
       "id": "item-1792396072280-246",
       "status": "active",
-      "updatedAt": 1792396072280
+      "updatedAt": 1792571084230,
+      "partsCost": 1390
     },
     {
       "model": "Asus Rog 6",
@@ -3643,5 +3644,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792571067863
+  "updatedAt": 1792571085553
 }
