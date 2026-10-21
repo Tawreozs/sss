@@ -39,20 +39,6 @@
       "updatedAt": 1792504637486
     },
     {
-      "model": "Honor 8x",
-      "reason": "модуль",
-      "date": "20.10.2026, 13:16:12",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3000,
-      "id": "item-1792485937257-273",
-      "status": "active",
-      "updatedAt": 1792591076646,
-      "partsCost": 680
-    },
-    {
       "model": "Camon 19 neo",
       "reason": "гнутый, дисплей в рамке, возможно акб",
       "date": "19.10.2026, 12:51:01",
@@ -199,6 +185,21 @@
       "status": "archived",
       "updatedAt": 1792498124614,
       "archivedDate": "20.10.2026, 17:08:44"
+    },
+    {
+      "model": "Honor 8x",
+      "reason": "модуль",
+      "date": "20.10.2026, 13:16:12",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1792485937257-273",
+      "status": "archived",
+      "updatedAt": 1792592644041,
+      "partsCost": 680,
+      "archivedDate": "21.10.2026, 19:24:04"
     },
     {
       "model": "Iphone 6s",
@@ -3673,5 +3674,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792592635570
+  "updatedAt": 1792592645029
 }
