@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Nova 12i",
+      "reason": "Модуль в рамке",
+      "date": "21.10.2026, 12:25:57",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1792567574677-751",
+      "status": "active",
+      "updatedAt": 1792567574677
+    },
+    {
       "model": "Honor x7a",
       "reason": "модуль",
       "date": "20.10.2026, 17:53:59",
@@ -3615,5 +3628,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792567554316
+  "updatedAt": 1792567576025
 }
