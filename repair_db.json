@@ -53,20 +53,6 @@
       "updatedAt": 1792396474416
     },
     {
-      "model": "pad se 8.7",
-      "reason": "дисплей",
-      "date": "19.10.2026, 12:47:21",
-      "contact": "89058485738",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "id": "item-1792396072280-246",
-      "status": "active",
-      "updatedAt": 1792571084230,
-      "partsCost": 1390
-    },
-    {
       "model": "Asus Rog 6",
       "reason": "модуль с озона",
       "date": "16.10.2026, 18:59:52",
@@ -260,6 +246,21 @@
       "status": "archived",
       "updatedAt": 1792398640721,
       "archivedDate": "19.10.2026, 13:30:40"
+    },
+    {
+      "model": "pad se 8.7",
+      "reason": "дисплей",
+      "date": "19.10.2026, 12:47:21",
+      "contact": "89058485738",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1792396072280-246",
+      "status": "archived",
+      "updatedAt": 1792571085185,
+      "partsCost": 1390,
+      "archivedDate": "21.10.2026, 13:24:45"
     },
     {
       "model": "Spark",
@@ -3644,5 +3645,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792490154261,
-  "updatedAt": 1792571085553
+  "updatedAt": 1792571133380
 }
