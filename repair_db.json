@@ -80,18 +80,6 @@
       "price": 11000
     },
     {
-      "model": "Honor",
-      "reason": "не вкл, не заряд",
-      "date": "15.10.2026, 17:23:47",
-      "contact": "89068342530",
-      "contact2": "",
-      "name": "",
-      "comment": "без ремонта",
-      "id": "item-1792067057325-783",
-      "status": "active",
-      "updatedAt": 1792676941425
-    },
-    {
       "model": "A055",
       "reason": "не вкл не заряд",
       "date": "07.10.2026, 17:41:27",
@@ -394,6 +382,19 @@
       "status": "archived",
       "updatedAt": 1792158928889,
       "archivedDate": "16.10.2026, 18:55:28"
+    },
+    {
+      "model": "Honor",
+      "reason": "не вкл, не заряд",
+      "date": "15.10.2026, 17:23:47",
+      "contact": "89068342530",
+      "contact2": "",
+      "name": "",
+      "comment": "без ремонта",
+      "id": "item-1792067057325-783",
+      "status": "archived",
+      "updatedAt": 1792676943208,
+      "archivedDate": "22.10.2026, 18:49:03"
     },
     {
       "model": "A065",
@@ -3735,5 +3736,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792676942718
+  "updatedAt": 1792676950093
 }
