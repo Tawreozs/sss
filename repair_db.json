@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Samsung",
-      "reason": "модуль клиента",
-      "date": "22.10.2026, 13:53:16",
-      "contact": "89058800588",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "id": "item-1792659215660-596",
-      "status": "active",
-      "updatedAt": 1792667003476,
-      "partsCost": 0
-    },
-    {
       "model": "Хонор в чехле с цветами",
       "reason": "Оксана разъём",
       "date": "21.10.2026, 18:59:46",
@@ -139,6 +125,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Samsung",
+      "reason": "модуль клиента",
+      "date": "22.10.2026, 13:53:16",
+      "contact": "89058800588",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1792659215660-596",
+      "status": "archived",
+      "updatedAt": 1792668008345,
+      "partsCost": 0,
+      "archivedDate": "22.10.2026, 16:20:08"
     },
     {
       "model": "A03 core",
@@ -3688,5 +3689,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792668007917
+  "updatedAt": 1792668031385
 }
