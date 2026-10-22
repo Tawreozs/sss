@@ -27,20 +27,6 @@
       "updatedAt": 1792670264352
     },
     {
-      "model": "Хонор в чехле с цветами",
-      "reason": "Оксана разъём",
-      "date": "21.10.2026, 18:59:46",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1792591211498-367",
-      "status": "active",
-      "updatedAt": 1792676914982,
-      "price": 700,
-      "partsCost": 20
-    },
-    {
       "model": "Nova 12i",
       "reason": "Модуль в рамке",
       "date": "21.10.2026, 12:25:57",
@@ -89,7 +75,9 @@
       "comment": "предоплата 8000 р",
       "id": "item-1792159214088-990",
       "status": "active",
-      "updatedAt": 1792159214088
+      "updatedAt": 1792676929872,
+      "partsCost": 7200,
+      "price": 11000
     },
     {
       "model": "Honor",
@@ -183,6 +171,21 @@
       "updatedAt": 1792668008345,
       "partsCost": 0,
       "archivedDate": "22.10.2026, 16:20:08"
+    },
+    {
+      "model": "Хонор в чехле с цветами",
+      "reason": "Оксана разъём",
+      "date": "21.10.2026, 18:59:46",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1792591211498-367",
+      "status": "archived",
+      "updatedAt": 1792676916109,
+      "price": 700,
+      "partsCost": 20,
+      "archivedDate": "22.10.2026, 18:48:36"
     },
     {
       "model": "A03 core",
@@ -3732,5 +3735,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792676916451
+  "updatedAt": 1792676931292
 }
