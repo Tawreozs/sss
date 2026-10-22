@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "телефон деда",
-      "reason": "",
-      "date": "22.10.2026, 17:15:27",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 200,
-      "partsCost": 0,
-      "id": "item-1792671339895-481",
-      "status": "active",
-      "updatedAt": 1792671339895
-    },
-    {
       "model": "Ноут",
       "reason": "винда",
       "date": "22.10.2026, 16:57:21",
@@ -153,6 +139,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "телефон деда",
+      "reason": "",
+      "date": "22.10.2026, 17:15:27",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 200,
+      "partsCost": 0,
+      "id": "item-1792671339895-481",
+      "status": "archived",
+      "updatedAt": 1792671341580,
+      "archivedDate": "22.10.2026, 17:15:41"
     },
     {
       "model": "Samsung",
@@ -3717,5 +3718,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792671341217
+  "updatedAt": 1792671361925
 }
