@@ -86,10 +86,10 @@
       "contact": "89068342530",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "id": "item-1792067057325-783",
       "status": "active",
-      "updatedAt": 1792067057325
+      "updatedAt": 1792676941425
     },
     {
       "model": "A055",
@@ -3735,5 +3735,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792676931292
+  "updatedAt": 1792676942718
 }
