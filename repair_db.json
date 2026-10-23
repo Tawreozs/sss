@@ -11,7 +11,8 @@
       "price": 3000,
       "id": "item-1792567574677-751",
       "status": "active",
-      "updatedAt": 1792567585161
+      "updatedAt": 1792754363975,
+      "partsCost": 1390
     },
     {
       "model": "Honor x7a",
@@ -3756,5 +3757,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792754345303
+  "updatedAt": 1792754365209
 }
