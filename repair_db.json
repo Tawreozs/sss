@@ -76,7 +76,8 @@
       "price": 4500,
       "id": "item-1790602001889-272",
       "status": "active",
-      "updatedAt": 1790602001889
+      "updatedAt": 1792754343768,
+      "partsCost": 2370
     },
     {
       "id": "3",
@@ -3755,5 +3756,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792754323805
+  "updatedAt": 1792754345303
 }
