@@ -23,7 +23,9 @@
       "comment": "",
       "id": "item-1792672900939-822",
       "status": "active",
-      "updatedAt": 1792676904247
+      "updatedAt": 1792741588972,
+      "partsCost": 550,
+      "price": 1600
     },
     {
       "model": "Ноут",
@@ -3749,5 +3751,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792741570966
+  "updatedAt": 1792741590250
 }
