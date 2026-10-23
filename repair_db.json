@@ -11,7 +11,8 @@
       "price": 3000,
       "id": "item-1792739847186-204",
       "status": "active",
-      "updatedAt": 1792739847186
+      "updatedAt": 1792754154987,
+      "partsCost": 1460
     },
     {
       "model": "Nova 12i",
@@ -3753,5 +3754,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792754149183
+  "updatedAt": 1792754156347
 }
