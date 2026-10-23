@@ -3,20 +3,6 @@
     {
       "model": "Nova 12i",
       "reason": "Модуль в рамке",
-      "date": "23.10.2026, 12:17:06",
-      "contact": "",
-      "contact2": "",
-      "name": "Аня озон",
-      "comment": "",
-      "price": 3000,
-      "id": "item-1792739847186-204",
-      "status": "active",
-      "updatedAt": 1792754154987,
-      "partsCost": 1460
-    },
-    {
-      "model": "Nova 12i",
-      "reason": "Модуль в рамке",
       "date": "21.10.2026, 12:25:57",
       "contact": "",
       "contact2": "",
@@ -117,6 +103,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Nova 12i",
+      "reason": "Модуль в рамке",
+      "date": "23.10.2026, 12:17:06",
+      "contact": "",
+      "contact2": "",
+      "name": "Аня озон",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1792739847186-204",
+      "status": "archived",
+      "updatedAt": 1792754160851,
+      "partsCost": 1460,
+      "archivedDate": "23.10.2026, 16:16:00"
     },
     {
       "model": "a21s",
@@ -3754,5 +3755,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792754156347
+  "updatedAt": 1792754162148
 }
