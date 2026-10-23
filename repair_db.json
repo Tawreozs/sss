@@ -14,20 +14,6 @@
       "updatedAt": 1792739847186
     },
     {
-      "model": "Ноут",
-      "reason": "винда",
-      "date": "22.10.2026, 16:57:21",
-      "contact": "899228235142",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 2000,
-      "partsCost": 0,
-      "id": "item-1792670264352-781",
-      "status": "active",
-      "updatedAt": 1792670264352
-    },
-    {
       "model": "Nova 12i",
       "reason": "Модуль в рамке",
       "date": "21.10.2026, 12:25:57",
@@ -160,6 +146,21 @@
       "status": "archived",
       "updatedAt": 1792671341580,
       "archivedDate": "22.10.2026, 17:15:41"
+    },
+    {
+      "model": "Ноут",
+      "reason": "винда",
+      "date": "22.10.2026, 16:57:21",
+      "contact": "899228235142",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 0,
+      "id": "item-1792670264352-781",
+      "status": "archived",
+      "updatedAt": 1792748812156,
+      "archivedDate": "23.10.2026, 14:46:52"
     },
     {
       "model": "Samsung",
@@ -3752,5 +3753,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792748810673
+  "updatedAt": 1792748813522
 }
