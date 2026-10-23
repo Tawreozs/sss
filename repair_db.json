@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Nova 12i",
+      "reason": "Модуль в рамке",
+      "date": "23.10.2026, 12:17:06",
+      "contact": "",
+      "contact2": "",
+      "name": "Аня озон",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1792739847186-204",
+      "status": "active",
+      "updatedAt": 1792739847186
+    },
+    {
       "model": "a21s",
       "reason": "FRP",
       "date": "22.10.2026, 17:41:28",
@@ -3736,5 +3749,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1792577979218,
-  "updatedAt": 1792739842475
+  "updatedAt": 1792739848629
 }
