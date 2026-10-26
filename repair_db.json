@@ -28,20 +28,6 @@
       "partsCost": 920
     },
     {
-      "model": "Nova 12i",
-      "reason": "Модуль в рамке",
-      "date": "21.10.2026, 12:25:57",
-      "contact": "",
-      "contact2": "",
-      "name": "Озон",
-      "comment": "",
-      "price": 3000,
-      "id": "item-1792567574677-751",
-      "status": "active",
-      "updatedAt": 1792754363975,
-      "partsCost": 1390
-    },
-    {
       "model": "Honor x7a",
       "reason": "модуль",
       "date": "20.10.2026, 17:53:59",
@@ -224,6 +210,21 @@
       "status": "archived",
       "updatedAt": 1792567750033,
       "archivedDate": "21.10.2026, 12:29:10"
+    },
+    {
+      "model": "Nova 12i",
+      "reason": "Модуль в рамке",
+      "date": "21.10.2026, 12:25:57",
+      "contact": "",
+      "contact2": "",
+      "name": "Озон",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1792567574677-751",
+      "status": "archived",
+      "updatedAt": 1793009404292,
+      "partsCost": 1390,
+      "archivedDate": "26.10.2026, 15:10:04"
     },
     {
       "model": "A11",
@@ -3786,5 +3787,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793004746353,
-  "updatedAt": 1793009398735
+  "updatedAt": 1793009407788
 }
