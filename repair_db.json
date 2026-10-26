@@ -97,11 +97,11 @@
       "contact": "89878974480",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "код 2378",
       "price": 4500,
       "id": "item-1790602001889-272",
       "status": "active",
-      "updatedAt": 1793020687098,
+      "updatedAt": 1793020933522,
       "partsCost": 2370
     },
     {
@@ -3826,5 +3826,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793004746353,
-  "updatedAt": 1793020914486
+  "updatedAt": 1793020934901
 }
