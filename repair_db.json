@@ -91,6 +91,20 @@
       "updatedAt": 1791376915855
     },
     {
+      "model": "Note 11 pro 4G",
+      "reason": "модуль + стекло",
+      "date": "28.09.2026, 18:23:53",
+      "contact": "89878974480",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 4500,
+      "id": "item-1790602001889-272",
+      "status": "active",
+      "updatedAt": 1793020687098,
+      "partsCost": 2370
+    },
+    {
       "id": "3",
       "model": "Spark 20",
       "reason": "вода",
@@ -906,21 +920,6 @@
       "status": "archived",
       "updatedAt": 1790679691283,
       "archivedDate": "29.09.2026, 16:01:31"
-    },
-    {
-      "model": "Note 11 pro 4G",
-      "reason": "модуль + стекло",
-      "date": "28.09.2026, 18:23:53",
-      "contact": "89878974480",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 4500,
-      "id": "item-1790602001889-272",
-      "status": "archived",
-      "updatedAt": 1793020685448,
-      "partsCost": 2370,
-      "archivedDate": "23.10.2026, 18:10:49"
     },
     {
       "model": "Iphone xr",
@@ -3827,5 +3826,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793004746353,
-  "updatedAt": 1793020687043
+  "updatedAt": 1793020735595
 }
