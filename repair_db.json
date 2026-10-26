@@ -26,20 +26,6 @@
       "updatedAt": 1793014401597
     },
     {
-      "model": "Iqoo z9",
-      "reason": "дисплей + разъём",
-      "date": "26.10.2026, 12:30:02",
-      "contact": "89033986960",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 8000,
-      "id": "item-1792999836390-740",
-      "status": "active",
-      "updatedAt": 1793022851421,
-      "partsCost": 4240
-    },
-    {
       "model": "A03",
       "reason": "ориг + стекло",
       "date": "23.10.2026, 19:05:15",
@@ -145,6 +131,21 @@
       "status": "archived",
       "updatedAt": 1793012040136,
       "archivedDate": "26.10.2026, 15:54:00"
+    },
+    {
+      "model": "Iqoo z9",
+      "reason": "дисплей + разъём",
+      "date": "26.10.2026, 12:30:02",
+      "contact": "89033986960",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 8000,
+      "id": "item-1792999836390-740",
+      "status": "archived",
+      "updatedAt": 1793022854791,
+      "partsCost": 4240,
+      "archivedDate": "26.10.2026, 18:54:14"
     },
     {
       "model": "Nova 12i",
@@ -3827,5 +3828,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793004746353,
-  "updatedAt": 1793022853158
+  "updatedAt": 1793022856119
 }
