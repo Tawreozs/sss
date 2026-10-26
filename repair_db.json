@@ -67,20 +67,6 @@
       "updatedAt": 1792396474416
     },
     {
-      "model": "Asus Rog 6",
-      "reason": "модуль с озона",
-      "date": "16.10.2026, 18:59:52",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "предоплата 8000 р",
-      "id": "item-1792159214088-990",
-      "status": "active",
-      "updatedAt": 1792676929872,
-      "partsCost": 7200,
-      "price": 11000
-    },
-    {
       "model": "A055",
       "reason": "не вкл не заряд",
       "date": "07.10.2026, 17:41:27",
@@ -372,6 +358,21 @@
       "updatedAt": 1792571085185,
       "partsCost": 1390,
       "archivedDate": "21.10.2026, 13:24:45"
+    },
+    {
+      "model": "Asus Rog 6",
+      "reason": "модуль с озона",
+      "date": "16.10.2026, 18:59:52",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "предоплата 8000 р",
+      "id": "item-1792159214088-990",
+      "status": "archived",
+      "updatedAt": 1793004955584,
+      "partsCost": 7200,
+      "price": 11000,
+      "archivedDate": "26.10.2026, 13:55:55"
     },
     {
       "model": "Spark",
@@ -3784,5 +3785,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793004746353,
-  "updatedAt": 1793004890051
+  "updatedAt": 1793005093639
 }
