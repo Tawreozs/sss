@@ -36,7 +36,8 @@
       "price": 8000,
       "id": "item-1792999836390-740",
       "status": "active",
-      "updatedAt": 1792999836390
+      "updatedAt": 1793022851421,
+      "partsCost": 4240
     },
     {
       "model": "A03",
@@ -3826,5 +3827,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793004746353,
-  "updatedAt": 1793022816207
+  "updatedAt": 1793022853158
 }
