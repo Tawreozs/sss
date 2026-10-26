@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "чистка рекламы",
-      "reason": "",
-      "date": "26.10.2026, 15:53:50",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1793012038312-745",
-      "status": "active",
-      "updatedAt": 1793012038312
-    },
-    {
       "model": "Iqoo z9",
       "reason": "дисплей + разъём",
       "date": "26.10.2026, 12:30:02",
@@ -104,6 +90,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "чистка рекламы",
+      "reason": "",
+      "date": "26.10.2026, 15:53:50",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1793012038312-745",
+      "status": "archived",
+      "updatedAt": 1793012040136,
+      "archivedDate": "26.10.2026, 15:54:00"
     },
     {
       "model": "Nova 12i",
@@ -3801,5 +3802,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793004746353,
-  "updatedAt": 1793012041326
+  "updatedAt": 1793012094279
 }
