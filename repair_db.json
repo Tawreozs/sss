@@ -911,14 +911,14 @@
       "model": "Note 11 pro 4G",
       "reason": "модуль + стекло",
       "date": "28.09.2026, 18:23:53",
-      "contact": "",
+      "contact": "89878974480",
       "contact2": "",
       "name": "",
       "comment": "",
       "price": 4500,
       "id": "item-1790602001889-272",
       "status": "archived",
-      "updatedAt": 1792761049231,
+      "updatedAt": 1793020685448,
       "partsCost": 2370,
       "archivedDate": "23.10.2026, 18:10:49"
     },
@@ -3827,5 +3827,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793004746353,
-  "updatedAt": 1793020670735
+  "updatedAt": 1793020687043
 }
