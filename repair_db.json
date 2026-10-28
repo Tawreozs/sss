@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Spark 40",
+      "reason": "нижний шлейф",
+      "date": "28.10.2026, 15:51:03",
+      "contact": "89058400673",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1793184689434-374",
+      "status": "active",
+      "updatedAt": 1793184689434
+    },
+    {
       "model": "11 pro",
       "reason": "модуль",
       "date": "28.10.2026, 15:14:43",
@@ -3869,5 +3881,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793095138762,
-  "updatedAt": 1793184661932
+  "updatedAt": 1793184690798
 }
