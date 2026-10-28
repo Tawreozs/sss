@@ -13,7 +13,7 @@
       "updatedAt": 1793184689434
     },
     {
-      "model": "11 pro",
+      "model": "Iphone 11 pro",
       "reason": "модуль",
       "date": "28.10.2026, 15:14:43",
       "contact": "89958416252",
@@ -23,7 +23,7 @@
       "price": 3000,
       "id": "item-1793182506931-79",
       "status": "active",
-      "updatedAt": 1793182506931
+      "updatedAt": 1793185001416
     },
     {
       "model": "A115f",
@@ -3881,5 +3881,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793184992418,
-  "updatedAt": 1793184993753
+  "updatedAt": 1793185002876
 }
