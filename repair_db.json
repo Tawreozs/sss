@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "подделка айфон",
-      "reason": "фрп",
-      "date": "28.10.2026, 14:00:58",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1700,
-      "partsCost": 200,
-      "id": "item-1793178074247-608",
-      "status": "active",
-      "updatedAt": 1793178074247
-    },
-    {
       "model": "A115f",
       "reason": "вода",
       "date": "27.10.2026, 17:18:39",
@@ -128,6 +114,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "подделка айфон",
+      "reason": "фрп",
+      "date": "28.10.2026, 14:00:58",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1700,
+      "partsCost": 200,
+      "id": "item-1793178074247-608",
+      "status": "archived",
+      "updatedAt": 1793178076228,
+      "archivedDate": "28.10.2026, 14:01:16"
     },
     {
       "model": "чистка рекламы",
@@ -3855,5 +3856,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793095138762,
-  "updatedAt": 1793178075849
+  "updatedAt": 1793178124650
 }
