@@ -89,7 +89,8 @@
       "price": 3200,
       "id": "item-1792396349418-433",
       "status": "active",
-      "updatedAt": 1792396474416
+      "updatedAt": 1793187723257,
+      "partsCost": 1900
     },
     {
       "model": "A055",
@@ -3884,5 +3885,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793184992418,
-  "updatedAt": 1793187717984
+  "updatedAt": 1793187724774
 }
