@@ -58,11 +58,11 @@
       "contact": "",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "price": 89225538374,
       "id": "item-1793014401597-827",
       "status": "active",
-      "updatedAt": 1793014401597
+      "updatedAt": 1793186354893
     },
     {
       "model": "A03",
@@ -3883,5 +3883,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793184992418,
-  "updatedAt": 1793186327106
+  "updatedAt": 1793186356051
 }
