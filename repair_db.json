@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "PS5",
+      "reason": "Руслан Наджапов",
+      "date": "29.10.2026, 17:48:41",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "partsCost": 270,
+      "id": "item-1793278136404-350",
+      "status": "active",
+      "updatedAt": 1793278136404
+    },
+    {
       "model": "A15",
       "reason": "модуль олед",
       "date": "29.10.2026, 12:23:25",
@@ -3907,5 +3921,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793264023654,
-  "updatedAt": 1793278122905
+  "updatedAt": 1793278138158
 }
