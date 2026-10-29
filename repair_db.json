@@ -21,11 +21,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 3000,
+      "price": 3300,
       "id": "item-1793182506931-79",
       "status": "active",
-      "updatedAt": 1793260309827,
-      "partsCost": 1050
+      "updatedAt": 1793275988083,
+      "partsCost": 1200
     },
     {
       "model": "A115f",
@@ -3906,5 +3906,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793264023654,
-  "updatedAt": 1793275960875
+  "updatedAt": 1793275989767
 }
