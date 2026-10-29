@@ -15,20 +15,6 @@
       "updatedAt": 1793278136404
     },
     {
-      "model": "A16",
-      "reason": "модуль олед",
-      "date": "29.10.2026, 12:23:25",
-      "contact": "89198501176",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 5000,
-      "partsCost": 2540,
-      "id": "item-1793258632567-755",
-      "status": "active",
-      "updatedAt": 1793278205597
-    },
-    {
       "model": "A115f",
       "reason": "вода",
       "date": "27.10.2026, 17:18:39",
@@ -119,6 +105,21 @@
       "status": "archived",
       "updatedAt": 1793265345894,
       "archivedDate": "29.10.2026, 14:15:45"
+    },
+    {
+      "model": "A16",
+      "reason": "модуль олед",
+      "date": "29.10.2026, 12:23:25",
+      "contact": "89198501176",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 5000,
+      "partsCost": 2540,
+      "id": "item-1793258632567-755",
+      "status": "archived",
+      "updatedAt": 1793293104566,
+      "archivedDate": "29.10.2026, 21:58:24"
     },
     {
       "model": "Iphone 11 pro",
@@ -3922,5 +3923,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793264023654,
-  "updatedAt": 1793293099453
+  "updatedAt": 1793293106653
 }
