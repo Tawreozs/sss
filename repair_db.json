@@ -67,20 +67,6 @@
       "updatedAt": 1792504637486
     },
     {
-      "model": "Camon 19 neo",
-      "reason": "гнутый, дисплей в рамке, акб, коннекторы",
-      "date": "19.10.2026, 12:51:01",
-      "contact": "89878656395",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 4200,
-      "id": "item-1792396349418-433",
-      "status": "active",
-      "updatedAt": 1793187746794,
-      "partsCost": 1900
-    },
-    {
       "model": "A055",
       "reason": "не вкл не заряд",
       "date": "07.10.2026, 17:41:27",
@@ -462,6 +448,21 @@
       "status": "archived",
       "updatedAt": 1792398640721,
       "archivedDate": "19.10.2026, 13:30:40"
+    },
+    {
+      "model": "Camon 19 neo",
+      "reason": "гнутый, дисплей в рамке, акб, коннекторы",
+      "date": "19.10.2026, 12:51:01",
+      "contact": "89878656395",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 4200,
+      "id": "item-1792396349418-433",
+      "status": "archived",
+      "updatedAt": 1793275959168,
+      "partsCost": 1900,
+      "archivedDate": "29.10.2026, 17:12:39"
     },
     {
       "model": "pad se 8.7",
@@ -3905,5 +3906,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793264023654,
-  "updatedAt": 1793275952836
+  "updatedAt": 1793275960875
 }
