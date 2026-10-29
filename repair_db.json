@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Замена акб мемс",
+      "reason": "",
+      "date": "29.10.2026, 14:15:30",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1793265344198-991",
+      "status": "active",
+      "updatedAt": 1793265344198
+    },
+    {
       "model": "A15",
       "reason": "модуль олед",
       "date": "29.10.2026, 12:23:25",
@@ -3901,5 +3915,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793264023654,
-  "updatedAt": 1793265330998
+  "updatedAt": 1793265345837
 }
