@@ -164,15 +164,16 @@
       "model": "Poco",
       "reason": "",
       "date": "26.10.2026, 16:32:48",
-      "contact": "",
+      "contact": "89225538374",
       "contact2": "",
       "name": "",
       "comment": "без ремонта",
-      "price": 89225538374,
+      "price": 0,
       "id": "item-1793014401597-827",
       "status": "archived",
-      "updatedAt": 1793186355982,
-      "archivedDate": "28.10.2026, 16:19:15"
+      "updatedAt": 1793260338756,
+      "archivedDate": "28.10.2026, 16:19:15",
+      "partsCost": 0
     },
     {
       "model": "чистка рекламы",
@@ -3900,5 +3901,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793184992418,
-  "updatedAt": 1793260312170
+  "updatedAt": 1793260340442
 }
