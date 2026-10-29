@@ -14,20 +14,6 @@
       "updatedAt": 1793258632567
     },
     {
-      "model": "Iphone 11 pro",
-      "reason": "модуль",
-      "date": "28.10.2026, 15:14:43",
-      "contact": "89958416252",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3300,
-      "id": "item-1793182506931-79",
-      "status": "active",
-      "updatedAt": 1793275988083,
-      "partsCost": 1200
-    },
-    {
       "model": "A115f",
       "reason": "вода",
       "date": "27.10.2026, 17:18:39",
@@ -118,6 +104,21 @@
       "status": "archived",
       "updatedAt": 1793265345894,
       "archivedDate": "29.10.2026, 14:15:45"
+    },
+    {
+      "model": "Iphone 11 pro",
+      "reason": "модуль",
+      "date": "28.10.2026, 15:14:43",
+      "contact": "89958416252",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3300,
+      "id": "item-1793182506931-79",
+      "status": "archived",
+      "updatedAt": 1793275989672,
+      "partsCost": 1200,
+      "archivedDate": "29.10.2026, 17:13:09"
     },
     {
       "model": "подделка айфон",
@@ -3906,5 +3907,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793264023654,
-  "updatedAt": 1793275989767
+  "updatedAt": 1793276038541
 }
