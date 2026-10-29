@@ -489,7 +489,7 @@
       "archivedDate": "26.10.2026, 13:55:55"
     },
     {
-      "model": "Spark",
+      "model": "Spark 40",
       "reason": "не заряд",
       "date": "16.10.2026, 16:49:20",
       "contact": "89058400673",
@@ -497,10 +497,10 @@
       "name": "",
       "comment": "",
       "price": 2000,
-      "partsCost": 0,
+      "partsCost": 550,
       "id": "item-1792151374942-91",
       "status": "archived",
-      "updatedAt": 1792158464627,
+      "updatedAt": 1793260129976,
       "archivedDate": "16.10.2026, 18:47:44"
     },
     {
@@ -3899,5 +3899,5 @@
     "item-1791192069709-207"
   ],
   "partsUpdatedAt": 1793184992418,
-  "updatedAt": 1793260106729
+  "updatedAt": 1793260131610
 }
