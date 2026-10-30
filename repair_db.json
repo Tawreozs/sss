@@ -13,20 +13,6 @@
       "updatedAt": 1793349404338
     },
     {
-      "model": "Колонка",
-      "reason": "разъём",
-      "date": "30.10.2026, 12:45:04",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 20,
-      "id": "item-1793346314481-963",
-      "status": "active",
-      "updatedAt": 1793346314481
-    },
-    {
       "model": "PS5",
       "reason": "Руслан Наджапов",
       "date": "29.10.2026, 17:48:41",
@@ -116,6 +102,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Колонка",
+      "reason": "разъём",
+      "date": "30.10.2026, 12:45:04",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 20,
+      "id": "item-1793346314481-963",
+      "status": "archived",
+      "updatedAt": 1793366700099,
+      "archivedDate": "30.10.2026, 18:25:00"
     },
     {
       "model": "Замена акб мемс",
@@ -3949,5 +3950,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793354029827,
-  "updatedAt": 1793366691866
+  "updatedAt": 1793366701908
 }
