@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Колонка",
+      "reason": "разъём",
+      "date": "30.10.2026, 12:45:04",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 20,
+      "id": "item-1793346314481-963",
+      "status": "active",
+      "updatedAt": 1793346314481
+    },
+    {
       "model": "PS5",
       "reason": "Руслан Наджапов",
       "date": "29.10.2026, 17:48:41",
@@ -3923,5 +3937,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793264023654,
-  "updatedAt": 1793346303044
+  "updatedAt": 1793346316227
 }
