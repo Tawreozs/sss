@@ -13,20 +13,6 @@
       "updatedAt": 1793349404338
     },
     {
-      "model": "PS5",
-      "reason": "Руслан Наджапов",
-      "date": "29.10.2026, 17:48:41",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "partsCost": 270,
-      "id": "item-1793278136404-350",
-      "status": "active",
-      "updatedAt": 1793278136404
-    },
-    {
       "model": "A115f",
       "reason": "вода",
       "date": "27.10.2026, 17:18:39",
@@ -117,6 +103,21 @@
       "status": "archived",
       "updatedAt": 1793366700099,
       "archivedDate": "30.10.2026, 18:25:00"
+    },
+    {
+      "model": "PS5",
+      "reason": "Руслан Наджапов",
+      "date": "29.10.2026, 17:48:41",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "partsCost": 270,
+      "id": "item-1793278136404-350",
+      "status": "archived",
+      "updatedAt": 1793467761213,
+      "archivedDate": "31.10.2026, 22:29:21"
     },
     {
       "model": "Замена акб мемс",
@@ -3950,5 +3951,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793354029827,
-  "updatedAt": 1793467758314
+  "updatedAt": 1793467764552
 }
