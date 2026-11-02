@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "обновил макс",
+      "reason": "",
+      "date": "02.11.2026, 16:04:54",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 300,
+      "partsCost": 0,
+      "id": "item-1793617505570-617",
+      "status": "active",
+      "updatedAt": 1793617505570
+    },
+    {
       "model": "Системник iru",
       "reason": "не вкл",
       "date": "02.11.2026, 14:55:23",
@@ -4006,5 +4020,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793617493713
+  "updatedAt": 1793617506816
 }
