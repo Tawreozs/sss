@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "A217f",
+      "reason": "дисплей ориг",
+      "date": "02.11.2026, 16:10:39",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1793617857766-679",
+      "status": "active",
+      "updatedAt": 1793617857766
+    },
+    {
       "model": "Системник iru",
       "reason": "не вкл",
       "date": "02.11.2026, 14:55:23",
@@ -4022,5 +4035,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793617838436
+  "updatedAt": 1793617859234
 }
