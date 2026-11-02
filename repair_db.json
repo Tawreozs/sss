@@ -9,9 +9,10 @@
       "name": "",
       "comment": "",
       "price": 3500,
+      "partsCost": 940,
       "id": "item-1793617857766-679",
       "status": "active",
-      "updatedAt": 1793617857766
+      "updatedAt": 1793617865947
     },
     {
       "model": "Системник iru",
@@ -4035,5 +4036,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793617863525
+  "updatedAt": 1793617867333
 }
