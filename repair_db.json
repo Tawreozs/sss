@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "NoviSea",
+      "reason": "микрофон",
+      "date": "02.11.2026, 16:39:27",
+      "contact": "89022479371",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1793619594952-571",
+      "status": "active",
+      "updatedAt": 1793619594952
+    },
+    {
       "model": "A217f",
       "reason": "дисплей ориг",
       "date": "02.11.2026, 16:10:39",
@@ -4037,5 +4049,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793619566470
+  "updatedAt": 1793619596319
 }
