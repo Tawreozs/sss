@@ -21,9 +21,10 @@
       "name": "",
       "comment": "",
       "price": 3500,
+      "partsCost": 900,
       "id": "item-1793608780908-490",
       "status": "active",
-      "updatedAt": 1793608780908
+      "updatedAt": 1793617837027
     },
     {
       "model": "A155",
@@ -4021,5 +4022,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793617832272
+  "updatedAt": 1793617838436
 }
