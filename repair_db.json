@@ -27,20 +27,6 @@
       "updatedAt": 1793613345137
     },
     {
-      "model": "Spark Go 1",
-      "reason": "",
-      "date": "02.11.2026, 13:39:11",
-      "contact": "89226211850",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "partsCost": 900,
-      "id": "item-1793608780908-490",
-      "status": "active",
-      "updatedAt": 1793617837027
-    },
-    {
       "model": "A155",
       "reason": "нет изо",
       "date": "30.10.2026, 13:36:26",
@@ -158,6 +144,21 @@
       "status": "archived",
       "updatedAt": 1793610925024,
       "archivedDate": "02.11.2026, 14:15:25"
+    },
+    {
+      "model": "Spark Go 1",
+      "reason": "",
+      "date": "02.11.2026, 13:39:11",
+      "contact": "89226211850",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "partsCost": 900,
+      "id": "item-1793608780908-490",
+      "status": "archived",
+      "updatedAt": 1793619167570,
+      "archivedDate": "02.11.2026, 16:32:47"
     },
     {
       "model": "ноут асус",
@@ -4036,5 +4037,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793619163531
+  "updatedAt": 1793619168896
 }
