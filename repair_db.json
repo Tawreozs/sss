@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Spark",
-      "reason": "разъём",
-      "date": "02.11.2026, 14:14:57",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 20,
-      "id": "item-1793610923296-448",
-      "status": "active",
-      "updatedAt": 1793610923296
-    },
-    {
       "model": "Spark Go 1",
       "reason": "",
       "date": "02.11.2026, 13:39:11",
@@ -115,6 +101,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Spark",
+      "reason": "разъём",
+      "date": "02.11.2026, 14:14:57",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 20,
+      "id": "item-1793610923296-448",
+      "status": "archived",
+      "updatedAt": 1793610925024,
+      "archivedDate": "02.11.2026, 14:15:25"
     },
     {
       "model": "ноут асус",
@@ -3993,5 +3994,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793608997336,
-  "updatedAt": 1793610924577
+  "updatedAt": 1793610926806
 }
