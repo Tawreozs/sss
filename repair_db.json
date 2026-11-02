@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "ноут асус",
+      "reason": "винда",
+      "date": "02.11.2026, 12:23:21",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1793604213208-966",
+      "status": "active",
+      "updatedAt": 1793604213208
+    },
+    {
       "model": "A155",
       "reason": "нет изо",
       "date": "30.10.2026, 13:36:26",
@@ -3951,5 +3965,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793354029827,
-  "updatedAt": 1793604192150
+  "updatedAt": 1793604214510
 }
