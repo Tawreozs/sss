@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Системник iru",
+      "reason": "не вкл",
+      "date": "02.11.2026, 14:55:23",
+      "contact": "89878786606",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1793613345137-617",
+      "status": "active",
+      "updatedAt": 1793613345137
+    },
+    {
       "model": "Spark Go 1",
       "reason": "",
       "date": "02.11.2026, 13:39:11",
@@ -3994,5 +4006,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793608997336,
-  "updatedAt": 1793613318773
+  "updatedAt": 1793613346738
 }
