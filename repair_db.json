@@ -38,20 +38,6 @@
       "updatedAt": 1793619718632
     },
     {
-      "model": "A217f",
-      "reason": "дисплей ориг",
-      "date": "02.11.2026, 16:10:39",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "partsCost": 940,
-      "id": "item-1793617857766-679",
-      "status": "active",
-      "updatedAt": 1793617865947
-    },
-    {
       "model": "Системник iru",
       "reason": "не вкл",
       "date": "02.11.2026, 14:55:23",
@@ -180,6 +166,21 @@
       "status": "archived",
       "updatedAt": 1793699459098,
       "archivedDate": "03.11.2026, 14:50:59"
+    },
+    {
+      "model": "A217f",
+      "reason": "дисплей ориг",
+      "date": "02.11.2026, 16:10:39",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "partsCost": 940,
+      "id": "item-1793617857766-679",
+      "status": "archived",
+      "updatedAt": 1793713385459,
+      "archivedDate": "03.11.2026, 18:43:05"
     },
     {
       "model": "обновил макс",
@@ -4103,5 +4104,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793713383033
+  "updatedAt": 1793713386917
 }
