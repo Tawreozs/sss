@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Redmi 13c",
+      "reason": "разъём ЗУ",
+      "date": "03.11.2026, 12:25:56",
+      "contact": "89877778044",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1793690784518-882",
+      "status": "active",
+      "updatedAt": 1793690784518
+    },
+    {
       "model": "NoviSea",
       "reason": "микрофон",
       "date": "02.11.2026, 16:39:27",
@@ -4049,5 +4061,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793690763151
+  "updatedAt": 1793690785961
 }
