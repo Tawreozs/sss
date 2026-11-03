@@ -14,15 +14,16 @@
     },
     {
       "model": "Redmi 13c",
-      "reason": "разъём ЗУ",
+      "reason": "Проблемы с ЗУ",
       "date": "03.11.2026, 12:25:56",
       "contact": "89877778044",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "разъём ЗУ + чистка разъёма 3.5 + поклейка 2 стёкол",
+      "price": 2900,
       "id": "item-1793690784518-882",
       "status": "active",
-      "updatedAt": 1793690784518
+      "updatedAt": 1793699457445
     },
     {
       "model": "NoviSea",
@@ -4088,5 +4089,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793699455189
+  "updatedAt": 1793699458807
 }
