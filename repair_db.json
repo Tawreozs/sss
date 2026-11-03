@@ -7,11 +7,11 @@
       "contact": "89867809642",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "5000 предоплата",
       "price": 8500,
       "id": "item-1793701434014-335",
       "status": "active",
-      "updatedAt": 1793701434014
+      "updatedAt": 1793705054355
     },
     {
       "model": "S23 Ultra",
@@ -4103,5 +4103,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793705039408
+  "updatedAt": 1793705055742
 }
