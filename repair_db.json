@@ -159,11 +159,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 300,
+      "price": 400,
       "partsCost": 0,
       "id": "item-1793692620593-101",
       "status": "archived",
-      "updatedAt": 1793692622360,
+      "updatedAt": 1793692753570,
       "archivedDate": "03.11.2026, 12:57:02"
     },
     {
@@ -4088,5 +4088,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793692726812
+  "updatedAt": 1793692754872
 }
