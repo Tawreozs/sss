@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "чистка динамика",
-      "reason": "",
-      "date": "03.11.2026, 12:56:51",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 300,
-      "partsCost": 0,
-      "id": "item-1793692620593-101",
-      "status": "active",
-      "updatedAt": 1793692620593
-    },
-    {
       "model": "S23 Ultra",
       "reason": "не вкл, разбитая крышка, на стекле трещина",
       "date": "03.11.2026, 12:44:49",
@@ -164,6 +150,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "чистка динамика",
+      "reason": "",
+      "date": "03.11.2026, 12:56:51",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 300,
+      "partsCost": 0,
+      "id": "item-1793692620593-101",
+      "status": "archived",
+      "updatedAt": 1793692622360,
+      "archivedDate": "03.11.2026, 12:57:02"
     },
     {
       "model": "обновил макс",
@@ -4087,5 +4088,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793615133183,
-  "updatedAt": 1793692622049
+  "updatedAt": 1793692680022
 }
