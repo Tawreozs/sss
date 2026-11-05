@@ -74,20 +74,6 @@
       "updatedAt": 1793619718632
     },
     {
-      "model": "Системник iru",
-      "reason": "не вкл",
-      "date": "02.11.2026, 14:55:23",
-      "contact": "89878786606",
-      "contact2": "",
-      "name": "",
-      "comment": "замена материнской платы и процессора",
-      "id": "item-1793613345137-617",
-      "status": "active",
-      "updatedAt": 1793877832573,
-      "partsCost": 2700,
-      "price": 8000
-    },
-    {
       "model": "A155",
       "reason": "нет изо",
       "date": "30.10.2026, 13:36:26",
@@ -234,6 +220,21 @@
       "status": "archived",
       "updatedAt": 1793617507462,
       "archivedDate": "02.11.2026, 16:05:07"
+    },
+    {
+      "model": "Системник iru",
+      "reason": "не вкл",
+      "date": "02.11.2026, 14:55:23",
+      "contact": "89878786606",
+      "contact2": "",
+      "name": "",
+      "comment": "замена материнской платы и процессора",
+      "id": "item-1793613345137-617",
+      "status": "archived",
+      "updatedAt": 1793877834479,
+      "partsCost": 2700,
+      "price": 8000,
+      "archivedDate": "05.11.2026, 16:23:54"
     },
     {
       "model": "Spark",
@@ -4142,5 +4143,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793877595280,
-  "updatedAt": 1793877833990
+  "updatedAt": 1793877884541
 }
