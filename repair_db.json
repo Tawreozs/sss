@@ -80,10 +80,12 @@
       "contact": "89878786606",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "замена материнской платы и процессора",
       "id": "item-1793613345137-617",
       "status": "active",
-      "updatedAt": 1793613345137
+      "updatedAt": 1793877832573,
+      "partsCost": 2700,
+      "price": 8000
     },
     {
       "model": "A155",
@@ -4140,5 +4142,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793877595280,
-  "updatedAt": 1793877814265
+  "updatedAt": 1793877833990
 }
