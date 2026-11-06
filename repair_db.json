@@ -83,7 +83,8 @@
       "comment": "",
       "id": "item-1793619594952-571",
       "status": "active",
-      "updatedAt": 1793619718632
+      "updatedAt": 1793969749856,
+      "price": 1500
     },
     {
       "model": "A155",
@@ -4170,5 +4171,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793877595280,
-  "updatedAt": 1793969734019
+  "updatedAt": 1793969751388
 }
