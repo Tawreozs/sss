@@ -59,7 +59,7 @@
       "comment": "",
       "id": "item-1793873207967-322",
       "status": "active",
-      "updatedAt": 1793969764782,
+      "updatedAt": 1793969773226,
       "price": 2500,
       "partsCost": 0
     },
@@ -4173,5 +4173,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793877595280,
-  "updatedAt": 1793969766267
+  "updatedAt": 1793969774764
 }
