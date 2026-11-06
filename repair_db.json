@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Infinix Smart 8",
+      "reason": "дисплей + разъём",
+      "date": "06.11.2026, 18:53:04",
+      "contact": "",
+      "contact2": "",
+      "name": "Андрей Механ",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1793973204351-51",
+      "status": "active",
+      "updatedAt": 1793973204351
+    },
+    {
       "model": "a16",
       "reason": "дисплей олед",
       "date": "06.11.2026, 18:04:38",
@@ -4187,5 +4200,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793970658742,
-  "updatedAt": 1793973172858
+  "updatedAt": 1793973205758
 }
