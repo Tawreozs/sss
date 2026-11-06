@@ -50,20 +50,6 @@
       "updatedAt": 1793877577276
     },
     {
-      "model": "Пересборка системника",
-      "reason": "",
-      "date": "05.11.2026, 15:06:28",
-      "contact": "89871911643",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1793873207967-322",
-      "status": "active",
-      "updatedAt": 1793969773226,
-      "price": 2500,
-      "partsCost": 0
-    },
-    {
       "model": "S23 Ultra",
       "reason": "не вкл, разбитая крышка, на стекле трещина",
       "date": "03.11.2026, 12:44:49",
@@ -176,6 +162,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Пересборка системника",
+      "reason": "",
+      "date": "05.11.2026, 15:06:28",
+      "contact": "89871911643",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1793873207967-322",
+      "status": "archived",
+      "updatedAt": 1793969774418,
+      "price": 2500,
+      "partsCost": 0,
+      "archivedDate": "06.11.2026, 17:56:14"
     },
     {
       "model": "11 pro max",
@@ -4173,5 +4174,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793877595280,
-  "updatedAt": 1793969774764
+  "updatedAt": 1793969780586
 }
