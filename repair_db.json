@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Poco C75",
+      "reason": "не заряд",
+      "date": "06.11.2026, 12:13:28",
+      "contact": "89867745407",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1793949267243-125",
+      "status": "active",
+      "updatedAt": 1793949267243
+    },
+    {
       "model": "Pova 5",
       "reason": "модуль",
       "date": "06.11.2026, 11:22:18",
@@ -4157,5 +4169,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793877595280,
-  "updatedAt": 1793949237855
+  "updatedAt": 1793949268794
 }
