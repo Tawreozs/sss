@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Планшет Lenovo",
+      "reason": "разъём",
+      "date": "09.11.2026, 13:25:49",
+      "contact": "89877720903",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1794212803003-583",
+      "status": "active",
+      "updatedAt": 1794212803003
+    },
+    {
       "model": "Infinix Smart 8",
       "reason": "дисплей + разъём",
       "date": "06.11.2026, 18:53:04",
@@ -4200,5 +4213,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793970658742,
-  "updatedAt": 1794212796692
+  "updatedAt": 1794212804455
 }
