@@ -26,20 +26,6 @@
       "updatedAt": 1794221032968
     },
     {
-      "model": "Redmi 15c",
-      "reason": "модуль в рамке",
-      "date": "09.11.2026, 13:43:57",
-      "contact": "89128468149",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1794213879618-55",
-      "status": "active",
-      "updatedAt": 1794241464438,
-      "price": 3500,
-      "partsCost": 1080
-    },
-    {
       "model": "Планшет Lenovo",
       "reason": "разъём",
       "date": "09.11.2026, 13:25:49",
@@ -218,6 +204,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Redmi 15c",
+      "reason": "модуль в рамке",
+      "date": "09.11.2026, 13:43:57",
+      "contact": "89128468149",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1794213879618-55",
+      "status": "archived",
+      "updatedAt": 1794241474105,
+      "price": 3500,
+      "partsCost": 1080,
+      "archivedDate": "09.11.2026, 21:24:34"
     },
     {
       "model": "Infinix Smart 8",
@@ -4260,5 +4261,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794231686371,
-  "updatedAt": 1794241473616
+  "updatedAt": 1794241486804
 }
