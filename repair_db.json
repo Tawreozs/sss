@@ -93,7 +93,7 @@
       "partsCost": 750
     },
     {
-      "model": "Бронефон",
+      "model": "Blackview BV9300",
       "reason": "разъём",
       "date": "05.11.2026, 16:22:05",
       "contact": "89878780498",
@@ -102,7 +102,7 @@
       "comment": "",
       "id": "item-1793877740544-376",
       "status": "active",
-      "updatedAt": 1794223884434,
+      "updatedAt": 1794224229671,
       "price": 2000,
       "partsCost": 0
     },
@@ -4243,5 +4243,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793970658742,
-  "updatedAt": 1794224209777
+  "updatedAt": 1794224231101
 }
