@@ -46,10 +46,12 @@
       "contact": "89867745407",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "разъём",
       "id": "item-1793949267243-125",
       "status": "active",
-      "updatedAt": 1793949267243
+      "updatedAt": 1794213668440,
+      "price": 2000,
+      "partsCost": 30
     },
     {
       "model": "Pova 5",
@@ -4213,5 +4215,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793970658742,
-  "updatedAt": 1794213652604
+  "updatedAt": 1794213669794
 }
