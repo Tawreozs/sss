@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Redmi 15c",
+      "reason": "модуль в рамке",
+      "date": "09.11.2026, 13:43:57",
+      "contact": "89128468149",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1794213879618-55",
+      "status": "active",
+      "updatedAt": 1794213879618
+    },
+    {
       "model": "Планшет Lenovo",
       "reason": "разъём",
       "date": "09.11.2026, 13:25:49",
@@ -4215,5 +4227,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793970658742,
-  "updatedAt": 1794213838066
+  "updatedAt": 1794213881597
 }
