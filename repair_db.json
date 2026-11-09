@@ -102,9 +102,9 @@
       "comment": "",
       "id": "item-1793877740544-376",
       "status": "active",
-      "updatedAt": 1794224229671,
-      "price": 2000,
-      "partsCost": 0
+      "updatedAt": 1794225714049,
+      "price": 3500,
+      "partsCost": 1380
     },
     {
       "model": "системник пакет ВБ",
@@ -4243,5 +4243,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793970658742,
-  "updatedAt": 1794225711928
+  "updatedAt": 1794225715411
 }
