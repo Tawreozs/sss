@@ -51,20 +51,6 @@
       "updatedAt": 1794212803003
     },
     {
-      "model": "Infinix Smart 8",
-      "reason": "дисплей + разъём",
-      "date": "06.11.2026, 18:53:04",
-      "contact": "",
-      "contact2": "",
-      "name": "Андрей Механ",
-      "comment": "",
-      "price": 3000,
-      "id": "item-1793973204351-51",
-      "status": "active",
-      "updatedAt": 1794241384061,
-      "partsCost": 750
-    },
-    {
       "model": "a16",
       "reason": "дисплей олед",
       "date": "06.11.2026, 18:04:38",
@@ -230,6 +216,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Infinix Smart 8",
+      "reason": "дисплей + разъём",
+      "date": "06.11.2026, 18:53:04",
+      "contact": "",
+      "contact2": "",
+      "name": "Андрей Механ",
+      "comment": "",
+      "price": 3000,
+      "id": "item-1793973204351-51",
+      "status": "archived",
+      "updatedAt": 1794241386388,
+      "partsCost": 750,
+      "archivedDate": "09.11.2026, 21:23:06"
     },
     {
       "model": "Pova 5",
@@ -4257,5 +4258,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794231686371,
-  "updatedAt": 1794241385031
+  "updatedAt": 1794241387059
 }
