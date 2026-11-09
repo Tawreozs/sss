@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Realme note 50",
+      "reason": "модуль ориг + стекло",
+      "date": "09.11.2026, 15:43:17",
+      "contact": "89873473164",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1794221032968-137",
+      "status": "active",
+      "updatedAt": 1794221032968
+    },
+    {
       "model": "Redmi 15c",
       "reason": "модуль в рамке",
       "date": "09.11.2026, 13:43:57",
@@ -4228,5 +4241,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793970658742,
-  "updatedAt": 1794220997396
+  "updatedAt": 1794221035154
 }
