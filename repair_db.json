@@ -91,20 +91,6 @@
       "partsCost": 30
     },
     {
-      "model": "Pova 5",
-      "reason": "модуль ориг",
-      "date": "06.11.2026, 11:22:18",
-      "contact": "89228639141",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3500,
-      "id": "item-1793946244373-60",
-      "status": "active",
-      "updatedAt": 1794216707259,
-      "partsCost": 750
-    },
-    {
       "model": "Blackview BV9300",
       "reason": "разъём",
       "date": "05.11.2026, 16:22:05",
@@ -243,6 +229,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Pova 5",
+      "reason": "модуль ориг",
+      "date": "06.11.2026, 11:22:18",
+      "contact": "89228639141",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1793946244373-60",
+      "status": "archived",
+      "updatedAt": 1794230249336,
+      "partsCost": 750,
+      "archivedDate": "09.11.2026, 18:17:29"
     },
     {
       "model": "Пересборка системника",
@@ -4255,5 +4256,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1793970658742,
-  "updatedAt": 1794230249982
+  "updatedAt": 1794230298236
 }
