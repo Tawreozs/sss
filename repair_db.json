@@ -51,20 +51,6 @@
       "updatedAt": 1794212803003
     },
     {
-      "model": "a16",
-      "reason": "дисплей ориг",
-      "date": "06.11.2026, 18:04:38",
-      "contact": "89128495479",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 6000,
-      "id": "item-1793970304795-183",
-      "status": "active",
-      "updatedAt": 1794295591689,
-      "partsCost": 4070
-    },
-    {
       "model": "Poco C75",
       "reason": "не заряд",
       "date": "06.11.2026, 12:13:28",
@@ -247,6 +233,21 @@
       "updatedAt": 1794241386388,
       "partsCost": 750,
       "archivedDate": "09.11.2026, 21:23:06"
+    },
+    {
+      "model": "a16",
+      "reason": "дисплей ориг",
+      "date": "06.11.2026, 18:04:38",
+      "contact": "89128495479",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 6000,
+      "id": "item-1793970304795-183",
+      "status": "archived",
+      "updatedAt": 1794303836758,
+      "partsCost": 4070,
+      "archivedDate": "10.11.2026, 14:43:56"
     },
     {
       "model": "Pova 5",
@@ -4274,5 +4275,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794298942136,
-  "updatedAt": 1794303833898
+  "updatedAt": 1794303838290
 }
