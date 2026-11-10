@@ -35,7 +35,8 @@
       "price": 3800,
       "id": "item-1794221032968-137",
       "status": "active",
-      "updatedAt": 1794221032968
+      "updatedAt": 1794312924592,
+      "partsCost": 740
     },
     {
       "model": "Планшет Lenovo",
@@ -4275,5 +4276,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794298942136,
-  "updatedAt": 1794312888927
+  "updatedAt": 1794312927278
 }
