@@ -40,16 +40,17 @@
     },
     {
       "model": "a16",
-      "reason": "дисплей олед",
+      "reason": "дисплей ориг",
       "date": "06.11.2026, 18:04:38",
       "contact": "89128495479",
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 5000,
+      "price": 6000,
       "id": "item-1793970304795-183",
       "status": "active",
-      "updatedAt": 1793970304795
+      "updatedAt": 1794295591689,
+      "partsCost": 4070
     },
     {
       "model": "Poco C75",
@@ -4261,5 +4262,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794294512045,
-  "updatedAt": 1794295589982
+  "updatedAt": 1794295593278
 }
