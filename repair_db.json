@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Системник с блоком FSP",
-      "reason": "автостарт",
-      "date": "10.11.2026, 13:12:58",
-      "contact": "89992588010",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1794298408009-172",
-      "status": "active",
-      "updatedAt": 1794317925652,
-      "price": 2000,
-      "partsCost": 0
-    },
-    {
       "model": "системник мелкий",
       "reason": "",
       "date": "09.11.2026, 17:34:12",
@@ -192,6 +178,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Системник с блоком FSP",
+      "reason": "автостарт",
+      "date": "10.11.2026, 13:12:58",
+      "contact": "89992588010",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1794298408009-172",
+      "status": "archived",
+      "updatedAt": 1794317928214,
+      "price": 2000,
+      "partsCost": 0,
+      "archivedDate": "10.11.2026, 18:38:48"
     },
     {
       "model": "Realme note 50",
@@ -4279,5 +4280,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794298942136,
-  "updatedAt": 1794317927390
+  "updatedAt": 1794317930351
 }
