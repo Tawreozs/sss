@@ -25,20 +25,6 @@
       "updatedAt": 1794227710219
     },
     {
-      "model": "Realme note 50",
-      "reason": "модуль ориг + стекло",
-      "date": "09.11.2026, 15:43:17",
-      "contact": "89873473164",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3800,
-      "id": "item-1794221032968-137",
-      "status": "active",
-      "updatedAt": 1794312924592,
-      "partsCost": 740
-    },
-    {
       "model": "Планшет Lenovo",
       "reason": "разъём",
       "date": "09.11.2026, 13:25:49",
@@ -204,6 +190,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Realme note 50",
+      "reason": "модуль ориг + стекло",
+      "date": "09.11.2026, 15:43:17",
+      "contact": "89873473164",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3800,
+      "id": "item-1794221032968-137",
+      "status": "archived",
+      "updatedAt": 1794312925997,
+      "partsCost": 740,
+      "archivedDate": "10.11.2026, 17:15:25"
     },
     {
       "model": "Redmi 15c",
@@ -4276,5 +4277,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794298942136,
-  "updatedAt": 1794312927278
+  "updatedAt": 1794312935552
 }
