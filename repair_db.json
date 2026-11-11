@@ -41,20 +41,6 @@
       "updatedAt": 1794388971247
     },
     {
-      "model": "системник мелкий",
-      "reason": "батарейка биоса + винда",
-      "date": "09.11.2026, 17:34:12",
-      "contact": "89128477981",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1794227710219-965",
-      "status": "active",
-      "updatedAt": 1794401014461,
-      "price": 2500,
-      "partsCost": 0
-    },
-    {
       "model": "Планшет Lenovo",
       "reason": "разъём",
       "date": "09.11.2026, 13:25:49",
@@ -250,6 +236,21 @@
       "price": 2000,
       "partsCost": 0,
       "archivedDate": "10.11.2026, 18:38:48"
+    },
+    {
+      "model": "системник мелкий",
+      "reason": "батарейка биоса + винда",
+      "date": "09.11.2026, 17:34:12",
+      "contact": "89128477981",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1794227710219-965",
+      "status": "archived",
+      "updatedAt": 1794401017159,
+      "price": 2500,
+      "partsCost": 0,
+      "archivedDate": "11.11.2026, 17:43:37"
     },
     {
       "model": "Realme note 50",
@@ -4337,5 +4338,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794401016632
+  "updatedAt": 1794401027514
 }
