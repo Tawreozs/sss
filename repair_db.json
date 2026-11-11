@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "переклей",
-      "reason": "",
-      "date": "11.11.2026, 14:35:24",
-      "contact": "89033677192",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 0,
-      "id": "item-1794389739659-449",
-      "status": "active",
-      "updatedAt": 1794394551423
-    },
-    {
       "model": "Iphone 13 pro max",
       "reason": "дисплей олед 7000 + 5500 крышка",
       "date": "11.11.2026, 14:20:51",
@@ -236,6 +222,21 @@
       "status": "archived",
       "updatedAt": 1794394629313,
       "archivedDate": "11.11.2026, 15:57:09"
+    },
+    {
+      "model": "переклей",
+      "reason": "",
+      "date": "11.11.2026, 14:35:24",
+      "contact": "89033677192",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1794389739659-449",
+      "status": "archived",
+      "updatedAt": 1794402085956,
+      "archivedDate": "11.11.2026, 18:01:25"
     },
     {
       "model": "Системник с блоком FSP",
@@ -4353,5 +4354,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794402084107
+  "updatedAt": 1794402087612
 }
