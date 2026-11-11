@@ -20,11 +20,11 @@
       "contact": "89123432642",
       "contact2": "",
       "name": "Данил",
-      "comment": "",
+      "comment": "0209",
       "price": 8300,
       "id": "item-1794388644553-557",
       "status": "active",
-      "updatedAt": 1794388971247
+      "updatedAt": 1794404209959
     },
     {
       "model": "Планшет Lenovo",
@@ -4354,5 +4354,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794404192031
+  "updatedAt": 1794404211498
 }
