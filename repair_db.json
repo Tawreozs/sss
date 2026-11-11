@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "philips",
-      "reason": "разъём",
-      "date": "11.11.2026, 15:56:42",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1000,
-      "partsCost": 0,
-      "id": "item-1794394627619-462",
-      "status": "active",
-      "updatedAt": 1794394627619
-    },
-    {
       "model": "переклей",
       "reason": "",
       "date": "11.11.2026, 14:35:24",
@@ -232,6 +218,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "philips",
+      "reason": "разъём",
+      "date": "11.11.2026, 15:56:42",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 0,
+      "id": "item-1794394627619-462",
+      "status": "archived",
+      "updatedAt": 1794394629313,
+      "archivedDate": "11.11.2026, 15:57:09"
     },
     {
       "model": "Системник с блоком FSP",
@@ -4334,5 +4335,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794394629157
+  "updatedAt": 1794394678282
 }
