@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "чистка памяти",
-      "reason": "",
-      "date": "11.11.2026, 17:45:49",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 300,
-      "partsCost": 0,
-      "id": "item-1794401155514-383",
-      "status": "active",
-      "updatedAt": 1794401155514
-    },
-    {
       "model": "переклей",
       "reason": "",
       "date": "11.11.2026, 14:35:24",
@@ -220,6 +206,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "чистка памяти",
+      "reason": "",
+      "date": "11.11.2026, 17:45:49",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 300,
+      "partsCost": 0,
+      "id": "item-1794401155514-383",
+      "status": "archived",
+      "updatedAt": 1794401158711,
+      "archivedDate": "11.11.2026, 17:45:58"
     },
     {
       "model": "philips",
@@ -4352,5 +4353,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794401157369
+  "updatedAt": 1794401160638
 }
