@@ -33,10 +33,11 @@
       "contact2": "",
       "name": "Данил",
       "comment": "0209",
-      "price": 8300,
+      "price": 10500,
       "id": "item-1794388644553-557",
       "status": "active",
-      "updatedAt": 1794404209959
+      "updatedAt": 1794485785590,
+      "partsCost": 2950
     },
     {
       "model": "Poco C75",
@@ -4370,5 +4371,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794485774361
+  "updatedAt": 1794485787027
 }
