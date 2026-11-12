@@ -10,7 +10,9 @@
       "comment": "",
       "id": "item-1794471468562-276",
       "status": "active",
-      "updatedAt": 1794471468562
+      "updatedAt": 1794485956016,
+      "price": 1500,
+      "partsCost": 0
     },
     {
       "model": "Iphone 13 pro max",
@@ -4372,5 +4374,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794485950658
+  "updatedAt": 1794485957869
 }
