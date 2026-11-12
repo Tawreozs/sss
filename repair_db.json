@@ -23,7 +23,8 @@
       "price": 12500,
       "id": "item-1794388908150-384",
       "status": "active",
-      "updatedAt": 1794388908150
+      "updatedAt": 1794485875028,
+      "partsCost": 4330
     },
     {
       "model": "Iphone 12",
@@ -4371,5 +4372,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794485874040
+  "updatedAt": 1794485876639
 }
