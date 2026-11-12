@@ -15,20 +15,6 @@
       "partsCost": 30
     },
     {
-      "model": "Blackview BV9300",
-      "reason": "разъём",
-      "date": "05.11.2026, 16:22:05",
-      "contact": "89878780498",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1793877740544-376",
-      "status": "active",
-      "updatedAt": 1794225714049,
-      "price": 3500,
-      "partsCost": 1380
-    },
-    {
       "model": "системник пакет ВБ",
       "reason": "",
       "date": "05.11.2026, 16:09:15",
@@ -350,6 +336,21 @@
       "updatedAt": 1794230249336,
       "partsCost": 750,
       "archivedDate": "09.11.2026, 18:17:29"
+    },
+    {
+      "model": "Blackview BV9300",
+      "reason": "разъём",
+      "date": "05.11.2026, 16:22:05",
+      "contact": "89878780498",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1793877740544-376",
+      "status": "archived",
+      "updatedAt": 1794488330371,
+      "price": 3500,
+      "partsCost": 1380,
+      "archivedDate": "12.11.2026, 17:58:50"
     },
     {
       "model": "Пересборка системника",
@@ -4377,5 +4378,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794488321886
+  "updatedAt": 1794488331850
 }
