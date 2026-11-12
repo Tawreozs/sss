@@ -39,20 +39,6 @@
       "updatedAt": 1794404209959
     },
     {
-      "model": "Планшет Lenovo",
-      "reason": "разъём",
-      "date": "09.11.2026, 13:25:49",
-      "contact": "89877720903",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "id": "item-1794212803003-583",
-      "status": "active",
-      "updatedAt": 1794484286451,
-      "partsCost": 0
-    },
-    {
       "model": "Poco C75",
       "reason": "не заряд",
       "date": "06.11.2026, 12:13:28",
@@ -297,6 +283,21 @@
       "price": 3500,
       "partsCost": 1080,
       "archivedDate": "09.11.2026, 21:24:34"
+    },
+    {
+      "model": "Планшет Lenovo",
+      "reason": "разъём",
+      "date": "09.11.2026, 13:25:49",
+      "contact": "89877720903",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "id": "item-1794212803003-583",
+      "status": "archived",
+      "updatedAt": 1794484287896,
+      "partsCost": 0,
+      "archivedDate": "12.11.2026, 16:51:27"
     },
     {
       "model": "Infinix Smart 8",
@@ -4369,5 +4370,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794484287894
+  "updatedAt": 1794484336856
 }
