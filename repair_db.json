@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Ноут Irbis",
-      "reason": "пароль",
-      "date": "12.11.2026, 13:17:27",
-      "contact": "89510302104",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1794471468562-276",
-      "status": "active",
-      "updatedAt": 1794485956016,
-      "price": 1500,
-      "partsCost": 0
-    },
-    {
       "model": "Iphone 13 pro max",
       "reason": "дисплей олед 7000 + 5500 крышка",
       "date": "11.11.2026, 14:20:51",
@@ -182,6 +168,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Ноут Irbis",
+      "reason": "пароль",
+      "date": "12.11.2026, 13:17:27",
+      "contact": "89510302104",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1794471468562-276",
+      "status": "archived",
+      "updatedAt": 1794486291655,
+      "price": 1500,
+      "partsCost": 0,
+      "archivedDate": "12.11.2026, 17:24:51"
     },
     {
       "model": "чистка памяти",
@@ -4374,5 +4375,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794486291646
+  "updatedAt": 1794486341339
 }
