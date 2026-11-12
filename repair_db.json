@@ -33,10 +33,10 @@
       "contact2": "",
       "name": "Данил",
       "comment": "0209",
-      "price": 10500,
+      "price": 10800,
       "id": "item-1794388644553-557",
       "status": "active",
-      "updatedAt": 1794485785590,
+      "updatedAt": 1794485802014,
       "partsCost": 2950
     },
     {
@@ -4371,5 +4371,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794485787027
+  "updatedAt": 1794485803436
 }
