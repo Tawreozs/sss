@@ -49,7 +49,8 @@
       "price": 1500,
       "id": "item-1794212803003-583",
       "status": "active",
-      "updatedAt": 1794212803003
+      "updatedAt": 1794484286451,
+      "partsCost": 0
     },
     {
       "model": "Poco C75",
@@ -4368,5 +4369,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794484277421
+  "updatedAt": 1794484287894
 }
