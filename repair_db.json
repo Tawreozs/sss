@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Ноут Acer",
-      "reason": "установка м2 + винда",
-      "date": "13.11.2026, 16:54:01",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 3000,
-      "partsCost": 0,
-      "id": "item-1794570863689-682",
-      "status": "active",
-      "updatedAt": 1794570863689
-    },
-    {
       "model": "алиса",
       "reason": "",
       "date": "13.11.2026, 16:10:33",
@@ -152,6 +138,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Ноут Acer",
+      "reason": "установка м2 + винда",
+      "date": "13.11.2026, 16:54:01",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3000,
+      "partsCost": 0,
+      "id": "item-1794570863689-682",
+      "status": "archived",
+      "updatedAt": 1794571326254,
+      "archivedDate": "13.11.2026, 17:02:06"
     },
     {
       "model": "A155",
@@ -4419,5 +4420,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794571325488
+  "updatedAt": 1794571327901
 }
