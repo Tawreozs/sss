@@ -27,20 +27,6 @@
       "updatedAt": 1794568250256
     },
     {
-      "model": "A155",
-      "reason": "нет изо",
-      "date": "13.11.2026, 12:40:10",
-      "contact": "89198439586",
-      "contact2": "",
-      "name": "",
-      "comment": "Коннектор",
-      "price": 2000,
-      "partsCost": 0,
-      "id": "item-1794565607741-882",
-      "status": "active",
-      "updatedAt": 1794570834792
-    },
-    {
       "model": "Poco C75",
       "reason": "не заряд",
       "date": "06.11.2026, 12:13:28",
@@ -166,6 +152,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "A155",
+      "reason": "нет изо",
+      "date": "13.11.2026, 12:40:10",
+      "contact": "89198439586",
+      "contact2": "",
+      "name": "",
+      "comment": "Коннектор",
+      "price": 2000,
+      "partsCost": 0,
+      "id": "item-1794565607741-882",
+      "status": "archived",
+      "updatedAt": 1794571188750,
+      "archivedDate": "13.11.2026, 16:59:48"
     },
     {
       "model": "Ноут Irbis",
@@ -4418,5 +4419,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794571185558
+  "updatedAt": 1794571190166
 }
