@@ -19,10 +19,12 @@
       "contact": "89198439586",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "Коннектор",
+      "price": 2000,
+      "partsCost": 0,
       "id": "item-1794565607741-882",
       "status": "active",
-      "updatedAt": 1794565607741
+      "updatedAt": 1794570834792
     },
     {
       "model": "Poco C75",
@@ -4402,5 +4404,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794570817425
+  "updatedAt": 1794570836347
 }
