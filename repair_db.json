@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "разблокировка",
+      "reason": "",
+      "date": "17.11.2026, 16:54:12",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1794916469264-840",
+      "status": "active",
+      "updatedAt": 1794916469264
+    },
+    {
       "model": "алиса",
       "reason": "",
       "date": "13.11.2026, 16:10:33",
@@ -4420,5 +4434,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794916452834
+  "updatedAt": 1794916470937
 }
