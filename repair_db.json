@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "Honor 10 lite",
+      "reason": "экран в рамке",
+      "date": "17.11.2026, 17:39:22",
+      "contact": "282355",
+      "contact2": "",
+      "name": "",
+      "comment": "оплачен",
+      "price": 3300,
+      "id": "item-1794919204782-646",
+      "status": "active",
+      "updatedAt": 1794919204782
+    },
+    {
       "model": "алиса",
       "reason": "",
       "date": "13.11.2026, 16:10:33",
@@ -4435,5 +4448,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794919165901
+  "updatedAt": 1794919207042
 }
