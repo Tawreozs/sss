@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "перенос",
+      "reason": "",
+      "date": "17.11.2026, 18:27:02",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1794922030228-916",
+      "status": "active",
+      "updatedAt": 1794922030228
+    },
+    {
       "model": "Honor 10 lite",
       "reason": "экран в рамке",
       "date": "17.11.2026, 17:39:22",
@@ -4448,5 +4462,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1794922021995
+  "updatedAt": 1794922031910
 }
