@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "перенос",
-      "reason": "",
-      "date": "17.11.2026, 18:27:02",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 1500,
-      "partsCost": 0,
-      "id": "item-1794922030228-916",
-      "status": "active",
-      "updatedAt": 1794922030228
-    },
-    {
       "model": "Honor 10 lite",
       "reason": "экран в рамке",
       "date": "17.11.2026, 17:39:22",
@@ -167,6 +153,21 @@
       "updatedAt": 1779784904971
     },
     {
+      "model": "перенос",
+      "reason": "",
+      "date": "17.11.2026, 18:27:02",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1500,
+      "partsCost": 0,
+      "id": "item-1794922030228-916",
+      "status": "archived",
+      "updatedAt": 1794922032239,
+      "archivedDate": "17.11.2026, 18:27:12"
+    },
+    {
       "model": "разблокировка",
       "reason": "",
       "date": "17.11.2026, 16:54:12",
@@ -174,11 +175,11 @@
       "contact2": "",
       "name": "",
       "comment": "",
-      "price": 500,
+      "price": 600,
       "partsCost": 0,
       "id": "item-1794916469264-840",
       "status": "archived",
-      "updatedAt": 1794916470971,
+      "updatedAt": 1794922042178,
       "archivedDate": "17.11.2026, 16:54:30"
     },
     {
@@ -4462,5 +4463,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1794922031910
+  "updatedAt": 1794922043693
 }
