@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "разблокировка",
-      "reason": "",
-      "date": "17.11.2026, 16:54:12",
-      "contact": "",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 500,
-      "partsCost": 0,
-      "id": "item-1794916469264-840",
-      "status": "active",
-      "updatedAt": 1794916469264
-    },
-    {
       "model": "алиса",
       "reason": "",
       "date": "13.11.2026, 16:10:33",
@@ -152,6 +138,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "разблокировка",
+      "reason": "",
+      "date": "17.11.2026, 16:54:12",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 500,
+      "partsCost": 0,
+      "id": "item-1794916469264-840",
+      "status": "archived",
+      "updatedAt": 1794916470971,
+      "archivedDate": "17.11.2026, 16:54:30"
     },
     {
       "model": "Ноут Acer",
@@ -4434,5 +4435,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794387943697,
-  "updatedAt": 1794916470937
+  "updatedAt": 1794916520621
 }
