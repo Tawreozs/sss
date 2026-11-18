@@ -15,18 +15,6 @@
       "partsCost": 1470
     },
     {
-      "model": "алиса",
-      "reason": "",
-      "date": "13.11.2026, 16:10:33",
-      "contact": "89619297274",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1794568250256-511",
-      "status": "active",
-      "updatedAt": 1794568250256
-    },
-    {
       "model": "Poco C75",
       "reason": "не заряд",
       "date": "06.11.2026, 12:13:28",
@@ -185,6 +173,19 @@
       "status": "archived",
       "updatedAt": 1794571326254,
       "archivedDate": "13.11.2026, 17:02:06"
+    },
+    {
+      "model": "алиса",
+      "reason": "",
+      "date": "13.11.2026, 16:10:33",
+      "contact": "89619297274",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1794568250256-511",
+      "status": "archived",
+      "updatedAt": 1795006967565,
+      "archivedDate": "18.11.2026, 18:02:47"
     },
     {
       "model": "A155",
@@ -4467,5 +4468,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1795006948095
+  "updatedAt": 1795006969230
 }
