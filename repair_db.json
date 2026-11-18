@@ -50,7 +50,9 @@
       "comment": "",
       "id": "item-1793876973514-211",
       "status": "active",
-      "updatedAt": 1793877577276
+      "updatedAt": 1795000348199,
+      "price": 4000,
+      "partsCost": 2200
     },
     {
       "model": "S23 Ultra",
@@ -4464,5 +4466,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1795000347427
+  "updatedAt": 1795000350183
 }
