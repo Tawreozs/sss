@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Honor 10 lite",
-      "reason": "экран в рамке",
-      "date": "17.11.2026, 17:39:22",
-      "contact": "282355",
-      "contact2": "",
-      "name": "",
-      "comment": "оплачен",
-      "price": 3600,
-      "id": "item-1794919204782-646",
-      "status": "active",
-      "updatedAt": 1794998736264,
-      "partsCost": 1470
-    },
-    {
       "model": "Poco C75",
       "reason": "не заряд",
       "date": "06.11.2026, 12:13:28",
@@ -143,6 +129,21 @@
       "status": "archived",
       "updatedAt": 1794922032239,
       "archivedDate": "17.11.2026, 18:27:12"
+    },
+    {
+      "model": "Honor 10 lite",
+      "reason": "экран в рамке",
+      "date": "17.11.2026, 17:39:22",
+      "contact": "282355",
+      "contact2": "",
+      "name": "",
+      "comment": "оплачен",
+      "price": 3600,
+      "id": "item-1794919204782-646",
+      "status": "archived",
+      "updatedAt": 1795006975633,
+      "partsCost": 1470,
+      "archivedDate": "18.11.2026, 18:02:55"
     },
     {
       "model": "разблокировка",
@@ -4468,5 +4469,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1795006969230
+  "updatedAt": 1795006977323
 }
