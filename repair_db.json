@@ -8,10 +8,11 @@
       "contact2": "",
       "name": "",
       "comment": "оплачен",
-      "price": 3300,
+      "price": 3600,
       "id": "item-1794919204782-646",
       "status": "active",
-      "updatedAt": 1794919204782
+      "updatedAt": 1794998736264,
+      "partsCost": 1470
     },
     {
       "model": "алиса",
@@ -4463,5 +4464,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1794998724745
+  "updatedAt": 1794998737825
 }
