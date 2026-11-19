@@ -19,10 +19,10 @@
       "contact": "",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "id": "item-1793349404338-357",
       "status": "active",
-      "updatedAt": 1793349404338
+      "updatedAt": 1795080137479
     },
     {
       "model": "A115f",
@@ -4470,5 +4470,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1795080128689
+  "updatedAt": 1795080139142
 }
