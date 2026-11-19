@@ -39,20 +39,6 @@
       "partsCost": 3500
     },
     {
-      "model": "A03",
-      "reason": "ориг + стекло",
-      "date": "23.10.2026, 19:05:15",
-      "contact": "89068399513",
-      "contact2": "",
-      "name": "",
-      "comment": "0907",
-      "price": 3800,
-      "id": "item-1792764354610-555",
-      "status": "active",
-      "updatedAt": 1793009057195,
-      "partsCost": 920
-    },
-    {
       "model": "Honor x7a",
       "reason": "модуль",
       "date": "20.10.2026, 17:53:59",
@@ -759,6 +745,21 @@
       "updatedAt": 1793022854791,
       "partsCost": 4240,
       "archivedDate": "26.10.2026, 18:54:14"
+    },
+    {
+      "model": "A03",
+      "reason": "ориг + стекло",
+      "date": "23.10.2026, 19:05:15",
+      "contact": "89068399513",
+      "contact2": "",
+      "name": "",
+      "comment": "0907",
+      "price": 3800,
+      "id": "item-1792764354610-555",
+      "status": "archived",
+      "updatedAt": 1795080319478,
+      "partsCost": 920,
+      "archivedDate": "19.11.2026, 14:25:19"
     },
     {
       "model": "Nova 12i",
@@ -4472,5 +4473,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1795080316078
+  "updatedAt": 1795080321124
 }
