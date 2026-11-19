@@ -7,10 +7,10 @@
       "contact": "89228509864",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "id": "item-1793691956805-743",
       "status": "active",
-      "updatedAt": 1793691956805
+      "updatedAt": 1795080126304
     },
     {
       "model": "A155",
@@ -4470,5 +4470,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1795080098488
+  "updatedAt": 1795080128689
 }
