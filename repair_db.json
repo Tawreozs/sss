@@ -1,20 +1,6 @@
 {
   "items": [
     {
-      "model": "Poco C75",
-      "reason": "не заряд",
-      "date": "06.11.2026, 12:13:28",
-      "contact": "89867745407",
-      "contact2": "",
-      "name": "",
-      "comment": "разъём",
-      "id": "item-1793949267243-125",
-      "status": "active",
-      "updatedAt": 1794213668440,
-      "price": 2000,
-      "partsCost": 30
-    },
-    {
       "model": "S23 Ultra",
       "reason": "не вкл, разбитая крышка, на стекле трещина",
       "date": "03.11.2026, 12:44:49",
@@ -397,6 +383,21 @@
       "updatedAt": 1794303836758,
       "partsCost": 4070,
       "archivedDate": "10.11.2026, 14:43:56"
+    },
+    {
+      "model": "Poco C75",
+      "reason": "не заряд",
+      "date": "06.11.2026, 12:13:28",
+      "contact": "89867745407",
+      "contact2": "",
+      "name": "",
+      "comment": "разъём",
+      "id": "item-1793949267243-125",
+      "status": "archived",
+      "updatedAt": 1795080048917,
+      "price": 2000,
+      "partsCost": 30,
+      "archivedDate": "19.11.2026, 14:20:48"
     },
     {
       "model": "Pova 5",
@@ -4469,5 +4470,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1794919360223,
-  "updatedAt": 1795080035931
+  "updatedAt": 1795080050417
 }
