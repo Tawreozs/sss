@@ -26,20 +26,6 @@
       "updatedAt": 1795425114607
     },
     {
-      "model": "Hot 30i",
-      "reason": "акб",
-      "date": "23.11.2026, 13:25:54",
-      "contact": "89128446453",
-      "contact2": "",
-      "name": "",
-      "comment": "1000/2500 р.",
-      "id": "item-1795422379939-747",
-      "status": "active",
-      "updatedAt": 1795441728915,
-      "price": 2500,
-      "partsCost": 630
-    },
-    {
       "model": "nova 12s",
       "reason": "дисплей в рамке",
       "date": "23.11.2026, 12:24:45",
@@ -48,10 +34,10 @@
       "name": "",
       "comment": "",
       "price": 6000,
-      "partsCost": 3900,
+      "partsCost": 2990,
       "id": "item-1795418839757-755",
       "status": "active",
-      "updatedAt": 1795418839757
+      "updatedAt": 1795441745918
     },
     {
       "model": "S23 Ultra",
@@ -185,6 +171,21 @@
       "price": 1700,
       "partsCost": 200,
       "archivedDate": "23.11.2026, 16:27:22"
+    },
+    {
+      "model": "Hot 30i",
+      "reason": "акб",
+      "date": "23.11.2026, 13:25:54",
+      "contact": "89128446453",
+      "contact2": "",
+      "name": "",
+      "comment": "1000/2500 р.",
+      "id": "item-1795422379939-747",
+      "status": "archived",
+      "updatedAt": 1795441729755,
+      "price": 2500,
+      "partsCost": 630,
+      "archivedDate": "23.11.2026, 18:48:49"
     },
     {
       "model": "Pova 2",
@@ -4585,5 +4586,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795439972827,
-  "updatedAt": 1795441730471
+  "updatedAt": 1795441747587
 }
