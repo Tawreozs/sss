@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "помог",
+      "reason": "",
+      "date": "23.11.2026, 15:22:19",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 200,
+      "id": "item-1795429345171-788",
+      "status": "active",
+      "updatedAt": 1795429345171
+    },
+    {
       "model": "nova Y72",
       "reason": "дисплей в рамке",
       "date": "23.11.2026, 15:01:21",
@@ -4566,5 +4579,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795423534540,
-  "updatedAt": 1795429340677
+  "updatedAt": 1795429346774
 }
