@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Katana GF66 11SC",
+      "reason": "",
+      "date": "23.11.2026, 14:09:21",
+      "contact": "89010976063",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1795425114607-284",
+      "status": "active",
+      "updatedAt": 1795425114607
+    },
+    {
       "model": "Spark",
       "reason": "блокировка",
       "date": "23.11.2026, 13:42:13",
@@ -4541,5 +4553,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795423534540,
-  "updatedAt": 1795425100078
+  "updatedAt": 1795425116130
 }
