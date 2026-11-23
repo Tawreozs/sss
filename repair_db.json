@@ -26,20 +26,6 @@
       "updatedAt": 1795425114607
     },
     {
-      "model": "nova 12s",
-      "reason": "дисплей в рамке",
-      "date": "23.11.2026, 12:24:45",
-      "contact": "89867718486",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "price": 6000,
-      "partsCost": 2990,
-      "id": "item-1795418839757-755",
-      "status": "active",
-      "updatedAt": 1795441745918
-    },
-    {
       "model": "S23 Ultra",
       "reason": "не вкл, разбитая крышка, на стекле трещина",
       "date": "03.11.2026, 12:44:49",
@@ -201,6 +187,21 @@
       "status": "archived",
       "updatedAt": 1795421337975,
       "archivedDate": "23.11.2026, 13:08:57"
+    },
+    {
+      "model": "nova 12s",
+      "reason": "дисплей в рамке",
+      "date": "23.11.2026, 12:24:45",
+      "contact": "89867718486",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 6000,
+      "partsCost": 2990,
+      "id": "item-1795418839757-755",
+      "status": "archived",
+      "updatedAt": 1795449574159,
+      "archivedDate": "23.11.2026, 20:59:34"
     },
     {
       "model": "перенос",
@@ -4586,5 +4587,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795439972827,
-  "updatedAt": 1795449568190
+  "updatedAt": 1795449576949
 }
