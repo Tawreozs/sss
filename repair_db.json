@@ -26,20 +26,6 @@
       "updatedAt": 1795425114607
     },
     {
-      "model": "Spark Go 2",
-      "reason": "блокировка",
-      "date": "23.11.2026, 13:42:13",
-      "contact": "89225439023",
-      "contact2": "",
-      "name": "",
-      "comment": "",
-      "id": "item-1795423354067-677",
-      "status": "active",
-      "updatedAt": 1795432463148,
-      "price": 1700,
-      "partsCost": 200
-    },
-    {
       "model": "Hot 30i",
       "reason": "акб",
       "date": "23.11.2026, 13:25:54",
@@ -182,6 +168,21 @@
       "status": "archived",
       "updatedAt": 1795423573627,
       "archivedDate": "23.11.2026, 13:46:13"
+    },
+    {
+      "model": "Spark Go 2",
+      "reason": "блокировка",
+      "date": "23.11.2026, 13:42:13",
+      "contact": "89225439023",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1795423354067-677",
+      "status": "archived",
+      "updatedAt": 1795433242406,
+      "price": 1700,
+      "partsCost": 200,
+      "archivedDate": "23.11.2026, 16:27:22"
     },
     {
       "model": "Pova 2",
@@ -4582,5 +4583,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795423534540,
-  "updatedAt": 1795435560490
+  "updatedAt": 1795435595989
 }
