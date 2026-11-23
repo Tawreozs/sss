@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Spark",
+      "reason": "блокировка",
+      "date": "23.11.2026, 13:42:13",
+      "contact": "89225439023",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1795423354067-677",
+      "status": "active",
+      "updatedAt": 1795423354067
+    },
+    {
       "model": "Hot 30i",
       "reason": "акб",
       "date": "23.11.2026, 13:25:54",
@@ -4514,5 +4526,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795421346106,
-  "updatedAt": 1795423334475
+  "updatedAt": 1795423355556
 }
