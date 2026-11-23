@@ -26,7 +26,7 @@
       "updatedAt": 1795425114607
     },
     {
-      "model": "Spark",
+      "model": "Spark Go 2",
       "reason": "блокировка",
       "date": "23.11.2026, 13:42:13",
       "contact": "89225439023",
@@ -35,7 +35,9 @@
       "comment": "",
       "id": "item-1795423354067-677",
       "status": "active",
-      "updatedAt": 1795423354067
+      "updatedAt": 1795432463148,
+      "price": 1700,
+      "partsCost": 200
     },
     {
       "model": "Hot 30i",
@@ -4580,5 +4582,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795423534540,
-  "updatedAt": 1795432445356
+  "updatedAt": 1795432464887
 }
