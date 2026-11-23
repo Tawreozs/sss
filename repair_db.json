@@ -2,6 +2,20 @@
   "items": [
     {
       "model": "Spark",
+      "reason": "чистка + стекло",
+      "date": "23.11.2026, 13:45:51",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 1000,
+      "partsCost": 80,
+      "id": "item-1795423572117-9",
+      "status": "active",
+      "updatedAt": 1795423572117
+    },
+    {
+      "model": "Spark",
       "reason": "блокировка",
       "date": "23.11.2026, 13:42:13",
       "contact": "89225439023",
@@ -4526,5 +4540,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795423534540,
-  "updatedAt": 1795423551308
+  "updatedAt": 1795423573716
 }
