@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Pova 2",
+      "reason": "разъём",
+      "date": "23.11.2026, 13:08:39",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2000,
+      "partsCost": 30,
+      "id": "item-1795421336404-284",
+      "status": "active",
+      "updatedAt": 1795421336404
+    },
+    {
       "model": "nova 12s",
       "reason": "дисплей в рамке",
       "date": "23.11.2026, 12:24:45",
@@ -4487,5 +4501,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795183062843,
-  "updatedAt": 1795421320357
+  "updatedAt": 1795421338465
 }
