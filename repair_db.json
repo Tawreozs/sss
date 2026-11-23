@@ -1,6 +1,19 @@
 {
   "items": [
     {
+      "model": "nova Y72",
+      "reason": "дисплей в рамке",
+      "date": "23.11.2026, 15:01:21",
+      "contact": "89877765471",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 3500,
+      "id": "item-1795428111853-791",
+      "status": "active",
+      "updatedAt": 1795428111853
+    },
+    {
       "model": "Katana GF66 11SC",
       "reason": "",
       "date": "23.11.2026, 14:09:21",
@@ -4553,5 +4566,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795423534540,
-  "updatedAt": 1795428081292
+  "updatedAt": 1795428113523
 }
