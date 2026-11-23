@@ -35,7 +35,9 @@
       "comment": "1000/2500 р.",
       "id": "item-1795422379939-747",
       "status": "active",
-      "updatedAt": 1795422379939
+      "updatedAt": 1795441728915,
+      "price": 2500,
+      "partsCost": 630
     },
     {
       "model": "nova 12s",
@@ -4583,5 +4585,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795439972827,
-  "updatedAt": 1795441711368
+  "updatedAt": 1795441730471
 }
