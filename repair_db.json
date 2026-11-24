@@ -40,18 +40,6 @@
       "updatedAt": 1795428111853
     },
     {
-      "model": "Katana GF66 11SC",
-      "reason": "",
-      "date": "23.11.2026, 14:09:21",
-      "contact": "89010976063",
-      "contact2": "",
-      "name": "",
-      "comment": "без ремонта",
-      "id": "item-1795425114607-284",
-      "status": "active",
-      "updatedAt": 1795528150139
-    },
-    {
       "model": "S23 Ultra",
       "reason": "не вкл, разбитая крышка, на стекле трещина",
       "date": "03.11.2026, 12:44:49",
@@ -153,6 +141,19 @@
       "status": "archived",
       "updatedAt": 1795429346803,
       "archivedDate": "23.11.2026, 15:22:26"
+    },
+    {
+      "model": "Katana GF66 11SC",
+      "reason": "",
+      "date": "23.11.2026, 14:09:21",
+      "contact": "89010976063",
+      "contact2": "",
+      "name": "",
+      "comment": "без ремонта",
+      "id": "item-1795425114607-284",
+      "status": "archived",
+      "updatedAt": 1795528151643,
+      "archivedDate": "24.11.2026, 18:49:11"
     },
     {
       "model": "Spark",
@@ -4613,5 +4614,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795528151715
+  "updatedAt": 1795528160425
 }
