@@ -46,10 +46,10 @@
       "contact": "89010976063",
       "contact2": "",
       "name": "",
-      "comment": "",
+      "comment": "без ремонта",
       "id": "item-1795425114607-284",
       "status": "active",
-      "updatedAt": 1795425114607
+      "updatedAt": 1795528150139
     },
     {
       "model": "S23 Ultra",
@@ -4613,5 +4613,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795528132608
+  "updatedAt": 1795528151715
 }
