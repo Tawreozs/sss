@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Pad x8",
+      "reason": "дисплей",
+      "date": "25.11.2026, 17:31:19",
+      "contact": "",
+      "contact2": "",
+      "name": "Оксана",
+      "comment": "",
+      "price": 3000,
+      "partsCost": 1870,
+      "id": "item-1795609913031-857",
+      "status": "active",
+      "updatedAt": 1795609913031
+    },
+    {
       "model": "Note 60",
       "reason": "Дисплей ориг + стекло",
       "date": "24.11.2026, 18:23:22",
@@ -4614,5 +4628,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795609898324
+  "updatedAt": 1795609914396
 }
