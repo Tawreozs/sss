@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Redmi Note 8T",
+      "reason": "акб",
+      "date": "25.11.2026, 17:41:03",
+      "contact": "89877861149",
+      "contact2": "",
+      "name": "Егор",
+      "comment": "",
+      "id": "item-1795610489520-71",
+      "status": "active",
+      "updatedAt": 1795610489520
+    },
+    {
       "model": "Honor",
       "reason": "",
       "date": "25.11.2026, 17:38:02",
@@ -4641,5 +4653,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795610473593
+  "updatedAt": 1795610491073
 }
