@@ -13,16 +13,18 @@
       "updatedAt": 1795610489520
     },
     {
-      "model": "Honor",
-      "reason": "",
+      "model": "Nova 11i",
+      "reason": "модуль в рамке + стекло",
       "date": "25.11.2026, 17:38:02",
       "contact": "89878646559",
       "contact2": "",
       "name": "",
       "comment": "",
+      "price": 4000,
+      "partsCost": 1770,
       "id": "item-1795610456120-704",
       "status": "active",
-      "updatedAt": 1795610456120
+      "updatedAt": 1795611005237
     },
     {
       "model": "Note 60",
@@ -4653,5 +4655,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795611001685
+  "updatedAt": 1795611006849
 }
