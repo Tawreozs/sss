@@ -7,10 +7,12 @@
       "contact": "89877861149",
       "contact2": "",
       "name": "Егор",
-      "comment": "",
+      "comment": "1000 р. предоплата",
+      "price": 2500,
+      "partsCost": 740,
       "id": "item-1795610489520-71",
       "status": "active",
-      "updatedAt": 1795610489520
+      "updatedAt": 1795611073600
     },
     {
       "model": "Nova 11i",
@@ -4655,5 +4657,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795611072292
+  "updatedAt": 1795611074957
 }
