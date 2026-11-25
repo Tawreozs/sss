@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Honor",
+      "reason": "",
+      "date": "25.11.2026, 17:38:02",
+      "contact": "89878646559",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1795610456120-704",
+      "status": "active",
+      "updatedAt": 1795610456120
+    },
+    {
       "model": "Note 60",
       "reason": "Дисплей ориг + стекло",
       "date": "24.11.2026, 18:23:22",
@@ -4629,5 +4641,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795610451962
+  "updatedAt": 1795610457588
 }
