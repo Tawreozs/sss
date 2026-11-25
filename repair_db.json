@@ -8,11 +8,11 @@
       "contact2": "",
       "name": "Оксана",
       "comment": "",
-      "price": 3000,
-      "partsCost": 1870,
+      "price": 3900,
+      "partsCost": 2500,
       "id": "item-1795609913031-857",
       "status": "active",
-      "updatedAt": 1795609913031
+      "updatedAt": 1795609967280
     },
     {
       "model": "Note 60",
@@ -4628,5 +4628,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795609957060
+  "updatedAt": 1795609968861
 }
