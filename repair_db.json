@@ -13,20 +13,6 @@
       "updatedAt": 1795683639292
     },
     {
-      "model": "Redmi Note 8T",
-      "reason": "акб",
-      "date": "25.11.2026, 17:41:03",
-      "contact": "89877861149",
-      "contact2": "",
-      "name": "Егор",
-      "comment": "1000 р. предоплата",
-      "price": 2500,
-      "partsCost": 740,
-      "id": "item-1795610489520-71",
-      "status": "active",
-      "updatedAt": 1795611073600
-    },
-    {
       "model": "Nova 11i",
       "reason": "модуль в рамке + стекло",
       "date": "25.11.2026, 17:38:02",
@@ -167,6 +153,21 @@
       "price": 0,
       "partsCost": 0,
       "updatedAt": 1779784904971
+    },
+    {
+      "model": "Redmi Note 8T",
+      "reason": "акб",
+      "date": "25.11.2026, 17:41:03",
+      "contact": "89877861149",
+      "contact2": "",
+      "name": "Егор",
+      "comment": "1000 р. предоплата",
+      "price": 2500,
+      "partsCost": 740,
+      "id": "item-1795610489520-71",
+      "status": "archived",
+      "updatedAt": 1795686572332,
+      "archivedDate": "26.11.2026, 14:49:32"
     },
     {
       "model": "Pad x8",
@@ -4669,5 +4670,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795686473989
+  "updatedAt": 1795687292771
 }
