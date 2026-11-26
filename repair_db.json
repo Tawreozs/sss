@@ -1,6 +1,18 @@
 {
   "items": [
     {
+      "model": "Poco x3",
+      "reason": "не вкл",
+      "date": "26.11.2026, 14:00:17",
+      "contact": "89228360155",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "id": "item-1795683639292-163",
+      "status": "active",
+      "updatedAt": 1795683639292
+    },
+    {
       "model": "Redmi Note 8T",
       "reason": "акб",
       "date": "25.11.2026, 17:41:03",
@@ -4657,5 +4669,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795683836749
+  "updatedAt": 1795683979532
 }
