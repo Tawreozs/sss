@@ -1,6 +1,20 @@
 {
   "items": [
     {
+      "model": "Tekno + самсунг",
+      "reason": "разъём + чистка",
+      "date": "26.11.2026, 16:02:25",
+      "contact": "",
+      "contact2": "",
+      "name": "",
+      "comment": "",
+      "price": 2300,
+      "partsCost": 30,
+      "id": "item-1795690973655-808",
+      "status": "active",
+      "updatedAt": 1795690973655
+    },
+    {
       "model": "Poco x3",
       "reason": "не вкл",
       "date": "26.11.2026, 14:00:17",
@@ -4670,5 +4684,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795527013069,
-  "updatedAt": 1795690980473
+  "updatedAt": 1795691069193
 }
