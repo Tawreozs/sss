@@ -76,20 +76,6 @@
       "updatedAt": 1795080137479
     },
     {
-      "model": "A115f",
-      "reason": "вода",
-      "date": "27.10.2026, 17:18:39",
-      "contact": "+7 906 846-88-03",
-      "contact2": "+79619241012",
-      "name": "",
-      "comment": "дисплей + акб + ремонт платы",
-      "id": "item-1793103621197-502",
-      "status": "active",
-      "updatedAt": 1795080162331,
-      "price": 5500,
-      "partsCost": 3500
-    },
-    {
       "model": "Honor x7a",
       "reason": "модуль",
       "date": "20.10.2026, 17:53:59",
@@ -898,6 +884,21 @@
       "status": "archived",
       "updatedAt": 1793178076228,
       "archivedDate": "28.10.2026, 14:01:16"
+    },
+    {
+      "model": "A115f",
+      "reason": "вода",
+      "date": "27.10.2026, 17:18:39",
+      "contact": "+7 906 846-88-03",
+      "contact2": "+79619241012",
+      "name": "",
+      "comment": "дисплей + акб + ремонт платы",
+      "id": "item-1793103621197-502",
+      "status": "archived",
+      "updatedAt": 1795846800541,
+      "price": 5500,
+      "partsCost": 3500,
+      "archivedDate": "28.11.2026, 11:20:00"
     },
     {
       "model": "A32",
@@ -4686,5 +4687,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795773211204,
-  "updatedAt": 1795846762767
+  "updatedAt": 1795846801881
 }
