@@ -895,8 +895,8 @@
       "comment": "дисплей + акб + ремонт платы",
       "id": "item-1793103621197-502",
       "status": "archived",
-      "updatedAt": 1795846800541,
-      "price": 5500,
+      "updatedAt": 1795846876001,
+      "price": 6000,
       "partsCost": 3500,
       "archivedDate": "28.11.2026, 11:20:00"
     },
@@ -4687,5 +4687,5 @@
     "item-1793184689434-374"
   ],
   "partsUpdatedAt": 1795773211204,
-  "updatedAt": 1795846848027
+  "updatedAt": 1795846876756
 }
